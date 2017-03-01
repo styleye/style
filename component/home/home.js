@@ -16,9 +16,24 @@ angular.module("homeModule",['ui.router'])
 		return $http.get('json/5.json');
 	}
 }])
-.controller('HomeCtrl',['$scope','homeData',function($scope,homeData){
+.service('swipe',['$timeout',function($timeout){
+	this.swipe=function(){
+		$timeout(function(){
+			 mySwiper = new Swiper ('.swiper-container', {
+			    loop: true,
+			    autoplay:1000,
+			    autoplayDisableOnInteraction : false,
+			    paginationClickable :true,
+			    pagination: '.swiper-pagination',
+	 	 })
+		},50);
+
+	}
+}])
+.controller('HomeCtrl',['$scope','homeData','swipe',function($scope,homeData,swipe){
 	homeData.get().success(function(res){
 		$scope.arr = res.product;
 		console.log(res.product)
+		swipe.swipe();
 	})
 }])
