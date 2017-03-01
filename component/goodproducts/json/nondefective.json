@@ -1,0 +1,391 @@
+{
+    "data": {
+        "4604": {
+            "isEnd": true,
+            "list": [
+                {
+                    "startTime": 0,
+                    "title": "首页",
+                    "selected": "http://s18.mogucdn.com/p1/160414/upload_ie4tqobqmjqwiylfg4zdambqgqyde_40x40.png",
+                    "acm": "3.mce.1_10_19wsk.4604.0.3oWTQqcBbc6CS.m_231174",
+                    "link": "http://m.mogujie.com?mt=12.4604.r84325.4583&acm=3.mce.1_10_19wsk.4604.0.3oWTQqcBbc6CS.m_231174",
+                    "image": "http://s16.mogucdn.com/p1/160414/upload_ie4ggojymjqwiylfg4zdambqgiyde_40x40.png",
+                    "endTime": 0
+                },
+                {
+                    "startTime": 0,
+                    "selected": "http://s16.mogucdn.com/p1/160414/upload_ifqwmmrymfqwiylfg4zdambqgyyde_44x40.png",
+                    "title": "良品",
+                    "acm": "3.mce.1_10_19wsm.4604.0.3oWTQqcBbc6CT.m_231175",
+                    "link": "http://act.mogujie.com/moguselectionpindao?ismobile=1&mt=12.4604.r84326.4583&acm=3.mce.1_10_19wsm.4604.0.3oWTQqcBbc6CT.m_231175",
+                    "image": "http://s16.mogucdn.com/p1/160414/upload_ifqtkmjqmfqwiylfg4zdambqgyyde_44x40.png",
+                    "endTime": 0
+                },
+                {
+                    "startTime": 0,
+                    "title": "分类",
+                    "selected": "http://s16.mogucdn.com/p1/160414/upload_ifrgeyzxhfqwiylfg4zdambqmeyde_40x33.png",
+                    "acm": "3.mce.1_10_19wso.4604.0.3oWTQqcBbc6CU.m_231176",
+                    "link": "http://act.mogujie.com/cateyichi?ismobile=1&mt=12.4604.r84327.4583&acm=3.mce.1_10_19wso.4604.0.3oWTQqcBbc6CU.m_231176",
+                    "image": "http://s18.mogucdn.com/p1/160414/upload_ie4gmzrqmrqwiylfg4zdambqgiyde_40x33.png",
+                    "endTime": 0
+                },
+                {
+                    "startTime": 0,
+                    "selected": "http://s16.mogucdn.com/p1/160414/upload_ie4tazrymnqwiylfg4zdambqgqyde_38x42.png",
+                    "title": "我的",
+                    "acm": "3.mce.1_10_19wsq.4604.0.3oWTQqcBbc6CV.m_231177",
+                    "link": "http://h5.mogujie.com/mgj-personal/personal.html?mt=12.4604.r98160.4583&acm=3.mce.1_10_19wsq.4604.0.3oWTQqcBbc6CV.m_231177",
+                    "image": "http://s17.mogucdn.com/p1/160414/upload_ie4dsyrqmnqwiylfg4zdambqgiyde_38x42.png",
+                    "endTime": 0
+                }
+            ],
+            "nextPage": 1
+        },
+        "7286": {
+            "isEnd": true,
+            "list": [
+                {
+                    "startTime": 1486224000,
+                    "title": "蘑菇优选",
+                    "acm": "3.mce.1_10_1a5lm.7286.0.3oWTRqcBbexGr.m_236881_8249",
+                    "link": "http://act.mogujie.com/ythh/mgyxym?mt=12.7286.r236881.8249&acm=3.mce.1_10_1a5lm.7286.0.3oWTRqcBbexGr.m_236881_8249",
+                    "image": "http://s8.mogucdn.com/p2/170204/gz_57e4fag761kg7683ili9k698b45hg_320x419.jpg",
+                    "viceTitle": "",
+                    "titleColor": "",
+                    "endTime": 0,
+                    "effectETime": 0
+                },
+                {
+                    "startTime": 1486224000,
+                    "title": "居家焕新",
+                    "acm": "3.mce.1_10_1a5lo.7286.0.3oWTRqcBbexGs.m_236882_8249",
+                    "link": "http://act.mogujie.com/ythh/xnjjj?mt=12.7286.r236882.8249&acm=3.mce.1_10_1a5lo.7286.0.3oWTRqcBbexGs.m_236882_8249",
+                    "image": "http://s8.mogucdn.com/p2/170204/gz_32gabe30f842f4ba47l7616l98287_429x209.jpg",
+                    "viceTitle": "",
+                    "titleColor": "",
+                    "endTime": 0,
+                    "effectETime": 0
+                },
+                {
+                    "startTime": 1486224000,
+                    "title": "亲肤精选",
+                    "acm": "3.mce.1_10_1a5lq.7286.0.3oWTRqcBbexGt.m_236883_8249",
+                    "link": "http://act.mogujie.com/ythh/hwjx?mt=12.7286.r236883.8249&acm=3.mce.1_10_1a5lq.7286.0.3oWTRqcBbexGt.m_236883_8249",
+                    "image": "http://s6.mogucdn.com/p2/170204/gz_4dl0fg9h1ckh3l48l0f25k2ejj51c_429x210.jpg",
+                    "viceTitle": "",
+                    "titleColor": "",
+                    "endTime": 0,
+                    "effectETime": 0
+                }
+            ],
+            "nextPage": 1
+        },
+        "7290": {
+            "isEnd": true,
+            "list": [
+                {
+                    "w": 750,
+                    "title": "套装春上新",
+                    "acm": "3.mce.1_10_1aeus.7290.0.3oWTRqcBbexOu.m_242878",
+                    "link": "http://act.mogujie.com/springsuit0301?acm=3.mce.1_10_1aeus.7290.0.3oWTRqcBbexOu.m_242878",
+                    "image": "https://s2.mogucdn.com/p2/170228/131639333_4336b7ah7i6745j8b7d6d7g430770_750x360.jpg",
+                    "h": 360
+                },
+                {
+                    "w": 750,
+                    "title": "U质团",
+                    "acm": "3.mce.1_10_1acfs.7290.0.3oWTRqcBbexOv.m_241312",
+                    "link": "http://act.mogujie.com/tghduz4?acm=3.mce.1_10_1acfs.7290.0.3oWTRqcBbexOv.m_241312",
+                    "image": "http://s17.mogucdn.com/p2/170222/upload_1e53dk2g94kcfh9bjg148819ek9ca_750x360.png",
+                    "h": 360
+                },
+                {
+                    "w": 750,
+                    "title": "品牌特卖",
+                    "acm": "3.mce.1_10_1aese.7290.0.3oWTRqcBbexOw.m_242835",
+                    "link": "http://act.mogujie.com/sportstm3?acm=3.mce.1_10_1aese.7290.0.3oWTRqcBbexOw.m_242835",
+                    "image": "https://s10.mogucdn.com/p2/170227/72539503_23786cddl71e6dcd7d8l3k3kl687l_750x360.jpg",
+                    "h": 360
+                },
+                {
+                    "w": 750,
+                    "title": "蘑菇优选-光腿日记",
+                    "acm": "3.mce.1_10_1aeha.7290.0.3oWTRqcBbexOx.m_242635",
+                    "link": "http://act.mogujie.com/ythh/gtrj?acm=3.mce.1_10_1aeha.7290.0.3oWTRqcBbexOx.m_242635",
+                    "image": "https://s10.mogucdn.com/p2/170227/79945140_8dec11e15kb8b1j1iea6b312k1iee_750x360.jpg",
+                    "h": 360
+                },
+                {
+                    "w": 750,
+                    "title": "女鞋活动",
+                    "acm": "3.mce.1_10_1aeuy.7290.0.3oWTRqcBbexOy.m_242881",
+                    "link": "http://act.mogujie.com/shoelpvol02?acm=3.mce.1_10_1aeuy.7290.0.3oWTRqcBbexOy.m_242881",
+                    "image": "https://s10.mogucdn.com/p2/170228/119569192_4427hc1201g2f9l772bd0g0k82cgj_750x360.jpg",
+                    "h": 360
+                }
+            ],
+            "nextPage": 1
+        },
+        "8927": {
+            "isEnd": true,
+            "list": [
+                {
+                    "time": 6079,
+                    "moreLink": "http://act.mogujie.com/fsfw?ismobile=1",
+                    "title": "14点快抢",
+                    "viceTitle": "距结束",
+                    "list": [
+                        {
+                            "coverImg": "http://s2.mogucdn.com/p2/170228/88627692_2a5kcja52lkil22glaeecaja9k4fe_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "http://s2.mogucdn.com/p2/170226/upload_0hblkg233141362i68d3khf8i5hkj_640x640.jpg_320x999.jpg",
+                            "left": 20,
+                            "listUrl": "http://act.mogujie.com/fsfw?ismobile=1&topId=1f0k2&topType=2&eventTime=1488349121",
+                            "price": "138",
+                            "rushId": 350253,
+                            "salePrice": "49.00",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 80,
+                            "title": "唐嫣推荐珀薇补水面膜20片",
+                            "tradeItemId": 602553409,
+                            "transparentImg": "http://s2.mogucdn.com/p2/170226/upload_80033i7gbhlbael2f716e57ci028i_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "http://s2.mogucdn.com/p2/161208/154329908_5gd3100djgk2jckfb76aidjf3ggad_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "http://s18.mogucdn.com/p2/170227/upload_683g81lclla8g1f3g0i5agld3265j_640x640.jpg_320x999.jpg",
+                            "left": 30,
+                            "listUrl": "http://act.mogujie.com/fsfw?ismobile=1&topId=1f0ie&topType=2&eventTime=1488349121",
+                            "price": "300",
+                            "rushId": 350223,
+                            "salePrice": "75.00",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 50,
+                            "title": "蘭家韩国酵母护肤四件套",
+                            "tradeItemId": 242711518,
+                            "transparentImg": "http://s2.mogucdn.com/p2/170227/upload_5ahfjjj4l6d6k184leba7eh5g11kh_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "http://s2.mogucdn.com/p2/170115/154931177_1e10l2ka7j6e1f1b454kje1bc73gg_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "http://s2.mogucdn.com/p2/170227/upload_5071aj481ea9a7ic4ehka41j0ki15_640x640.jpg_320x999.jpg",
+                            "left": 76,
+                            "listUrl": "http://act.mogujie.com/fsfw?ismobile=1&topId=1f0lk&topType=2&eventTime=1488349121",
+                            "price": "158",
+                            "rushId": 350280,
+                            "salePrice": "49.00",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 100,
+                            "title": "一叶子酪梨水漾凝霜",
+                            "tradeItemId": 610449885,
+                            "transparentImg": "http://s11.mogucdn.com/p2/170227/upload_27jfk7i3g9hihef42c5d2a9adj881_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "http://s2.mogucdn.com/p2/161207/93539769_2i9ei9dfl8j5h5k959jih3d4a4cjc_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "http://s2.mogucdn.com/p2/170225/upload_4dai6kihi4k379ld1ebacbaec36l2_640x640.jpg_320x999.jpg",
+                            "left": 129,
+                            "listUrl": "http://act.mogujie.com/fsfw?ismobile=1&topId=1f0o4&topType=2&eventTime=1488349121",
+                            "price": "197",
+                            "rushId": 350326,
+                            "salePrice": "35.00",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 150,
+                            "title": "一笔秒变高鼻梁 小V脸",
+                            "tradeItemId": 606438386,
+                            "transparentImg": "http://s11.mogucdn.com/p2/170225/upload_134790cafh123a99ke49el2755665_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "http://s2.mogucdn.com/p2/161108/152214881_615i5i91ek8a9i87bdl12k60e7eh4_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "http://s2.mogucdn.com/p2/170226/upload_223failiibk9klg20e271cefhc8c5_640x640.jpg_320x999.jpg",
+                            "left": 49,
+                            "listUrl": "http://act.mogujie.com/fsfw?ismobile=1&topId=1f0pc&topType=2&eventTime=1488349121",
+                            "price": "129",
+                            "rushId": 350348,
+                            "salePrice": "38.00",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 100,
+                            "title": "深层清洁护肤导出导入仪",
+                            "tradeItemId": 602139389,
+                            "transparentImg": "http://s2.mogucdn.com/p2/170226/upload_6cjbi8l2k2i2e310a1eh986d3c056_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "http://s2.mogucdn.com/p2/170113/70097378_34191937l52cdb6ci3k0162k1be8k_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "http://s2.mogucdn.com/p2/170227/upload_4f0f81fg830bg7cf72a9h5bhacef0_640x640.jpg_320x999.jpg",
+                            "left": 71,
+                            "listUrl": "http://act.mogujie.com/fsfw?ismobile=1&topId=1f0oa&topType=2&eventTime=1488349121",
+                            "price": "146.6",
+                            "rushId": 350329,
+                            "salePrice": "45.90",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 120,
+                            "title": "买一送二 气垫BB口红套组",
+                            "tradeItemId": 609987127,
+                            "transparentImg": "http://s2.mogucdn.com/p2/170227/upload_47gfi0i2i151dgh1i0llfc343i2de_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "http://s2.mogucdn.com/p2/161228/16966578_6l2gi945fd1g3c699lk9fc3l8khhg_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "http://s2.mogucdn.com/p2/170222/upload_8afefl61lihd6j3d5j9f617lc5f7e_640x640.jpg_320x999.jpg",
+                            "left": 96,
+                            "listUrl": "http://act.mogujie.com/fsfw?ismobile=1&topId=1f0vc&topType=2&eventTime=1488349121",
+                            "price": "70.00",
+                            "rushId": 350456,
+                            "salePrice": "29.90",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 160,
+                            "title": "春季性感蕾丝文胸套装",
+                            "tradeItemId": 610169446,
+                            "transparentImg": "http://s2.mogucdn.com/p2/170222/upload_7klbkidlkjd49jj46713817k3hi7d_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "http://s2.mogucdn.com/p2/170228/70564612_1890kh56f9ck1cdebb4i49i4iab29_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "http://s2.mogucdn.com/p2/170223/upload_801leh0bb3gbhc58cbkc8c1g5ebbe_640x640.jpg_320x999.jpg",
+                            "left": 78,
+                            "listUrl": "http://act.mogujie.com/fsfw?ismobile=1&topId=1ezfs&topType=2&eventTime=1488349121",
+                            "price": "98.00",
+                            "rushId": 349528,
+                            "salePrice": "45.00",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 120,
+                            "title": "名媛方头金属环珍平底单鞋",
+                            "tradeItemId": 611105676,
+                            "transparentImg": "http://s2.mogucdn.com/p2/170223/upload_860h80kciji606hkf7kl2k0b4cccl_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "http://s2.mogucdn.com/p2/170131/72172073_7b14cc645l5e16a64a0j52j162f69_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "http://s2.mogucdn.com/p2/170223/upload_8fej2kgj26785hcaee3036gf0i5ce_640x640.jpg_320x999.jpg",
+                            "left": 139,
+                            "listUrl": "http://act.mogujie.com/fsfw?ismobile=1&topId=1ezfo&topType=2&eventTime=1488349121",
+                            "price": "98.00",
+                            "rushId": 349526,
+                            "salePrice": "39.90",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 210,
+                            "title": "潮！珍珠跟皮带扣单鞋",
+                            "tradeItemId": 610509729,
+                            "transparentImg": "http://s2.mogucdn.com/p2/170223/upload_66ca9k9e33bgk250iacjjkgi5hcdb_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "http://s2.mogucdn.com/p2/170209/119488251_212aah3dh5l3ac007k32ll9ldfb34_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "http://s2.mogucdn.com/p2/170224/upload_3hicib3a09707hf9cl73k3edf484g_640x640.jpg_320x999.jpg",
+                            "left": 65,
+                            "listUrl": "http://act.mogujie.com/fsfw?ismobile=1&topId=1f0wm&topType=2&eventTime=1488349121",
+                            "price": "90.00",
+                            "rushId": 350479,
+                            "salePrice": "38.00",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 90,
+                            "title": "儿童魔术贴低帮星星休闲鞋",
+                            "tradeItemId": 610657314,
+                            "transparentImg": "http://s2.mogucdn.com/p2/170224/upload_05bbid2haddkb66fbe7egj35cb1ac_240x240.png_240x240.v1cAC.png"
+                        }
+                    ],
+                    "moreTitle": "MORE"
+                }
+            ],
+            "nextPage": 1
+        },
+        "11295": {
+            "isEnd": true,
+            "list": [],
+            "nextPage": 1
+        },
+        "11303": {
+            "isEnd": true,
+            "list": [
+                {
+                    "startTime": 0,
+                    "title": "衣服",
+                    "sort": 5,
+                    "acm": "3.mce.1_10_154jq.11303.0.3oWTRqcBbexFj.m_119559_13926",
+                    "link": "http://act.mogujie.com/qualitycartsz?ismobile=1&mt=12.11303.r119559.13926&acm=3.mce.1_10_154jq.11303.0.3oWTRqcBbexFj.m_119559_13926",
+                    "image": "http://s18.mogucdn.com/p2/161112/upload_05ea9718ilj9f4g94f14b0facc3b9_120x120.jpg",
+                    "endTime": 0
+                },
+                {
+                    "startTime": 0,
+                    "title": "裙子",
+                    "sort": 6,
+                    "acm": "3.mce.1_10_152zi.11303.0.3oWTRqcBbexGk.m_118547_13926",
+                    "link": "http://act.mogujie.com/qualitycartqz?ismobile=1&mt=12.11303.r118547.13926&acm=3.mce.1_10_152zi.11303.0.3oWTRqcBbexGk.m_118547_13926",
+                    "image": "http://s17.mogucdn.com/p2/161112/upload_6i3lg5848c891j4463kjkkceeck08_120x120.jpg",
+                    "endTime": 0
+                },
+                {
+                    "startTime": 0,
+                    "title": "内衣",
+                    "sort": 8,
+                    "acm": "3.mce.1_10_1530a.11303.0.3oWTRqcBbexGl.m_118561_13926",
+                    "link": "http://act.mogujie.com/qualitybra?ismobile=1&mt=12.11303.r118561.13926&acm=3.mce.1_10_1530a.11303.0.3oWTRqcBbexGl.m_118561_13926",
+                    "image": "http://s16.mogucdn.com/p2/161112/upload_5eggej0hc0ifla0cg4k50iee48dl9_120x120.jpg",
+                    "endTime": 0
+                },
+                {
+                    "startTime": 0,
+                    "title": "女鞋",
+                    "sort": 9,
+                    "acm": "3.mce.1_10_1530c.11303.0.3oWTRqcBbexGm.m_118562_13926",
+                    "link": "http://act.mogujie.com/shoequality?ismobile=1&mt=12.11303.r118562.13926&acm=3.mce.1_10_1530c.11303.0.3oWTRqcBbexGm.m_118562_13926",
+                    "image": "http://s18.mogucdn.com/p2/161112/upload_21jbc57k7077chl8akcekkec3i5l5_120x120.jpg",
+                    "endTime": 0
+                },
+                {
+                    "startTime": 0,
+                    "title": "包配",
+                    "sort": 10,
+                    "acm": "3.mce.1_10_1530m.11303.0.3oWTRqcBbexGn.m_118567_13926",
+                    "link": "http://act.mogujie.com/qualitybag?ismobile=1&mt=12.11303.r118567.13926&acm=3.mce.1_10_1530m.11303.0.3oWTRqcBbexGn.m_118567_13926",
+                    "image": "http://s18.mogucdn.com/p2/161112/upload_4kia0a6a84jjkek7cf9jfj49b05l1_120x120.jpg",
+                    "endTime": 0
+                },
+                {
+                    "startTime": 0,
+                    "title": "男友",
+                    "sort": 11,
+                    "acm": "3.mce.1_10_1530u.11303.0.3oWTRqcBbexGo.m_118571_13926",
+                    "link": "http://act.mogujie.com/nanyoupinzhi?ismobile=1&mt=12.11303.r118571.13926&acm=3.mce.1_10_1530u.11303.0.3oWTRqcBbexGo.m_118571_13926",
+                    "image": "http://s16.mogucdn.com/p2/161112/upload_6fik3aac1lfahlfbcjbh28920cd7g_120x120.jpg",
+                    "endTime": 0
+                },
+                {
+                    "startTime": 0,
+                    "title": "运动",
+                    "sort": 12,
+                    "acm": "3.mce.1_10_1530y.11303.0.3oWTRqcBbexGp.m_118573_13926",
+                    "link": "http://act.mogujie.com/pinzhiyundonghuwai?ismobile=1&mt=12.11303.r118573.13926&acm=3.mce.1_10_1530y.11303.0.3oWTRqcBbexGp.m_118573_13926",
+                    "image": "http://s16.mogucdn.com/p2/161112/upload_5lgle10h49556caeeehaib81fblb9_120x120.jpg",
+                    "endTime": 0
+                },
+                {
+                    "startTime": 0,
+                    "title": "母婴",
+                    "sort": 16,
+                    "acm": "3.mce.1_10_15310.11303.0.3oWTRqcBbexGq.m_118574_13926",
+                    "link": "http://act.mogujie.com/lpym01?ismobile=1&mt=12.11303.r118574.13926&acm=3.mce.1_10_15310.11303.0.3oWTRqcBbexGq.m_118574_13926",
+                    "image": "http://s18.mogucdn.com/p2/161112/upload_4hl3g3bdalhh2j7c77g7ikl147dai_120x120.jpg",
+                    "endTime": 0
+                }
+            ],
+            "nextPage": 1
+        }
+    },
+    "returnCode": "SUCCESS",
+    "success": true
+}

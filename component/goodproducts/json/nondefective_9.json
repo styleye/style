@@ -1,0 +1,27 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": "success"
+    },
+    "result": {
+        "param": {
+            "ptpWallDoc": "_wall_docs",
+            "_mgjuuid": "3d9dc943-db06-4115-8cce-f7315aeb9c0e",
+            "sort": "pop",
+            "eventId": "0x00000000",
+            "page": "9",
+            "cKey": "h5-quality",
+            "fcid": "0",
+            "cpcEventId": "70005",
+            "ptpWallCpc": "_wall_cpc",
+            "ptpPartC": "_b_42075f0ad5f058ad",
+            "section": "0"
+        },
+        "wall": {
+            "title": "良品精选",
+            "isEnd": true,
+            "docs": []
+        }
+    },
+    "success": true
+}

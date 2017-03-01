@@ -26,7 +26,6 @@ angular.module("goodproductsModule",['ui.router'])
 			    pagination: '.swiper-pagination',
 	 	 })
 		},50);
-
 	}
 }])
 .controller('goodproductsCtrl',['$scope','goodproductsData','swipe',function($scope,goodproductsData,swipe){

@@ -1,0 +1,1350 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": "success"
+    },
+    "result": {
+        "param": {
+            "ptpWallDoc": "_wall_docs",
+            "_mgjuuid": "3d9dc943-db06-4115-8cce-f7315aeb9c0e",
+            "sort": "pop",
+            "eventId": "0x00000000",
+            "page": "6",
+            "cKey": "h5-quality",
+            "fcid": "0",
+            "cpcEventId": "70005",
+            "ptpWallCpc": "_wall_cpc",
+            "ptpPartC": "_b_42075f0ad5f058ad",
+            "section": "0"
+        },
+        "wall": {
+            "title": "良品精选",
+            "isEnd": false,
+            "docs": [
+                {
+                    "orgPrice": 140,
+                    "acm": "3.mce.1_4_1k29rce.7626.15938.knUbfqcBmQkY0.p_3_1-lc_201",
+                    "iid": "1k29rce",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k29rce?acm=3.mce.1_4_1k29rce.7626.15938.knUbfqcBmQkY0.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k29rce?acm=3.mce.1_4_1k29rce.7626.15938.knUbfqcBmQkY0.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/160914/8900440_0f3kljfe26k7cg46l5fja8lk3gec3_640x960.jpg",
+                    "itemMarks": "62 61",
+                    "type": 2,
+                    "sale": "81",
+                    "title": "明星同款韩版金属扣尖头平底一脚蹬单鞋秋季新款英伦复古显瘦女鞋",
+                    "cfav": "6703",
+                    "price": 98,
+                    "tradeItemId": "1k29rce",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "一脚蹬单鞋",
+                        "尖头",
+                        "平底",
+                        "英伦",
+                        "明星同款",
+                        "复古",
+                        "显瘦",
+                        "韩版",
+                        "秋季",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 196,
+                    "acm": "3.mce.1_4_1k1bty2.7626.15938.knUbfqcBmQkY1.p_3_1-lc_201",
+                    "iid": "1k1bty2",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k1bty2?acm=3.mce.1_4_1k1bty2.7626.15938.knUbfqcBmQkY1.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k1bty2?acm=3.mce.1_4_1k1bty2.7626.15938.knUbfqcBmQkY1.p_3_1-lc_201",
+                    "img": "http://s11.mogucdn.com/p2/160820/157542150_207l3kdi07bck05i923884ge825ih_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "0",
+                    "title": "蓝缇儿2016春夏时尚黑白竖条纹拼接睫毛蕾丝直筒衬衫",
+                    "cfav": "32",
+                    "price": 196,
+                    "tradeItemId": "1k1bty2",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "直筒衬衫",
+                        "竖条纹",
+                        "黑白",
+                        "拼接",
+                        "蕾丝",
+                        "时尚",
+                        "睫毛",
+                        "春夏"
+                    ]
+                },
+                {
+                    "orgPrice": 229,
+                    "acm": "3.mce.1_4_1k1bxoy.7626.15938.knUbfqcBmQkY2.p_3_1-lc_201",
+                    "iid": "1k1bxoy",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k1bxoy?acm=3.mce.1_4_1k1bxoy.7626.15938.knUbfqcBmQkY2.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k1bxoy?acm=3.mce.1_4_1k1bxoy.7626.15938.knUbfqcBmQkY2.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/160820/157542150_11h601933a325dc7gkdb843beic4f_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "0",
+                    "title": "蓝缇儿2016夏季新款蕾丝镂空修身显瘦连衣裙",
+                    "cfav": "46",
+                    "price": 229,
+                    "tradeItemId": "1k1bxoy",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "显瘦连衣裙",
+                        "蕾丝",
+                        "镂空",
+                        "修身"
+                    ]
+                },
+                {
+                    "orgPrice": 190,
+                    "acm": "3.mce.1_4_1k3b0r4.7626.15938.knUbfqcBmQkY3.p_3_1-lc_201",
+                    "iid": "1k3b0r4",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k3b0r4?acm=3.mce.1_4_1k3b0r4.7626.15938.knUbfqcBmQkY3.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k3b0r4?acm=3.mce.1_4_1k3b0r4.7626.15938.knUbfqcBmQkY3.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161008/109915495_7c1lib1k3i0ji8h0kh4b8g3eh7bb3_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "22",
+                    "title": "人本秋冬新品韩版加绒保暖雪地靴棉鞋皮质百搭休闲高帮厚底女鞋",
+                    "cfav": "151",
+                    "price": 95,
+                    "tradeItemId": "1k3b0r4",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "保暖雪地靴",
+                        "加绒",
+                        "高帮",
+                        "秋冬新品",
+                        "皮质",
+                        "百搭",
+                        "休闲",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 769,
+                    "acm": "3.mce.1_4_1k5mul6.7626.15938.knUbfqcBmQkY4.p_3_1-lc_201",
+                    "iid": "1k5mul6",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k5mul6?acm=3.mce.1_4_1k5mul6.7626.15938.knUbfqcBmQkY4.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k5mul6?acm=3.mce.1_4_1k5mul6.7626.15938.knUbfqcBmQkY4.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161127/156380320_4i352kkd6b4c2la79182i5fefe85j_640x960.jpg",
+                    "itemMarks": "2 116 93 95",
+                    "type": 2,
+                    "sale": "125",
+                    "title": "酷跑正品耐克NIKE AIR FORCE空军一号315115",
+                    "cfav": "808",
+                    "price": 453.71,
+                    "tradeItemId": "1k5mul6",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "耐克",
+                        "正品"
+                    ]
+                },
+                {
+                    "orgPrice": 180,
+                    "acm": "3.mce.1_4_1k2nv10.7626.15938.knUbfqcBmQkY5.p_3_1-lc_201",
+                    "iid": "1k2nv10",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k2nv10?acm=3.mce.1_4_1k2nv10.7626.15938.knUbfqcBmQkY5.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k2nv10?acm=3.mce.1_4_1k2nv10.7626.15938.knUbfqcBmQkY5.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/160926/156726985_65jk5c132li56f2ie0556ac3c2ig1_640x960.jpg",
+                    "itemMarks": "71 82 61",
+                    "type": 2,
+                    "sale": "201",
+                    "title": "2016秋冬新款英伦风平底马丁靴女真皮系带短靴女平跟骑士靴女",
+                    "cfav": "4511",
+                    "price": 142.2,
+                    "tradeItemId": "1k2nv10",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "骑士靴",
+                        "英伦风",
+                        "真皮",
+                        "秋冬新款"
+                    ]
+                },
+                {
+                    "orgPrice": 70,
+                    "acm": "3.mce.1_4_1k58swu.7626.15938.knUbfqcBmQkY6.p_3_1-lc_201",
+                    "iid": "1k58swu",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k58swu?acm=3.mce.1_4_1k58swu.7626.15938.knUbfqcBmQkY6.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k58swu?acm=3.mce.1_4_1k58swu.7626.15938.knUbfqcBmQkY6.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161116/143686274_459d50994dafab0j214efick420ld_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "82",
+                    "title": "【包邮4条装纯棉内裤】洁丽雅男士内裤平角裤中腰四角透气短裤",
+                    "cfav": "70",
+                    "price": 49,
+                    "tradeItemId": "1k58swu",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "平角裤",
+                        "四角",
+                        "中腰",
+                        "男士"
+                    ]
+                },
+                {
+                    "orgPrice": 57,
+                    "acm": "3.mce.1_4_1k4b92c.7626.15938.knUbfqcBmQkY7.p_3_1-lc_201",
+                    "iid": "1k4b92c",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k4b92c?acm=3.mce.1_4_1k4b92c.7626.15938.knUbfqcBmQkY7.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k4b92c?acm=3.mce.1_4_1k4b92c.7626.15938.knUbfqcBmQkY7.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161028/103885359_7lj8lghfe8kjl59aj27ehkd80f3j0_1000x1500.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "685",
+                    "title": "【买一送一】加绒显瘦打底袜防勾丝保暖瘦腿袜美腿塑形丝袜",
+                    "cfav": "554",
+                    "price": 39.9,
+                    "tradeItemId": "1k4b92c",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "显瘦打底袜",
+                        "防勾丝",
+                        "美腿",
+                        "塑形",
+                        "加绒"
+                    ]
+                },
+                {
+                    "orgPrice": 128,
+                    "acm": "3.mce.1_4_16oqejc.7626.15938.knUbfqcBmQkY8.p_3_1-lc_201",
+                    "iid": "16oqejc",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/16oqejc?acm=3.mce.1_4_16oqejc.7626.15938.knUbfqcBmQkY8.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/16oqejc?acm=3.mce.1_4_16oqejc.7626.15938.knUbfqcBmQkY8.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161114/87765120_6a1fehi658jkbe6k88lh11hkdcd2l_640x960.jpg",
+                    "itemMarks": "83 121 90",
+                    "type": 2,
+                    "sale": "2389",
+                    "title": "苏克斯时尚拉杆箱女 可爱万向轮行李箱旅行箱密码箱 买一送十",
+                    "cfav": "61344",
+                    "price": 89.6,
+                    "tradeItemId": "16oqejc",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "时尚拉杆箱",
+                        "可爱"
+                    ]
+                },
+                {
+                    "orgPrice": 189,
+                    "acm": "3.mce.1_4_1k61336.7626.15938.knUbfqcBmQkY9.p_3_1-lc_201",
+                    "iid": "1k61336",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k61336?acm=3.mce.1_4_1k61336.7626.15938.knUbfqcBmQkY9.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k61336?acm=3.mce.1_4_1k61336.7626.15938.knUbfqcBmQkY9.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161208/152373480_14a143e1b0d92l6k12ii4f01k0ca9_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "0",
+                    "title": "ASOBIO 秋季新款女装 时尚修身双排扣女式中长款外套",
+                    "cfav": "0",
+                    "price": 189,
+                    "tradeItemId": "1k61336",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "修身双排扣",
+                        "时尚",
+                        "女式",
+                        "秋季",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 25.8,
+                    "acm": "3.mce.1_4_1k2iine.7626.15938.knUbfqcBmQkYa.p_3_1-lc_201",
+                    "iid": "1k2iine",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k2iine?acm=3.mce.1_4_1k2iine.7626.15938.knUbfqcBmQkYa.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k2iine?acm=3.mce.1_4_1k2iine.7626.15938.knUbfqcBmQkYa.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/160920/155023077_0h4ae0e5ehgh84d2gi44jaa3lh108_640x960.jpg",
+                    "itemMarks": "145",
+                    "type": 2,
+                    "sale": "585",
+                    "title": "收纳总动员大号加厚塑料衣物收纳箱可叠加整理储物箱",
+                    "cfav": "1936",
+                    "price": 12.9,
+                    "tradeItemId": "1k2iine",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "衣物收纳箱",
+                        "可叠加",
+                        "收纳",
+                        "塑料",
+                        "大号",
+                        "加厚"
+                    ]
+                },
+                {
+                    "orgPrice": 35.72,
+                    "acm": "3.mce.1_4_180l0so.7626.15938.knUbfqcBmQkYb.p_3_1-lc_201",
+                    "iid": "180l0so",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/180l0so?acm=3.mce.1_4_180l0so.7626.15938.knUbfqcBmQkYb.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/180l0so?acm=3.mce.1_4_180l0so.7626.15938.knUbfqcBmQkYb.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p1/150928/1pumgf_ie2gcnlgmm3gkolfgmzdambqgiyde_1000x1500.jpg",
+                    "itemMarks": "82 72",
+                    "type": 2,
+                    "sale": "654",
+                    "title": "【五双盒装】中筒袜男韩版全棉纯棉条纹商务男士袜子秋冬季运动袜",
+                    "cfav": "1069",
+                    "price": 25,
+                    "tradeItemId": "180l0so",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "运动袜",
+                        "盒装",
+                        "全棉",
+                        "商务",
+                        "纯棉",
+                        "条纹",
+                        "秋冬季",
+                        "韩版",
+                        "男士",
+                        "五双盒装"
+                    ]
+                },
+                {
+                    "orgPrice": 128,
+                    "acm": "3.mce.1_4_1k31dvc.7626.15938.knUbfqcBmQkYc.p_3_1-lc_201",
+                    "iid": "1k31dvc",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k31dvc?acm=3.mce.1_4_1k31dvc.7626.15938.knUbfqcBmQkYc.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k31dvc?acm=3.mce.1_4_1k31dvc.7626.15938.knUbfqcBmQkYc.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161222/118963834_7cl8bd4a21d61fac0k6k66a95582c_640x960.jpg",
+                    "itemMarks": "82 128 79 72 121",
+                    "type": 2,
+                    "sale": "989",
+                    "title": "【摩蓓】加厚靴子男靴英伦男士短靴加绒雪地靴休闲高帮鞋秋冬男鞋",
+                    "cfav": "4864",
+                    "price": 76.8,
+                    "tradeItemId": "1k31dvc",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "男靴",
+                        "英伦",
+                        "加绒",
+                        "男士",
+                        "秋冬"
+                    ]
+                },
+                {
+                    "orgPrice": 142,
+                    "acm": "3.mce.1_4_1k2zb6q.7626.15938.knUbfqcBmQkYd.p_3_1-lc_201",
+                    "iid": "1k2zb6q",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k2zb6q?acm=3.mce.1_4_1k2zb6q.7626.15938.knUbfqcBmQkYd.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k2zb6q?acm=3.mce.1_4_1k2zb6q.7626.15938.knUbfqcBmQkYd.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/160930/89849881_74he3eieb5caa9kh94e57d4609dcf_640x960.jpg",
+                    "itemMarks": "82 79 61",
+                    "type": 2,
+                    "sale": "418",
+                    "title": "【JY】春季新品韩版高腰大摆打底百褶蓬蓬半身裙",
+                    "cfav": "4191",
+                    "price": 99.4,
+                    "tradeItemId": "1k2zb6q",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "蓬蓬半身裙",
+                        "高腰",
+                        "大摆",
+                        "春季",
+                        "打底",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 70,
+                    "acm": "3.mce.1_4_1k2wwym.7626.15938.knUbfqcBmQkYe.p_3_1-lc_201",
+                    "iid": "1k2wwym",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k2wwym?acm=3.mce.1_4_1k2wwym.7626.15938.knUbfqcBmQkYe.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k2wwym?acm=3.mce.1_4_1k2wwym.7626.15938.knUbfqcBmQkYe.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161104/156041911_4ieh9kb516b98hg36gfij86a5id8i_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "46",
+                    "title": "恋美珍珠爱心项链黑色颈链项圈日韩国s925银锁骨链女简约百搭",
+                    "cfav": "1344",
+                    "price": 49,
+                    "tradeItemId": "1k2wwym",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "颈链",
+                        "爱心",
+                        "简约",
+                        "黑色",
+                        "百搭"
+                    ]
+                },
+                {
+                    "orgPrice": 142,
+                    "acm": "3.mce.1_4_1k2z92g.7626.15938.knUbfqcBmQkYf.p_3_1-lc_201",
+                    "iid": "1k2z92g",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k2z92g?acm=3.mce.1_4_1k2z92g.7626.15938.knUbfqcBmQkYf.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k2z92g?acm=3.mce.1_4_1k2z92g.7626.15938.knUbfqcBmQkYf.p_3_1-lc_201",
+                    "img": "http://s18.mogucdn.com/p2/160930/89849881_61e95h7je89fhb83jb239gb5i394k_640x960.jpg",
+                    "itemMarks": "82 79 61",
+                    "type": 2,
+                    "sale": "195",
+                    "title": "【JY】春季新品V领长袖打底衫修身喇叭袖V领针织衫套头毛衣",
+                    "cfav": "3553",
+                    "price": 99.4,
+                    "tradeItemId": "1k2z92g",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "v领针织衫",
+                        "喇叭袖",
+                        "v领",
+                        "修身",
+                        "春季"
+                    ]
+                },
+                {
+                    "orgPrice": 55.72,
+                    "acm": "3.mce.1_4_18o8l7o.7626.15938.knUbfqcBmQkYg.p_3_1-lc_201",
+                    "iid": "18o8l7o",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/18o8l7o?acm=3.mce.1_4_18o8l7o.7626.15938.knUbfqcBmQkYg.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/18o8l7o?acm=3.mce.1_4_18o8l7o.7626.15938.knUbfqcBmQkYg.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p1/160706/36867812_ie4temzxmfstgnjzhezdambqgqyde_640x960.jpg",
+                    "itemMarks": "82",
+                    "type": 2,
+                    "sale": "4231",
+                    "title": "索尔诺布衣柜钢管加固加粗简易布艺衣柜大号防尘双人衣橱特价包邮",
+                    "cfav": "8311",
+                    "price": 39,
+                    "tradeItemId": "18o8l7o",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "布艺衣柜",
+                        "加固加粗",
+                        "简易",
+                        "防尘",
+                        "双人",
+                        "大号",
+                        "特价包邮"
+                    ]
+                },
+                {
+                    "orgPrice": 99,
+                    "acm": "3.mce.1_4_1k29z6s.7626.15938.knUbfqcBmQkYh.p_3_1-lc_201",
+                    "iid": "1k29z6s",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k29z6s?acm=3.mce.1_4_1k29z6s.7626.15938.knUbfqcBmQkYh.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k29z6s?acm=3.mce.1_4_1k29z6s.7626.15938.knUbfqcBmQkYh.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/160920/152373480_5bfc82al8k876cd84i338g63acj86_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "1",
+                    "title": "时尚百搭圆领纯色毛织套衫",
+                    "cfav": "9",
+                    "price": 99,
+                    "tradeItemId": "1k29z6s",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "套衫",
+                        "圆领纯色",
+                        "毛织",
+                        "百搭",
+                        "时尚"
+                    ]
+                },
+                {
+                    "orgPrice": 55,
+                    "acm": "3.mce.1_4_1k0rlm4.7626.15938.knUbfqcBmQkYi.p_3_1-lc_201",
+                    "iid": "1k0rlm4",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k0rlm4?acm=3.mce.1_4_1k0rlm4.7626.15938.knUbfqcBmQkYi.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k0rlm4?acm=3.mce.1_4_1k0rlm4.7626.15938.knUbfqcBmQkYi.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/160803/156041911_8fii755bfda1iic934a42gb3l38ij_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "63",
+                    "title": "恋美925纯银个性微笑女手链学生手环饰品日韩甜美简约韩版清新",
+                    "cfav": "939",
+                    "price": 38.5,
+                    "tradeItemId": "1k0rlm4",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "手链",
+                        "925纯银",
+                        "日韩",
+                        "清新",
+                        "甜美",
+                        "个性",
+                        "简约",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 359,
+                    "acm": "3.mce.1_4_1k5zxyw.7626.15938.knUbfqcBmQkYj.p_3_1-lc_201",
+                    "iid": "1k5zxyw",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k5zxyw?acm=3.mce.1_4_1k5zxyw.7626.15938.knUbfqcBmQkYj.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k5zxyw?acm=3.mce.1_4_1k5zxyw.7626.15938.knUbfqcBmQkYj.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161207/152373480_200ia99celi044e7e25j43l3khf5f_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "0",
+                    "title": "ASOBIO翱鸶 冬季女装 时尚毛领连帽中长款长袖棉服",
+                    "cfav": "3",
+                    "price": 359,
+                    "tradeItemId": "1k5zxyw",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "毛领连帽",
+                        "时尚"
+                    ]
+                },
+                {
+                    "orgPrice": 342,
+                    "acm": "3.mce.1_4_1k59tk2.7626.15938.knUbfqcBmQkYk.p_3_1-lc_201",
+                    "iid": "1k59tk2",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k59tk2?acm=3.mce.1_4_1k59tk2.7626.15938.knUbfqcBmQkYk.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k59tk2?acm=3.mce.1_4_1k59tk2.7626.15938.knUbfqcBmQkYk.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/170110/161067954_1g34ifc9jh26lka72kd1k3hgf7k35_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "3",
+                    "title": "THE PANG潮牌大码男装棉质打底衫胖子字母薄款长袖卫衣",
+                    "cfav": "11",
+                    "price": 157.32,
+                    "tradeItemId": "1k59tk2",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "长袖卫衣",
+                        "潮牌",
+                        "字母",
+                        "大码",
+                        "薄款"
+                    ]
+                },
+                {
+                    "orgPrice": 299,
+                    "acm": "3.mce.1_4_1k5zyy2.7626.15938.knUbfqcBmQkYl.p_3_1-lc_201",
+                    "iid": "1k5zyy2",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k5zyy2?acm=3.mce.1_4_1k5zyy2.7626.15938.knUbfqcBmQkYl.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k5zyy2?acm=3.mce.1_4_1k5zyy2.7626.15938.knUbfqcBmQkYl.p_3_1-lc_201",
+                    "img": "http://s11.mogucdn.com/p2/161207/152373480_5d496g78l96gg5b8c5c61b5hge4bb_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "0",
+                    "title": "ASOBIO 女装 保暖短款修身",
+                    "cfav": "7",
+                    "price": 299,
+                    "tradeItemId": "1k5zyy2",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "女装",
+                        "短款",
+                        "保暖",
+                        "修身"
+                    ]
+                },
+                {
+                    "orgPrice": 559,
+                    "acm": "3.mce.1_4_1jugbyo.7626.15938.knUbfqcBmQkYm.p_3_1-lc_201",
+                    "iid": "1jugbyo",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1jugbyo?acm=3.mce.1_4_1jugbyo.7626.15938.knUbfqcBmQkYm.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1jugbyo?acm=3.mce.1_4_1jugbyo.7626.15938.knUbfqcBmQkYm.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p1/160506/130504643_ifrteobqmrrgeyzvhazdimbqhayde_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "0",
+                    "title": "马克华菲女装2016年夏季新款波普复古印花七分裤裙女",
+                    "cfav": "41",
+                    "price": 559,
+                    "tradeItemId": "1jugbyo",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "印花七分裤",
+                        "复古"
+                    ]
+                },
+                {
+                    "orgPrice": 141.5,
+                    "acm": "3.mce.1_4_1k40nzi.7626.15938.knUbfqcBmQkYn.p_3_1-lc_201",
+                    "iid": "1k40nzi",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k40nzi?acm=3.mce.1_4_1k40nzi.7626.15938.knUbfqcBmQkYn.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k40nzi?acm=3.mce.1_4_1k40nzi.7626.15938.knUbfqcBmQkYn.p_3_1-lc_201",
+                    "img": "http://s11.mogucdn.com/p2/161021/153526840_2f8glh40d7k1ile1lbb20i567j9bb_800x1200.jpg",
+                    "itemMarks": "79 61",
+                    "type": 2,
+                    "sale": "233",
+                    "title": "凡兔男装2017冬季新款杂色毛衣圆领套头修身男士时尚针织衫",
+                    "cfav": "5089",
+                    "price": 99.05,
+                    "tradeItemId": "1k40nzi",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "时尚针织衫",
+                        "圆领套头",
+                        "修身",
+                        "男士",
+                        "冬季",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 113,
+                    "acm": "3.mce.1_4_1k4dfb0.7626.15938.knUbfqcBmQkYo.p_3_1-lc_201",
+                    "iid": "1k4dfb0",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k4dfb0?acm=3.mce.1_4_1k4dfb0.7626.15938.knUbfqcBmQkYo.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k4dfb0?acm=3.mce.1_4_1k4dfb0.7626.15938.knUbfqcBmQkYo.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161114/155175472_1dg210ea40a3d9f1c943ciadke05g_640x960.jpg",
+                    "itemMarks": "2 116 93 95 72 62",
+                    "type": 2,
+                    "sale": "413",
+                    "title": "玫瑰柏拉图无痕无钢圈舒适纯色一片式小胸胸罩聚拢调整型文胸套装",
+                    "cfav": "395",
+                    "price": 67.8,
+                    "tradeItemId": "1k4dfb0",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "聚拢调整型文胸",
+                        "无钢圈",
+                        "一片式",
+                        "无痕",
+                        "小胸",
+                        "舒适",
+                        "玫瑰",
+                        "纯色"
+                    ]
+                },
+                {
+                    "orgPrice": 214.2,
+                    "acm": "3.mce.1_4_1k1wp1q.7626.15938.knUbfqcBmQkYp.p_3_1-lc_201",
+                    "iid": "1k1wp1q",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k1wp1q?acm=3.mce.1_4_1k1wp1q.7626.15938.knUbfqcBmQkYp.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k1wp1q?acm=3.mce.1_4_1k1wp1q.7626.15938.knUbfqcBmQkYp.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/170208/2654_511hfh4a20lfha0c28ccfh32i35e4_640x960.jpg",
+                    "itemMarks": "128 79 121",
+                    "type": 2,
+                    "sale": "794",
+                    "title": "凡兔男装韩版2017春秋新款休闲棒球夹克男士修身两面穿外套",
+                    "cfav": "4136",
+                    "price": 149.94,
+                    "tradeItemId": "1k1wp1q",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "棒球夹克",
+                        "修身",
+                        "休闲",
+                        "男士",
+                        "春秋",
+                        "新款",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 157,
+                    "acm": "3.mce.1_4_1k5kfi6.7626.15938.knUbfqcBmQkYq.p_3_1-lc_201",
+                    "iid": "1k5kfi6",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k5kfi6?acm=3.mce.1_4_1k5kfi6.7626.15938.knUbfqcBmQkYq.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k5kfi6?acm=3.mce.1_4_1k5kfi6.7626.15938.knUbfqcBmQkYq.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/170210/108649799_7kcd049784jhaba6fd41h1fh7gj9b_640x960.jpg",
+                    "itemMarks": "72",
+                    "type": 2,
+                    "sale": "67",
+                    "title": "宾兽 秋冬新款二棉鞋英伦韩版中帮板鞋男士防水鞋纯休闲鞋男鞋子",
+                    "cfav": "89",
+                    "price": 109.9,
+                    "tradeItemId": "1k5kfi6",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "中帮板鞋",
+                        "英伦",
+                        "秋冬新款",
+                        "男士",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 256,
+                    "acm": "3.mce.1_4_1k0dh1m.7626.15938.knUbfqcBmQkYr.p_3_1-lc_201",
+                    "iid": "1k0dh1m",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k0dh1m?acm=3.mce.1_4_1k0dh1m.7626.15938.knUbfqcBmQkYr.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k0dh1m?acm=3.mce.1_4_1k0dh1m.7626.15938.knUbfqcBmQkYr.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p1/160728/152641118_ie4tczjrmfstonrqmezdambqgqyde_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "29",
+                    "title": "衣品天成 2016秋季新款衬衫 舒适纯棉立领男士长袖衬衫潮",
+                    "cfav": "282",
+                    "price": 128,
+                    "tradeItemId": "1k0dh1m",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "长袖衬衫",
+                        "立领",
+                        "纯棉",
+                        "舒适",
+                        "男士",
+                        "秋季"
+                    ]
+                },
+                {
+                    "orgPrice": 537,
+                    "acm": "3.mce.1_4_1k3lgzg.7626.15938.knUbfqcBmQkYs.p_3_1-lc_201",
+                    "iid": "1k3lgzg",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k3lgzg?acm=3.mce.1_4_1k3lgzg.7626.15938.knUbfqcBmQkYs.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k3lgzg?acm=3.mce.1_4_1k3lgzg.7626.15938.knUbfqcBmQkYs.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161014/97940836_6d75ehecelb0akgiid3k5bi3l28hk_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "0",
+                    "title": "GOOGIMS-2016秋季新款韩版灰色 数字印花连帽卫衣",
+                    "cfav": "2",
+                    "price": 537,
+                    "tradeItemId": "1k3lgzg",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "印花连帽卫衣",
+                        "数字",
+                        "灰色",
+                        "韩版",
+                        "秋季",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 198,
+                    "acm": "3.mce.1_4_1k2p7i8.7626.15938.knUbfqcBmQkYt.p_3_1-lc_201",
+                    "iid": "1k2p7i8",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k2p7i8?acm=3.mce.1_4_1k2p7i8.7626.15938.knUbfqcBmQkYt.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k2p7i8?acm=3.mce.1_4_1k2p7i8.7626.15938.knUbfqcBmQkYt.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/160924/109915495_85eg35l6a5j7g0k5ajlbe3igbec2a_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "11",
+                    "title": "人本秋冬新品韩版女鞋韩版系带厚底学生小白鞋简约休闲运动鞋",
+                    "cfav": "325",
+                    "price": 99,
+                    "tradeItemId": "1k2p7i8",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "休闲运动鞋",
+                        "厚底",
+                        "系带",
+                        "秋冬新品",
+                        "简约",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 70,
+                    "acm": "3.mce.1_4_18pa4te.7626.15938.knUbfqcBmQkYu.p_3_1-lc_201",
+                    "iid": "18pa4te",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/18pa4te?acm=3.mce.1_4_18pa4te.7626.15938.knUbfqcBmQkYu.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/18pa4te?acm=3.mce.1_4_18pa4te.7626.15938.knUbfqcBmQkYu.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p1/160407/141027645_ifqteyjzmi2tcnddg4zdambqgyyde_640x960.jpg",
+                    "itemMarks": "72",
+                    "type": 2,
+                    "sale": "52",
+                    "title": "都市丽人少女内裤女士低腰棉质蕾丝性感三角裤090890",
+                    "cfav": "184",
+                    "price": 49,
+                    "tradeItemId": "18pa4te",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "少女内裤",
+                        "低腰",
+                        "棉质",
+                        "蕾丝",
+                        "女士"
+                    ]
+                },
+                {
+                    "orgPrice": 190,
+                    "acm": "3.mce.1_4_1k13d2s.7626.15938.knUbfqcBmQkYv.p_3_1-lc_201",
+                    "iid": "1k13d2s",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k13d2s?acm=3.mce.1_4_1k13d2s.7626.15938.knUbfqcBmQkYv.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k13d2s?acm=3.mce.1_4_1k13d2s.7626.15938.knUbfqcBmQkYv.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161230/109915495_08gc94klcja654eg6b04062l3a2ei_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "28",
+                    "title": "人本2017春季女鞋韩版简约小皮鞋系带平底单鞋百搭英伦休闲鞋",
+                    "cfav": "608",
+                    "price": 95,
+                    "tradeItemId": "1k13d2s",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "平底单鞋",
+                        "系带",
+                        "百搭",
+                        "简约",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 99,
+                    "acm": "3.mce.1_4_1k0yko6.7626.15938.knUbfqcBmQkYw.p_3_1-lc_201",
+                    "iid": "1k0yko6",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k0yko6?acm=3.mce.1_4_1k0yko6.7626.15938.knUbfqcBmQkYw.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k0yko6?acm=3.mce.1_4_1k0yko6.7626.15938.knUbfqcBmQkYw.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/160808/152373480_4lc10hh2h70113gj0b780f7f63kke_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "0",
+                    "title": "时尚百搭纯棉长袖牛仔衬衫",
+                    "cfav": "11",
+                    "price": 99,
+                    "tradeItemId": "1k0yko6",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "长袖牛仔衬衫",
+                        "纯棉",
+                        "百搭",
+                        "时尚"
+                    ]
+                },
+                {
+                    "orgPrice": 229,
+                    "acm": "3.mce.1_4_1k19l7g.7626.15938.knUbfqcBmQkYx.p_3_1-lc_201",
+                    "iid": "1k19l7g",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k19l7g?acm=3.mce.1_4_1k19l7g.7626.15938.knUbfqcBmQkYx.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k19l7g?acm=3.mce.1_4_1k19l7g.7626.15938.knUbfqcBmQkYx.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/160818/157542150_192lac6k80295h3327iak2464kkbb_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "2",
+                    "title": "蓝缇儿新款韩版连衣裙",
+                    "cfav": "44",
+                    "price": 229,
+                    "tradeItemId": "1k19l7g",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "韩版连衣裙",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 150,
+                    "acm": "3.mce.1_4_1k3s7zk.7626.15938.knUbfqcBmQkYy.p_3_1-lc_201",
+                    "iid": "1k3s7zk",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k3s7zk?acm=3.mce.1_4_1k3s7zk.7626.15938.knUbfqcBmQkYy.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k3s7zk?acm=3.mce.1_4_1k3s7zk.7626.15938.knUbfqcBmQkYy.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161017/109915495_7dh11a3cj1820543gfblag6jhk42h_640x960.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "13",
+                    "title": "人本秋冬新品韩版百搭加绒雪地靴中筒长绒女棉鞋平底简约冬靴",
+                    "cfav": "172",
+                    "price": 75,
+                    "tradeItemId": "1k3s7zk",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "雪地靴",
+                        "平底",
+                        "加绒",
+                        "秋冬新品",
+                        "百搭",
+                        "简约",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 98.58,
+                    "acm": "3.mce.1_4_1k3fgrw.7626.15938.knUbfqcBmQkYz.p_3_1-lc_201",
+                    "iid": "1k3fgrw",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k3fgrw?acm=3.mce.1_4_1k3fgrw.7626.15938.knUbfqcBmQkYz.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k3fgrw?acm=3.mce.1_4_1k3fgrw.7626.15938.knUbfqcBmQkYz.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161011/157429526_3ij5301g2cd57eab77k86b7ij7ld7_640x960.jpg",
+                    "itemMarks": "72",
+                    "type": 2,
+                    "sale": "148",
+                    "title": "秋冬新款加绒马丁靴女靴子短靴女鞋高帮棉鞋厚底平底英伦风棉靴",
+                    "cfav": "1898",
+                    "price": 69,
+                    "tradeItemId": "1k3fgrw",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "马丁靴",
+                        "英伦风",
+                        "厚底",
+                        "平底",
+                        "加绒",
+                        "秋冬新款"
+                    ]
+                },
+                {
+                    "orgPrice": 38.29,
+                    "acm": "3.mce.1_4_1k42ets.7626.15938.knUbfqcBmQkYA.p_3_1-lc_201",
+                    "iid": "1k42ets",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k42ets?acm=3.mce.1_4_1k42ets.7626.15938.knUbfqcBmQkYA.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k42ets?acm=3.mce.1_4_1k42ets.7626.15938.knUbfqcBmQkYA.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161022/103885359_299094c4jk43c169h5d11j65chf8a_800x1200.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "1619",
+                    "title": "【三双盒装】堆堆袜女中筒袜韩国学生袜春夏季纯棉袜卷边女士袜子",
+                    "cfav": "5341",
+                    "price": 26.8,
+                    "tradeItemId": "1k42ets",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "堆堆袜",
+                        "盒装",
+                        "卷边",
+                        "女士",
+                        "三双盒装"
+                    ]
+                },
+                {
+                    "orgPrice": 199,
+                    "acm": "3.mce.1_4_1k1wulo.7626.15938.knUbfqcBmQkYB.p_3_1-lc_201",
+                    "iid": "1k1wulo",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k1wulo?acm=3.mce.1_4_1k1wulo.7626.15938.knUbfqcBmQkYB.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k1wulo?acm=3.mce.1_4_1k1wulo.7626.15938.knUbfqcBmQkYB.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/160905/134126839_1d39bl3087i11f04eic8d7l5l048g_640x960.jpg",
+                    "itemMarks": "90",
+                    "type": 2,
+                    "sale": "12",
+                    "title": "美特斯邦威毛呢外套女士2016秋冬装新款满身绣花茧型呢子大衣",
+                    "cfav": "627",
+                    "price": 199,
+                    "tradeItemId": "1k1wulo",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "呢子大衣",
+                        "茧型",
+                        "绣花",
+                        "女士",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 36.86,
+                    "acm": "3.mce.1_4_1k3vrg2.7626.15938.knUbfqcBmQkYC.p_3_1-lc_201",
+                    "iid": "1k3vrg2",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k3vrg2?acm=3.mce.1_4_1k3vrg2.7626.15938.knUbfqcBmQkYC.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k3vrg2?acm=3.mce.1_4_1k3vrg2.7626.15938.knUbfqcBmQkYC.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/161019/103885359_534bdec9ic494d1kc79ied06i0l2d_1000x1500.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "400",
+                    "title": "【五双盒装】袜子男秋冬羊毛袜中筒袜 保暖加厚男袜复古棉袜学生",
+                    "cfav": "121",
+                    "price": 25.8,
+                    "tradeItemId": "1k3vrg2",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "加厚男袜",
+                        "盒装",
+                        "保暖",
+                        "复古",
+                        "秋冬",
+                        "五双盒装"
+                    ]
+                },
+                {
+                    "orgPrice": 159.8,
+                    "acm": "3.mce.1_4_1k0yg6q.7626.15938.knUbfqcBmQkYD.p_3_1-lc_201",
+                    "iid": "1k0yg6q",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k0yg6q?acm=3.mce.1_4_1k0yg6q.7626.15938.knUbfqcBmQkYD.p_3_1-lc_201",
+                    "link": "http://m.mogujie.com/x6/detail/1k0yg6q?acm=3.mce.1_4_1k0yg6q.7626.15938.knUbfqcBmQkYD.p_3_1-lc_201",
+                    "img": "http://s2.mogucdn.com/p2/160826/99708695_661ekdbj7bl550gckfd381272d9be_1000x1500.jpg",
+                    "itemMarks": "-1",
+                    "type": 2,
+                    "sale": "910",
+                    "title": "【买一送一】家世比 简易衣柜 大容量收纳折叠组装衣橱组合",
+                    "cfav": "4602",
+                    "price": 79.9,
+                    "tradeItemId": "1k0yg6q",
+                    "ptpC": "_b_42075f0ad5f058ad",
+                    "lefttop_taglist": [],
+                    "tagImage": "",
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "简易衣柜",
+                        "折叠",
+                        "收纳",
+                        "组合",
+                        "大容量"
+                    ]
+                }
+            ]
+        }
+    },
+    "success": true
+}
