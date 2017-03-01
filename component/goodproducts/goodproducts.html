@@ -1,0 +1,113 @@
+<div id="good_products">
+	<!--轮播图-->
+	<div class="swiper-container">
+		<div class="swiper-wrapper">
+			<div class="swiper-slide" ng-repeat="obj in swipeData">
+				<img src="{{obj.image}}">
+			</div>
+		</div>
+		<div class="swiper-pagination"></div>
+	</div>
+	
+	<!--限时抢购模块-->
+	<div class="limited_purchase" ng-repeat="obj in limitedData">
+		<div class="limited_title">
+			<div class="left_part">
+				<p class="time_title">
+					{{obj.title}}
+					<span class="dot"></span>
+					{{obj.viceTitle}}
+				</p>
+				<p class="time_show">
+					<span class="hr count_num">01</span>
+					:
+					<span class="min count_num">01</span>
+					:
+					<span class="sec count_num">11</span>
+				</p>
+			</div>
+			<a class="more" href="{{obj.moreLink}}"><img src="http://s16.mogucdn.com/p1/160719/upload_ifrwkntcmi4diolehezdambqhayde_84x20.png"></a>
+		</div>
+		<!--限时抢购商品列表-->
+		<div class="good_limited_wrap">
+			<ul class="good_limited_contain clear_f">
+				<li ng-repeat="obj1 in obj.list">
+					<a href="{{obj1.listUrl}}">
+						<img src="{{obj1.img}}"/>
+						<p class="good_intro_info">{{obj1.title}}</p>
+						<p class="good_intro_price"><span>¥</span>{{obj1.salePrice}}</p>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	
+	<!--蘑菇优选,居家换新模块-->
+	<div class="good_introduce clear_f">
+		<div class="good_intro_left">
+			<a href="{{good_introduceData[0].link}}">
+				<h3>{{good_introduceData[0].title}}</h3>
+				<img src="{{good_introduceData[0].image}}"/>
+			</a>
+		</div>
+		<div class="good_intro_right">
+			<div class="part_top">
+				<a href="{{good_introduceData[1].link}}">
+					<h3>{{good_introduceData[1].title}}</h3>
+					<img src="{{good_introduceData[1].image}}"/>
+				</a>
+			</div>
+			<div class="part_bottom">
+				<a href="{{good_introduceData[2].link}}">
+					<h3>{{good_introduceData[2].title}}</h3>
+					<img src="{{good_introduceData[2].image}}"/>
+				</a>
+			</div>
+		</div>
+	</div>
+	
+	<!--无敌分割线-->
+	<div class="good_divide_line"></div>
+	
+	<!--良品推荐模块-->
+	<div class="lp_goods">
+		<h3>良品推荐</h3>
+		<ul class="good_keys_list clear_f">
+			<li ng-repeat="obj in lp_goodsData">
+				<a href="{{obj.link}}">
+					<img src="{{obj.image}}" alt="" />
+					<p>{{obj.title}}</p>
+				</a>
+			</li>
+		</ul>
+	</div>
+	
+	<!--良品精选-->
+	<div class="good_detail_wrap">
+		<!--良品精选标题-->
+		<div class="good_detail_title">
+		    <div class="floor_title">
+		        <div class="title_bg">
+		           	 良品精选
+		        </div>
+		    </div>
+		</div>
+		<!--良品精选内容-->
+		<!--<div class="good_detail">
+			<a href="" ng-repeat=""></a>
+		</div>-->
+	</div>
+	
+	
+	
+	
+	<!--页脚留白-->
+	<div class="bottom-placeholder" id="bottomPlaceholder"></div>
+	
+	
+	
+</div>
+	
+	
+	
+	
