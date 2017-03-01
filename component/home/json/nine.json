@@ -1,0 +1,29 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": "success"
+    },
+    "result": {
+        "param": {
+            "ptpWallDoc": "_wall_docs",
+            "_mgjuuid": "dfc73e02-a812-413e-b98b-40c2267822b3",
+            "sort": "pop",
+            "eventId": "0x00000000",
+            "page": "9",
+            "cKey": "h5-shopping",
+            "fcid": "0",
+            "cpcEventId": "70005",
+            "ptpWallCpc": "_wall_cpc",
+            "ptpPartC": "_b_26ffc16ca957b698",
+            "section": "0"
+        },
+        "wall": {
+            "title": "猜你喜欢",
+            "isEnd": true,
+            "docs": [
+                
+            ]
+        }
+    },
+    "success": true
+}
