@@ -1,0 +1,1775 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": "success"
+    },
+    "result": {
+        "sortFilter": [
+            {
+                "sortKey": "pop",
+                "title": "综合"
+            },
+            {
+                "sortKey": "sell",
+                "title": "销量"
+            },
+            {
+                "sortKey": "new",
+                "title": "新品"
+            }
+        ],
+        "hotCates": [
+            {
+                "title": "热卖精选",
+                "acm": "3.mce.1_10_19nmc.25988.0.dCvzhqcCAmNdt.m_225230",
+                "link": "http://m.mogujie.com/x6/wall/book/clothing?fcid=52505&title=%E7%83%AD%E5%8D%96%E7%B2%BE%E9%80%89%E5%A5%97%E8%A3%85&mt=12.25988.r209114.28217&acm=3.mce.1_10_19nmc.25988.0.dCvzhqcCAmNdt.m_225230",
+                "img": "http://s6.mogucdn.com/p2/161111/g9_22h57h367399l5d365k3ijchhl0gf_270x150.png"
+            },
+            {
+                "title": "美裙套装",
+                "acm": "3.mce.1_10_19nme.25988.0.dCvzhqcCAmNdu.m_225231",
+                "link": "http://m.mogujie.com/x6/wall/book/clothing?fcid=52495&title=%E7%BE%8E%E8%A3%99%E5%A5%97%E8%A3%85&mt=12.25988.r209115.28217&acm=3.mce.1_10_19nme.25988.0.dCvzhqcCAmNdu.m_225231",
+                "img": "http://s8.mogucdn.com/p2/161111/g9_76ffhikgbbfj20fa0hclibeg4l4kb_270x150.png"
+            },
+            {
+                "title": "毛衣套装",
+                "acm": "3.mce.1_10_19nmg.25988.0.dCvzhqcCAmNdv.m_225232",
+                "link": "http://m.mogujie.com/x6/wall/book/clothing?fcid=10059760&title=%E6%AF%9B%E8%A1%A3%E5%A5%97%E8%A3%85&mt=12.25988.r209116.28217&acm=3.mce.1_10_19nmg.25988.0.dCvzhqcCAmNdv.m_225232",
+                "img": "http://s7.mogucdn.com/p2/161111/g9_0i62135kgha24945khf9dhfl0fda5_270x150.png"
+            },
+            {
+                "title": "外套穿搭",
+                "acm": "3.mce.1_10_19nmi.25988.0.dCvzhqcCAmNdw.m_225233",
+                "link": "http://m.mogujie.com/x6/wall/book/clothing?fcid=10060759&title=%E5%A4%96%E5%A5%97%E7%A9%BF%E6%90%AD&mt=12.25988.r209117.28217&acm=3.mce.1_10_19nmi.25988.0.dCvzhqcCAmNdw.m_225233",
+                "img": "http://s10.mogucdn.com/p2/161111/g9_856h379eedg7j4jbilfdi96dl9ba3_270x150.png"
+            }
+        ],
+        "param": {
+            "_mgjuuid": "c0fcc93d-050a-43e8-9be6-ee203bc7616d",
+            "sort": "pop",
+            "ptpWallCpc": "_wall_cpc",
+            "section": "0",
+            "ptpWallDoc": "_wall_docs",
+            "eventId": "0x00000000",
+            "cKey": "h5-wall-v1",
+            "page": "1",
+            "action": "clothing",
+            "fcid": "50243",
+            "ad": "0",
+            "cpcEventId": "70005",
+            "ptpPartC": "_b_51bd13072bef1ad9"
+        },
+        "priceFilter": [
+            {
+                "min": "70",
+                "max": "87",
+                "percent": "27"
+            },
+            {
+                "min": "87",
+                "max": "100",
+                "percent": "18"
+            },
+            {
+                "min": "100",
+                "max": "299",
+                "percent": "10"
+            }
+        ],
+        "book": "eyJoZWlnaHQiOjQ0MCwic29ydCI6InBvcCIsInBhZ2UiOjEsImNLZXkiOiJoNS13YWxsLXYxIiwid2lkdGgiOjMzMCwiYWN0aW9uIjoiY2xvdGhpbmciLCJmY2lkIjo1MDI0MywiYWQiOiIwIn0=",
+        "wall": {
+            "title": "买手精选",
+            "isEnd": false,
+            "docs": [
+                {
+                    "orgPrice": 330.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k1k3l2&acm=3.ms.1_4_1k1k3l2.0.1651-22922.i6fb8qcCAqPqD.t_0",
+                    "acm": "3.ms.1_4_1k1k3l2.0.1651-22922.i6fb8qcCAqPqD.t_0",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k1k3l2?acm=3.ms.1_4_1k1k3l2.0.1651-22922.i6fb8qcCAqPqD.t_0",
+                    "link": "http://m.mogujie.com/x6/detail/1k1k3l2?acm=3.ms.1_4_1k1k3l2.0.1651-22922.i6fb8qcCAqPqD.t_0",
+                    "img": "http://s2.mogucdn.com/p2/160826/132308926_0j8ce1bg1hgl482lb60ckkd61514c_1000x1500.jpg",
+                    "itemMarks": "79 148 90",
+                    "shopSeller": "自由呼吸旗舰店",
+                    "discount": 10.0,
+                    "title": "自由呼吸2016秋季运动套装女长袖长裤韩版三件套运动服卫衣",
+                    "cfav": 1554,
+                    "price": 198.0,
+                    "originalPrice": 330.0,
+                    "tradeItemId": "1k1k3l2",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "三件套运动服",
+                        "长袖",
+                        "秋季",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 427.14,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k2ob2u&acm=3.ms.1_4_1k2ob2u.0.1651-22922.i6fb8qcCAqPqD.t_0",
+                    "acm": "3.ms.1_4_1k2ob2u.0.1651-22922.i6fb8qcCAqPqD.t_0",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k2ob2u?acm=3.ms.1_4_1k2ob2u.0.1651-22922.i6fb8qcCAqPqD.t_0",
+                    "link": "http://m.mogujie.com/x6/detail/1k2ob2u?acm=3.ms.1_4_1k2ob2u.0.1651-22922.i6fb8qcCAqPqD.t_0",
+                    "img": "http://s2.mogucdn.com/p2/160923/103151755_2g5h87b1497i78cl9ceiifg2010ei_640x960.jpg",
+                    "itemMarks": "79 148 61",
+                    "shopSeller": "宿本官方旗舰店",
+                    "discount": 10.0,
+                    "title": "宿本春装新款宽松显瘦毛衣外套卡通印花雪纺连衣裙中长款两件套装",
+                    "cfav": 1942,
+                    "price": 298.99,
+                    "originalPrice": 427.14,
+                    "tradeItemId": "1k2ob2u",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.6",
+                        "descDsr": "4.7",
+                        "serviceDsr": "4.7",
+                        "qualityDsr": "4.7",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ],
+                    "props": [
+                        "两件套装",
+                        "中长款",
+                        "卡通",
+                        "宽松显瘦",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 108.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k78nga&acm=3.ms.1_4_1k78nga.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DONJWGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "acm": "3.ms.1_4_1k78nga.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DONJWGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k78nga?acm=3.ms.1_4_1k78nga.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DONJWGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1k78nga?acm=3.ms.1_4_1k78nga.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DONJWGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "img": "http://s2.mogucdn.com/p2/170212/70459299_068f44g23732ii2484il7704bd93b_640x960.jpg",
+                    "itemMarks": "-1",
+                    "shopSeller": "蓝精灵queen",
+                    "discount": 10.0,
+                    "title": "2017春装新款时尚套装女装连帽卫衣两件套大码休闲跑步运动服",
+                    "cfav": 144,
+                    "price": 75.6,
+                    "originalPrice": 108.0,
+                    "tradeItemId": "1k78nga",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.2",
+                        "descDsr": "4.4",
+                        "serviceDsr": "4.4",
+                        "qualityDsr": "4.3",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "时尚套装",
+                        "大码",
+                        "休闲",
+                        "新款"
+                    ]
+                },
+                {
+                    "clientUrl": "http://act.mogujie.com/springsuit0301?acm=3.mce.1_10_1aevy.1102.0.2PccGqcCAmaVk.m_242899",
+                    "show": {
+                        "w": 320,
+                        "img": "https://s2.mogucdn.com/p2/170301/131639333_645eb9cgi6achgd1begk654hhbcag_350x605.jpg",
+                        "h": 554
+                    },
+                    "type": 1
+                },
+                {
+                    "orgPrice": 113.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k7hg6u&acm=3.ms.1_1_1k7hg6u.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_174154719_1597738_1-c1_50243_0",
+                    "acm": "3.ms.1_1_1k7hg6u.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_174154719_1597738_1-c1_50243_0",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k7hg6u?acm=3.ms.1_1_1k7hg6u.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_174154719_1597738_1-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNWVyeDh3Xzc5NGQwNDJjNGM3OGYyMTYwMDg5NTk2Mjk3ZGIzMjM5XzE2XzBfMTc0MTU0NzE5XzAuNTgwM18xNTk3NzM4XzFfMF83MThfMF8w",
+                    "link": "http://m.mogujie.com/x6/detail/1k7hg6u?acm=3.ms.1_1_1k7hg6u.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_174154719_1597738_1-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNWVyeDh3Xzc5NGQwNDJjNGM3OGYyMTYwMDg5NTk2Mjk3ZGIzMjM5XzE2XzBfMTc0MTU0NzE5XzAuNTgwM18xNTk3NzM4XzFfMF83MThfMF8w",
+                    "img": "http://s2.mogucdn.com/p2/170218/204394534_0a99fal7k3jei12ljb94id5b1egkf_640x960.jpg",
+                    "cparam": "MTQ4ODM2OTkwMl8xNWVyeDh3Xzc5NGQwNDJjNGM3OGYyMTYwMDg5NTk2Mjk3ZGIzMjM5XzE2XzBfMTc0MTU0NzE5XzAuNTgwM18xNTk3NzM4XzFfMF83MThfMF8w",
+                    "itemMarks": "148",
+                    "shopSeller": "包尚优品",
+                    "discount": 10.0,
+                    "title": "初春新款时尚韩版休闲连帽宽松卫衣+哈伦裤小脚运动裤时尚套装",
+                    "cfav": "772",
+                    "price": 79.1,
+                    "originalPrice": 113.0,
+                    "tradeItemId": "1k7hg6u",
+                    "hasSimilarity": false,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        
+                    },
+                    "leftbottom_taglist": [
+                        {
+                            "content": "热卖",
+                            "bgColor": "#FF743C",
+                            "color": "#FFFFFF"
+                        }
+                    ],
+                    "props": [
+                        "时尚套装",
+                        "新款时尚",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 57.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k6pjny&acm=3.ms.1_1_1k6pjny.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_163574124_1541024_2-c1_50243_0",
+                    "acm": "3.ms.1_1_1k6pjny.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_163574124_1541024_2-c1_50243_0",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k6pjny?acm=3.ms.1_1_1k6pjny.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_163574124_1541024_2-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNWs5YnE4XzAzMjIxYzYyYmQ4OWQxMGI4NzM2N2MyZjAyNWQyODZjXzE2XzFfMTYzNTc0MTI0XzEuMjYzXzE1NDEwMjRfMl8wXzkxN18wXzA%3D",
+                    "link": "http://m.mogujie.com/x6/detail/1k6pjny?acm=3.ms.1_1_1k6pjny.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_163574124_1541024_2-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNWs5YnE4XzAzMjIxYzYyYmQ4OWQxMGI4NzM2N2MyZjAyNWQyODZjXzE2XzFfMTYzNTc0MTI0XzEuMjYzXzE1NDEwMjRfMl8wXzkxN18wXzA%3D",
+                    "img": "http://s2.mogucdn.com/p2/170104/82426773_22ekij40gad224ki16f876d83ah8h_640x960.jpg",
+                    "cparam": "MTQ4ODM2OTkwMl8xNWs5YnE4XzAzMjIxYzYyYmQ4OWQxMGI4NzM2N2MyZjAyNWQyODZjXzE2XzFfMTYzNTc0MTI0XzEuMjYzXzE1NDEwMjRfMl8wXzkxN18wXzA=",
+                    "itemMarks": "61",
+                    "shopSeller": "Eplay时尚女装",
+                    "discount": 10.0,
+                    "title": "2017初春新款纯棉学生长袖衬衫女+纯棉牛仔半身裙套装两件套",
+                    "cfav": "3003",
+                    "price": 39.9,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "1k6pjny",
+                    "hasSimilarity": false,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        
+                    },
+                    "leftbottom_taglist": [
+                        {
+                            "content": "热卖",
+                            "bgColor": "#FF743C",
+                            "color": "#FFFFFF"
+                        }
+                    ],
+                    "props": [
+                        "套装两件套",
+                        "纯棉",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 185.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k1tf8w&acm=3.ms.1_4_1k1tf8w.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DCMRZGUYF65LBHIYTOMC7OBQTUMC7MM5DOMBT-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "acm": "3.ms.1_4_1k1tf8w.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DCMRZGUYF65LBHIYTOMC7OBQTUMC7MM5DOMBT-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k1tf8w?acm=3.ms.1_4_1k1tf8w.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DCMRZGUYF65LBHIYTOMC7OBQTUMC7MM5DOMBT-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "link": "http://m.mogujie.com/x6/detail/1k1tf8w?acm=3.ms.1_4_1k1tf8w.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DCMRZGUYF65LBHIYTOMC7OBQTUMC7MM5DOMBT-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "img": "http://s2.mogucdn.com/p2/160903/74282034_0hbhafk9jaljl12137fa7c013428f_640x960.jpg",
+                    "itemMarks": "82 72",
+                    "shopSeller": "Qing叫我女王大人",
+                    "discount": 10.0,
+                    "title": "两件套 V领针织衫+休闲西装九分裤哈伦裤毛衣裤子套装",
+                    "cfav": 15629,
+                    "price": 129.5,
+                    "originalPrice": 185.0,
+                    "tradeItemId": "1k1tf8w",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "两件套",
+                        "休闲"
+                    ]
+                },
+                {
+                    "orgPrice": 83.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k773gi&acm=3.ms.1_4_1k773gi.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOBRGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "acm": "3.ms.1_4_1k773gi.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOBRGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k773gi?acm=3.ms.1_4_1k773gi.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOBRGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1k773gi?acm=3.ms.1_4_1k773gi.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOBRGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "img": "http://s2.mogucdn.com/p2/170210/82394993_131a4je516e5d14dhlheiehfackkl_640x960.jpg",
+                    "itemMarks": "-1",
+                    "shopSeller": "绿茶柠檬淘",
+                    "discount": 10.0,
+                    "title": "【可单买】流苏半高领长袖上衣雪纺衫+显瘦高腰九分休闲阔腿裤",
+                    "cfav": 1543,
+                    "price": 58.1,
+                    "originalPrice": 83.0,
+                    "tradeItemId": "1k773gi",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.3",
+                        "descDsr": "4.4",
+                        "serviceDsr": "4.4",
+                        "qualityDsr": "4.4",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "休闲阔腿裤",
+                        "高腰",
+                        "半高领",
+                        "显瘦",
+                        "九分",
+                        "流苏"
+                    ]
+                },
+                {
+                    "orgPrice": 85.4,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k3qs2m&acm=3.ms.1_4_1k3qs2m.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOJXHBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "acm": "3.ms.1_4_1k3qs2m.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOJXHBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k3qs2m?acm=3.ms.1_4_1k3qs2m.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOJXHBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "link": "http://m.mogujie.com/x6/detail/1k3qs2m?acm=3.ms.1_4_1k3qs2m.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOJXHBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "img": "http://s18.mogucdn.com/p2/161016/73983428_624ai01ba2244e86j4045j8ldid6f_640x960.jpg",
+                    "itemMarks": "82",
+                    "shopSeller": "美丽E身",
+                    "discount": 10.0,
+                    "title": "软妹抓绒加厚可爱萌萌粉拉链卫衣+百搭显瘦半身百褶裙短裙裤套装",
+                    "cfav": 26654,
+                    "price": 59.78,
+                    "originalPrice": 85.4,
+                    "tradeItemId": "1k3qs2m",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.2",
+                        "descDsr": "4.3",
+                        "serviceDsr": "4.4",
+                        "qualityDsr": "4.3",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "裙裤套装",
+                        "萌萌",
+                        "抓绒加厚",
+                        "软妹",
+                        "可爱",
+                        "百搭显瘦"
+                    ]
+                },
+                {
+                    "orgPrice": 57.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k76fe8&acm=3.ms.1_4_1k76fe8.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DGOJZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORQFYYA",
+                    "acm": "3.ms.1_4_1k76fe8.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DGOJZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORQFYYA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k76fe8?acm=3.ms.1_4_1k76fe8.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DGOJZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORQFYYA",
+                    "link": "http://m.mogujie.com/x6/detail/1k76fe8?acm=3.ms.1_4_1k76fe8.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DGOJZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORQFYYA",
+                    "img": "http://s2.mogucdn.com/p2/170210/91341365_1ae0f82kfgh8a77a9k0hefi982leh_640x960.jpg",
+                    "itemMarks": "148",
+                    "shopSeller": "楚楚动人",
+                    "discount": 10.0,
+                    "title": "春装韩版可爱喇叭袖宽松V领牛仔衬衫娃娃衫+弹力小脚长裤两件套",
+                    "cfav": 2484,
+                    "price": 39.9,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "1k76fe8",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "长裤两件套",
+                        "喇叭袖",
+                        "v领",
+                        "宽松",
+                        "小脚",
+                        "弹力",
+                        "可爱",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 98.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1jxi5ji&acm=3.ms.1_4_1jxi5ji.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DMOBWGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "acm": "3.ms.1_4_1jxi5ji.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DMOBWGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1jxi5ji?acm=3.ms.1_4_1jxi5ji.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DMOBWGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "link": "http://m.mogujie.com/x6/detail/1jxi5ji?acm=3.ms.1_4_1jxi5ji.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DMOBWGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "img": "http://s2.mogucdn.com/p1/160620/92174561_ifrwimrxmm2gkmzuhezdambqhayde_640x960.jpg",
+                    "itemMarks": "82 72",
+                    "shopSeller": "lingzi2015",
+                    "discount": 10.0,
+                    "title": "2017新款套装女韩版显瘦气质时尚两件套T恤针织衫+半身裙子",
+                    "cfav": 9486,
+                    "price": 68.6,
+                    "originalPrice": 98.0,
+                    "tradeItemId": "1jxi5ji",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "套装",
+                        "气质",
+                        "时尚",
+                        "显瘦",
+                        "新款",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 112.86,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k37yqa&acm=3.ms.1_4_1k37yqa.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DOOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "acm": "3.ms.1_4_1k37yqa.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DOOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k37yqa?acm=3.ms.1_4_1k37yqa.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DOOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1k37yqa?acm=3.ms.1_4_1k37yqa.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DOOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "img": "http://s2.mogucdn.com/p2/161006/64244823_0j41778e1h54bh6llg52f6hhc143h_640x960.jpg",
+                    "itemMarks": "82",
+                    "shopSeller": "Pretty Woman衣柜",
+                    "discount": 10.0,
+                    "title": "秋装新款长袖女时尚运动卫衣套装宽松学生休闲两件套潮",
+                    "cfav": 10709,
+                    "price": 79.0,
+                    "originalPrice": 112.86,
+                    "tradeItemId": "1k37yqa",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "休闲两件套",
+                        "时尚",
+                        "长袖",
+                        "运动",
+                        "宽松",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 126.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k784fq&acm=3.ms.1_1_1k784fq.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_168179124_1566390_3-c1_50243_0",
+                    "acm": "3.ms.1_1_1k784fq.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_168179124_1566390_3-c1_50243_0",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k784fq?acm=3.ms.1_1_1k784fq.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_168179124_1566390_3-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNWpiM2Q4X2ZlMGY2ODQyMmIwYTQ0MmFiYjhhY2MyMjEyZDI0MTNhXzE2XzJfMTY4MTc5MTI0XzAuNjU3Nl8xNTY2MzkwXzNfMF81NTJfMF8w",
+                    "link": "http://m.mogujie.com/x6/detail/1k784fq?acm=3.ms.1_1_1k784fq.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_168179124_1566390_3-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNWpiM2Q4X2ZlMGY2ODQyMmIwYTQ0MmFiYjhhY2MyMjEyZDI0MTNhXzE2XzJfMTY4MTc5MTI0XzAuNjU3Nl8xNTY2MzkwXzNfMF81NTJfMF8w",
+                    "img": "http://s2.mogucdn.com/p2/170213/upload_360a7ggacbe1b9llahji135kdcg35_640x960.jpg",
+                    "cparam": "MTQ4ODM2OTkwMl8xNWpiM2Q4X2ZlMGY2ODQyMmIwYTQ0MmFiYjhhY2MyMjEyZDI0MTNhXzE2XzJfMTY4MTc5MTI0XzAuNjU3Nl8xNTY2MzkwXzNfMF81NTJfMF8w",
+                    "itemMarks": "144 148 61",
+                    "shopSeller": "颜料袋家",
+                    "discount": 10.0,
+                    "title": "红人店假两件时尚露肩衬衫+PU短裙a字半身裙时尚套装两件套",
+                    "cfav": "5970",
+                    "price": 88.2,
+                    "originalPrice": 126.0,
+                    "tradeItemId": "1k784fq",
+                    "hasSimilarity": false,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        
+                    },
+                    "leftbottom_taglist": [
+                        {
+                            "content": "热卖",
+                            "bgColor": "#FF743C",
+                            "color": "#FFFFFF"
+                        }
+                    ],
+                    "props": [
+                        "套装两件套",
+                        "时尚"
+                    ]
+                },
+                {
+                    "orgPrice": 71.2,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k76q5o&acm=3.ms.1_1_1k76q5o.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_167380554_1562700_4-c1_50243_0",
+                    "acm": "3.ms.1_1_1k76q5o.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_167380554_1562700_4-c1_50243_0",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k76q5o?acm=3.ms.1_1_1k76q5o.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_167380554_1562700_4-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNWpiMmo4X2YzYzcxY2Y3YTg4ODBhNDEzNjRmZmY1ZTNlNTI5OTY4XzE2XzNfMTY3MzgwNTU0XzAuNDkyMV8xNTYyNzAwXzRfMF85MTdfMF8w",
+                    "link": "http://m.mogujie.com/x6/detail/1k76q5o?acm=3.ms.1_1_1k76q5o.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_167380554_1562700_4-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNWpiMmo4X2YzYzcxY2Y3YTg4ODBhNDEzNjRmZmY1ZTNlNTI5OTY4XzE2XzNfMTY3MzgwNTU0XzAuNDkyMV8xNTYyNzAwXzRfMF85MTdfMF8w",
+                    "img": "http://s2.mogucdn.com/p2/170210/82426773_0db96361g7a7837ig65khheh3hk8c_640x960.jpg",
+                    "cparam": "MTQ4ODM2OTkwMl8xNWpiMmo4X2YzYzcxY2Y3YTg4ODBhNDEzNjRmZmY1ZTNlNTI5OTY4XzE2XzNfMTY3MzgwNTU0XzAuNDkyMV8xNTYyNzAwXzRfMF85MTdfMF8w",
+                    "itemMarks": "61",
+                    "shopSeller": "Eplay时尚女装",
+                    "discount": 10.0,
+                    "title": "套装裙2017春夏新款短袖针织衫套装女牛仔短裙两件套连衣裙潮",
+                    "cfav": "2166",
+                    "price": 49.84,
+                    "originalPrice": 71.2,
+                    "tradeItemId": "1k76q5o",
+                    "hasSimilarity": false,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        
+                    },
+                    "leftbottom_taglist": [
+                        {
+                            "content": "热卖",
+                            "bgColor": "#FF743C",
+                            "color": "#FFFFFF"
+                        }
+                    ],
+                    "props": [
+                        "套装裙",
+                        "春夏",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 85.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k46oq4&acm=3.ms.1_4_1k46oq4.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOJVGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "acm": "3.ms.1_4_1k46oq4.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOJVGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k46oq4?acm=3.ms.1_4_1k46oq4.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOJVGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "link": "http://m.mogujie.com/x6/detail/1k46oq4?acm=3.ms.1_4_1k46oq4.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOJVGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "img": "http://s2.mogucdn.com/p2/161025/79303281_7ga9678ii7edf0bk7f99c72d69jig_640x960.jpg",
+                    "itemMarks": "82",
+                    "shopSeller": "壹玖玖衫",
+                    "discount": 10.0,
+                    "title": "韩版学院风条纹背心针织衫+加厚中长开叉针织长裙连衣裙两件套",
+                    "cfav": 4591,
+                    "price": 59.5,
+                    "originalPrice": 85.0,
+                    "tradeItemId": "1k46oq4",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.3",
+                        "descDsr": "4.4",
+                        "serviceDsr": "4.4",
+                        "qualityDsr": "4.4",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "连衣裙两件套",
+                        "开叉",
+                        "中长",
+                        "加厚",
+                        "学院风",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 57.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k39b7g&acm=3.ms.1_4_1k39b7g.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DGOJZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORTGAYC4MA",
+                    "acm": "3.ms.1_4_1k39b7g.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DGOJZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORTGAYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k39b7g?acm=3.ms.1_4_1k39b7g.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DGOJZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORTGAYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1k39b7g?acm=3.ms.1_4_1k39b7g.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DGOJZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORTGAYC4MA",
+                    "img": "http://s2.mogucdn.com/p2/161007/91341365_428423e9ie5297ek5bajibff72g7j_640x960.jpg",
+                    "itemMarks": "72",
+                    "shopSeller": "楚楚动人",
+                    "discount": 10.0,
+                    "title": "花朵刺绣圆领针织衫毛衣背心马甲+喇叭袖衬衣+小脚长裤三件套装",
+                    "cfav": 14448,
+                    "price": 39.9,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "1k39b7g",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "三件套装"
+                    ]
+                },
+                {
+                    "orgPrice": 60.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k75t6a&acm=3.ms.1_4_1k75t6a.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIMRQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORTGAYC4MA",
+                    "acm": "3.ms.1_4_1k75t6a.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIMRQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORTGAYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k75t6a?acm=3.ms.1_4_1k75t6a.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIMRQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORTGAYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1k75t6a?acm=3.ms.1_4_1k75t6a.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIMRQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORTGAYC4MA",
+                    "img": "http://s2.mogucdn.com/p2/170215/111078189_1482595j524fh259jcai1c7de6djc_640x960.png",
+                    "itemMarks": "82",
+                    "shopSeller": "蘑菇头小屋",
+                    "discount": 10.0,
+                    "title": "星星印花短款五分袖宽松T恤+百搭显瘦七分裤阔腿裤两件套女春装",
+                    "cfav": 757,
+                    "price": 42.0,
+                    "originalPrice": 60.0,
+                    "tradeItemId": "1k75t6a",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.2",
+                        "descDsr": "4.3",
+                        "serviceDsr": "4.4",
+                        "qualityDsr": "4.3",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "两件套",
+                        "五分袖",
+                        "印花",
+                        "百搭",
+                        "星星",
+                        "短款"
+                    ]
+                },
+                {
+                    "orgPrice": 128.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k5bjh6&acm=3.ms.1_4_1k5bjh6.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DQOJWGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "acm": "3.ms.1_4_1k5bjh6.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DQOJWGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k5bjh6?acm=3.ms.1_4_1k5bjh6.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DQOJWGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "link": "http://m.mogujie.com/x6/detail/1k5bjh6?acm=3.ms.1_4_1k5bjh6.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DQOJWGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "img": "http://s11.mogucdn.com/p2/161118/11veo8_37e916ef58464i3hg76668ial5445_640x960.jpg",
+                    "itemMarks": "148",
+                    "shopSeller": "angelstore",
+                    "discount": 10.0,
+                    "title": "春季套装2017新款韩版花朵毛衣+半身裙套装",
+                    "cfav": 7755,
+                    "price": 89.6,
+                    "originalPrice": 128.0,
+                    "tradeItemId": "1k5bjh6",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.6",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "裙套装",
+                        "半身",
+                        "花朵",
+                        "新款",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 140.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k74aba&acm=3.ms.1_4_1k74aba.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSOBQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "acm": "3.ms.1_4_1k74aba.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSOBQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k74aba?acm=3.ms.1_4_1k74aba.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSOBQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "link": "http://m.mogujie.com/x6/detail/1k74aba?acm=3.ms.1_4_1k74aba.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSOBQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "img": "http://s2.mogucdn.com/p2/170208/147953256_360filgaf1fb7c0727a4ica03d9dc_640x960.jpg",
+                    "itemMarks": "148",
+                    "shopSeller": "柚衣良品",
+                    "discount": 10.0,
+                    "title": "春季新款 韩版原宿风长袖卡通卫衣套装女印花连帽休闲运动套装",
+                    "cfav": 845,
+                    "price": 98.0,
+                    "originalPrice": 140.0,
+                    "tradeItemId": "1k74aba",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.6",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "休闲运动套装",
+                        "长袖",
+                        "印花",
+                        "连帽",
+                        "卡通",
+                        "春季",
+                        "原宿风",
+                        "新款",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 141.43,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k78eac&acm=3.ms.1_4_1k78eac.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "acm": "3.ms.1_4_1k78eac.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k78eac?acm=3.ms.1_4_1k78eac.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1k78eac?acm=3.ms.1_4_1k78eac.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "img": "http://s2.mogucdn.com/p2/170212/32544738_5bb1ic7la7207ek40gh8kck93i7i9_640x1000.jpg",
+                    "itemMarks": "82",
+                    "shopSeller": "BaLa.芭菈",
+                    "discount": 10.0,
+                    "title": "2017春装新款韩版连体时尚套装灯芯绒高腰宽松休闲连体裤",
+                    "cfav": 10797,
+                    "price": 99.0,
+                    "originalPrice": 141.43,
+                    "tradeItemId": "1k78eac",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "时尚套装",
+                        "高腰",
+                        "灯芯绒",
+                        "宽松",
+                        "连体",
+                        "新款",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 71.4,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k76ogk&acm=3.ms.1_1_1k76ogk.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_167380014_1562701_5-c1_50243_0",
+                    "acm": "3.ms.1_1_1k76ogk.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_167380014_1562701_5-c1_50243_0",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k76ogk?acm=3.ms.1_1_1k76ogk.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_167380014_1562701_5-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNXRoN2NlX2Q1NGJhOWNjOGUwYWFlMjBhMGY0ODliN2U0ZTBjMzViXzE2XzRfMTY3MzgwMDE0XzEuMzAxM18xNTYyNzAxXzVfMF85MTdfMF8w",
+                    "link": "http://m.mogujie.com/x6/detail/1k76ogk?acm=3.ms.1_1_1k76ogk.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_167380014_1562701_5-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNXRoN2NlX2Q1NGJhOWNjOGUwYWFlMjBhMGY0ODliN2U0ZTBjMzViXzE2XzRfMTY3MzgwMDE0XzEuMzAxM18xNTYyNzAxXzVfMF85MTdfMF8w",
+                    "img": "http://s2.mogucdn.com/p2/170210/82426773_5i422f95134f1cc3c3c69fhj6d2d0_640x960.jpg",
+                    "cparam": "MTQ4ODM2OTkwMl8xNXRoN2NlX2Q1NGJhOWNjOGUwYWFlMjBhMGY0ODliN2U0ZTBjMzViXzE2XzRfMTY3MzgwMDE0XzEuMzAxM18xNTYyNzAxXzVfMF85MTdfMF8w",
+                    "itemMarks": "61",
+                    "shopSeller": "Eplay时尚女装",
+                    "discount": 10.0,
+                    "title": "2017春夏新款韩版蝴蝶结长袖衬衫套装女大摆短裙两件套连衣裙",
+                    "cfav": "259",
+                    "price": 49.98,
+                    "originalPrice": 71.4,
+                    "tradeItemId": "1k76ogk",
+                    "hasSimilarity": false,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        
+                    },
+                    "leftbottom_taglist": [
+                        {
+                            "content": "热卖",
+                            "bgColor": "#FF743C",
+                            "color": "#FFFFFF"
+                        }
+                    ],
+                    "props": [
+                        "衬衫套装",
+                        "蝴蝶结",
+                        "长袖",
+                        "春夏",
+                        "新款",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 125.72,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k705yi&acm=3.ms.1_1_1k705yi.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175921179_0_6-c1_50243_0",
+                    "acm": "3.ms.1_1_1k705yi.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175921179_0_6-c1_50243_0",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k705yi?acm=3.ms.1_1_1k705yi.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175921179_0_6-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNW83MHpjXzQ3NTA4N2NkMGE4ZDExNzVhOWQ0MzM2M2ViNWU5N2FmXzE2XzVfMTc1OTIxMTc5XzAuNzM1M18wXzZfMF80MzlfMF8w",
+                    "link": "http://m.mogujie.com/x6/detail/1k705yi?acm=3.ms.1_1_1k705yi.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175921179_0_6-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNW83MHpjXzQ3NTA4N2NkMGE4ZDExNzVhOWQ0MzM2M2ViNWU5N2FmXzE2XzVfMTc1OTIxMTc5XzAuNzM1M18wXzZfMF80MzlfMF8w",
+                    "img": "http://s2.mogucdn.com/p2/170204/2654_2agddb6k2hik22gidd50e5ch2b9al_640x960.jpg",
+                    "cparam": "MTQ4ODM2OTkwMl8xNW83MHpjXzQ3NTA4N2NkMGE4ZDExNzVhOWQ0MzM2M2ViNWU5N2FmXzE2XzVfMTc1OTIxMTc5XzAuNzM1M18wXzZfMF80MzlfMF8w",
+                    "itemMarks": "148",
+                    "shopSeller": "橙子店",
+                    "discount": 10.0,
+                    "title": "三件套5色韩国春季新款针织吊带+外套+裤子时尚套装",
+                    "cfav": "498",
+                    "price": 88.0,
+                    "originalPrice": 125.72,
+                    "tradeItemId": "1k705yi",
+                    "hasSimilarity": false,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        
+                    },
+                    "leftbottom_taglist": [
+                        {
+                            "content": "热卖",
+                            "bgColor": "#FF743C",
+                            "color": "#FFFFFF"
+                        }
+                    ],
+                    "props": [
+                        "时尚套装",
+                        "春季",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 70.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k2hp1a&acm=3.ms.1_4_1k2hp1a.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "acm": "3.ms.1_4_1k2hp1a.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k2hp1a?acm=3.ms.1_4_1k2hp1a.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1k2hp1a?acm=3.ms.1_4_1k2hp1a.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "img": "http://s11.mogucdn.com/p2/160924/90085994_7d4ka3g02hl16djab82f29c5el917_640x960.jpg",
+                    "itemMarks": "-1",
+                    "shopSeller": "米莉家",
+                    "discount": 10.0,
+                    "title": "2017百搭麻花纹开衫针织小外套复古碎花美裙连衣裙两件套套装",
+                    "cfav": 10179,
+                    "price": 49.0,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k2hp1a",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.3",
+                        "descDsr": "4.4",
+                        "serviceDsr": "4.4",
+                        "qualityDsr": "4.4",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "连衣裙两件套",
+                        "碎花",
+                        "复古",
+                        "百搭"
+                    ]
+                },
+                {
+                    "orgPrice": 125.71,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k79qna&acm=3.ms.1_4_1k79qna.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DQNZZHFPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "acm": "3.ms.1_4_1k79qna.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DQNZZHFPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k79qna?acm=3.ms.1_4_1k79qna.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DQNZZHFPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1k79qna?acm=3.ms.1_4_1k79qna.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DQNZZHFPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "img": "http://s2.mogucdn.com/p2/170213/99211203_2e3hd147h0b7l0ifdd1hec61akjbg_640x960.jpg",
+                    "itemMarks": "82",
+                    "shopSeller": "尚品衣家",
+                    "discount": 10.0,
+                    "title": "【韩范】春季韩版新款时尚气质长袖暗粉色运动休闲两件套套装 女",
+                    "cfav": 5642,
+                    "price": 87.99,
+                    "originalPrice": 125.71,
+                    "tradeItemId": "1k79qna",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.5",
+                        "qualityDsr": "4.4",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "套装",
+                        "气质",
+                        "新款时尚",
+                        "韩范",
+                        "长袖",
+                        "运动",
+                        "春季",
+                        "暗粉色",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 70.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=18xijh0&acm=3.ms.1_4_18xijh0.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "acm": "3.ms.1_4_18xijh0.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/18xijh0?acm=3.ms.1_4_18xijh0.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/18xijh0?acm=3.ms.1_4_18xijh0.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "img": "http://s2.mogucdn.com/p1/160421/143864626_ie4dkztggnsdkzrqhazdambqgiyde_640x960.jpg",
+                    "itemMarks": "82",
+                    "shopSeller": "街角的衣橱",
+                    "discount": 10.0,
+                    "title": "实拍 蕾丝镂空上衣+牛仔一步裙",
+                    "cfav": 26675,
+                    "price": 49.0,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "18xijh0",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.5",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "牛仔一步裙",
+                        "蕾丝",
+                        "镂空"
+                    ]
+                },
+                {
+                    "orgPrice": 99.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k7j0km&acm=3.ms.1_4_1k7j0km.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DMOJTGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "acm": "3.ms.1_4_1k7j0km.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DMOJTGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k7j0km?acm=3.ms.1_4_1k7j0km.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DMOJTGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "link": "http://m.mogujie.com/x6/detail/1k7j0km?acm=3.ms.1_4_1k7j0km.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DMOJTGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "img": "http://s2.mogucdn.com/p2/170219/63662186_75467kd2956j9f2j015acf861hjfj_640x960.png",
+                    "itemMarks": "-1",
+                    "shopSeller": "韩衣韩",
+                    "discount": 10.0,
+                    "title": "2017春装新款韩版中长款马甲外套+蝴蝶结荷叶袖连衣裙套装",
+                    "cfav": 6535,
+                    "price": 69.3,
+                    "originalPrice": 99.0,
+                    "tradeItemId": "1k7j0km",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.3",
+                        "descDsr": "4.4",
+                        "serviceDsr": "4.5",
+                        "qualityDsr": "4.4",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "连衣裙套装",
+                        "荷叶袖",
+                        "蝴蝶结",
+                        "中长款",
+                        "新款",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 70.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k7msai&acm=3.ms.1_4_1k7msai.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "acm": "3.ms.1_4_1k7msai.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k7msai?acm=3.ms.1_4_1k7msai.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1k7msai?acm=3.ms.1_4_1k7msai.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "img": "http://s2.mogucdn.com/p2/170221/64864814_22007594b3bc4a0f3c90cfg5kfgf3_640x960.jpg",
+                    "itemMarks": "-1",
+                    "shopSeller": "MOMO末末家",
+                    "discount": 10.0,
+                    "title": "春季新款韩版V领衬衫+牛仔短裤 时尚省心两件套装女",
+                    "cfav": 3646,
+                    "price": 49.0,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k7msai",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.4",
+                        "serviceDsr": "4.4",
+                        "qualityDsr": "4.4",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "两件套装",
+                        "时尚",
+                        "春季",
+                        "新款",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 70.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k77u9o&acm=3.ms.1_4_1k77u9o.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "acm": "3.ms.1_4_1k77u9o.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k77u9o?acm=3.ms.1_4_1k77u9o.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1k77u9o?acm=3.ms.1_4_1k77u9o.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "img": "http://s2.mogucdn.com/p2/170211/134491294_5a0di7h0e7cc771glfbda6897877f_640x960.jpg",
+                    "itemMarks": "-1",
+                    "shopSeller": "米莉家",
+                    "discount": 10.0,
+                    "title": "春装不规则半身裙开叉下摆中长款a字裙半高领针织衫套装女",
+                    "cfav": 2287,
+                    "price": 49.0,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k77u9o",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.3",
+                        "descDsr": "4.4",
+                        "serviceDsr": "4.4",
+                        "qualityDsr": "4.4",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "套装",
+                        "开叉下摆",
+                        "中长款"
+                    ]
+                },
+                {
+                    "orgPrice": 142.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k76dbi&acm=3.ms.1_1_1k76dbi.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_171484736_0_7-c1_50243_0",
+                    "acm": "3.ms.1_1_1k76dbi.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_171484736_0_7-c1_50243_0",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k76dbi?acm=3.ms.1_1_1k76dbi.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_171484736_0_7-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNXRibjNjXzNmMjlmNTYwOTFmMmEyNGRkMGEzNzEyMDg1NDRjZGY2XzE2XzZfMTcxNDg0NzM2XzAuMjM0NF8wXzdfMF85MTdfMF8w",
+                    "link": "http://m.mogujie.com/x6/detail/1k76dbi?acm=3.ms.1_1_1k76dbi.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_171484736_0_7-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNXRibjNjXzNmMjlmNTYwOTFmMmEyNGRkMGEzNzEyMDg1NDRjZGY2XzE2XzZfMTcxNDg0NzM2XzAuMjM0NF8wXzdfMF85MTdfMF8w",
+                    "img": "http://s11.mogucdn.com/p2/170210/82426773_2bci0gib0k0b4kf8jg3k5kj5e2ih2_640x960.jpg",
+                    "cparam": "MTQ4ODM2OTkwMl8xNXRibjNjXzNmMjlmNTYwOTFmMmEyNGRkMGEzNzEyMDg1NDRjZGY2XzE2XzZfMTcxNDg0NzM2XzAuMjM0NF8wXzdfMF85MTdfMF8w",
+                    "itemMarks": "148 61",
+                    "shopSeller": "Eplay时尚女装",
+                    "discount": 10.0,
+                    "title": "2017初春新款白色衬衫裙套装女大摆牛仔半身裙两件套连衣裙潮",
+                    "cfav": "81",
+                    "price": 99.4,
+                    "originalPrice": 142.0,
+                    "tradeItemId": "1k76dbi",
+                    "hasSimilarity": false,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        
+                    },
+                    "leftbottom_taglist": [
+                        {
+                            "content": "热卖",
+                            "bgColor": "#FF743C",
+                            "color": "#FFFFFF"
+                        }
+                    ],
+                    "props": [
+                        "衬衫裙套装",
+                        "大摆",
+                        "白色",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 226.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k7u39w&acm=3.ms.1_1_1k7u39w.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175791416_0_8-c1_50243_0",
+                    "acm": "3.ms.1_1_1k7u39w.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175791416_0_8-c1_50243_0",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k7u39w?acm=3.ms.1_1_1k7u39w.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175791416_0_8-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNXRmcnFnXzE2ZDRmZDNhNjBiNzZhNTBhYWI3ZDdkNjEzNzZhMTc0XzE2XzdfMTc1NzkxNDE2XzAuODMxNV8wXzhfMF8yNzRfMF8w",
+                    "link": "http://m.mogujie.com/x6/detail/1k7u39w?acm=3.ms.1_1_1k7u39w.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175791416_0_8-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNXRmcnFnXzE2ZDRmZDNhNjBiNzZhNTBhYWI3ZDdkNjEzNzZhMTc0XzE2XzdfMTc1NzkxNDE2XzAuODMxNV8wXzhfMF8yNzRfMF8w",
+                    "img": "http://s2.mogucdn.com/p2/170226/57512210_1cbkjiedj34a74321g650238f8ac4_640x960.png",
+                    "cparam": "MTQ4ODM2OTkwMl8xNXRmcnFnXzE2ZDRmZDNhNjBiNzZhNTBhYWI3ZDdkNjEzNzZhMTc0XzE2XzdfMTc1NzkxNDE2XzAuODMxNV8wXzhfMF8yNzRfMF8w",
+                    "itemMarks": "-1",
+                    "shopSeller": "JOJOSHOP店主实拍",
+                    "discount": 10.0,
+                    "title": "2017韩范中长款格子毛呢马甲外套+时尚学院风九分裤两件套",
+                    "cfav": "1",
+                    "price": 158.2,
+                    "originalPrice": 226.0,
+                    "tradeItemId": "1k7u39w",
+                    "hasSimilarity": false,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        
+                    },
+                    "leftbottom_taglist": [
+                        {
+                            "content": "热卖",
+                            "bgColor": "#FF743C",
+                            "color": "#FFFFFF"
+                        }
+                    ],
+                    "props": [
+                        "两件套",
+                        "时尚",
+                        "韩范",
+                        "中长款",
+                        "学院风"
+                    ]
+                },
+                {
+                    "orgPrice": 60.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k7a3xu&acm=3.ms.1_4_1k7a3xu.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIMRQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5C2OJZHEXDAI3RHIYC4MBDMQ5DALRQ",
+                    "acm": "3.ms.1_4_1k7a3xu.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIMRQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5C2OJZHEXDAI3RHIYC4MBDMQ5DALRQ",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k7a3xu?acm=3.ms.1_4_1k7a3xu.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIMRQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5C2OJZHEXDAI3RHIYC4MBDMQ5DALRQ",
+                    "link": "http://m.mogujie.com/x6/detail/1k7a3xu?acm=3.ms.1_4_1k7a3xu.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIMRQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5C2OJZHEXDAI3RHIYC4MBDMQ5DALRQ",
+                    "img": "http://s2.mogucdn.com/p2/170213/upload_562932268ae6l5jd7d04hfd38l5b6_640x960.jpg",
+                    "itemMarks": "82",
+                    "shopSeller": "蘑菇头小屋",
+                    "discount": 10.0,
+                    "title": "半高领休闲套头打底衫+松紧腰显瘦哈伦裤长裤两件套女春时尚套装",
+                    "cfav": 142,
+                    "price": 42.0,
+                    "originalPrice": 60.0,
+                    "tradeItemId": "1k7a3xu",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.2",
+                        "descDsr": "4.3",
+                        "serviceDsr": "4.4",
+                        "qualityDsr": "4.3",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "时尚套装",
+                        "半高领",
+                        "松紧腰",
+                        "休闲"
+                    ]
+                },
+                {
+                    "orgPrice": 140.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1jz3g22&acm=3.ms.1_4_1jz3g22.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSOBQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "acm": "3.ms.1_4_1jz3g22.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSOBQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1jz3g22?acm=3.ms.1_4_1jz3g22.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSOBQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1jz3g22?acm=3.ms.1_4_1jz3g22.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSOBQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "img": "http://s2.mogucdn.com/p2/160826/129343528_1171efkd7451da59a2fd9819baej2_640x960.jpg",
+                    "itemMarks": "82",
+                    "shopSeller": "涅斐勒的彩虹",
+                    "discount": 10.0,
+                    "title": "韩版OL风格两件套·休闲中袖小西装+九分西裤职业装女夏套装",
+                    "cfav": 5097,
+                    "price": 98.0,
+                    "originalPrice": 140.0,
+                    "tradeItemId": "1jz3g22",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.3",
+                        "descDsr": "4.4",
+                        "serviceDsr": "4.5",
+                        "qualityDsr": "4.3",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "两件套",
+                        "ol风格",
+                        "中袖",
+                        "休闲",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 185.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k7b27o&acm=3.ms.1_4_1k7b27o.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DCMRZGUYF65LBHIYTOMC7OBQTUMC7MM5DOMBT-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "acm": "3.ms.1_4_1k7b27o.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DCMRZGUYF65LBHIYTOMC7OBQTUMC7MM5DOMBT-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k7b27o?acm=3.ms.1_4_1k7b27o.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DCMRZGUYF65LBHIYTOMC7OBQTUMC7MM5DOMBT-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1k7b27o?acm=3.ms.1_4_1k7b27o.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DCMRZGUYF65LBHIYTOMC7OBQTUMC7MM5DOMBT-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "img": "http://s2.mogucdn.com/p2/170214/103820998_630888c806b7c02llg5kjj6df30j5_640x960.png",
+                    "itemMarks": "-1",
+                    "shopSeller": "韩行家",
+                    "discount": 10.0,
+                    "title": "2017春装新款韩版翻领长袖西装外套+高腰休闲九分裤套装女",
+                    "cfav": 312,
+                    "price": 129.5,
+                    "originalPrice": 185.0,
+                    "tradeItemId": "1k7b27o",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.6",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.7",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "九分裤套装",
+                        "高腰",
+                        "翻领",
+                        "休闲",
+                        "新款",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 70.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k67duq&acm=3.ms.1_4_1k67duq.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "acm": "3.ms.1_4_1k67duq.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k67duq?acm=3.ms.1_4_1k67duq.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1k67duq?acm=3.ms.1_4_1k67duq.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "img": "http://s2.mogucdn.com/p2/161214/129679720_0dk086d3f1i3j7g707jdcb1bgf11j_640x940.jpg",
+                    "itemMarks": "-1",
+                    "shopSeller": "胖MM时尚",
+                    "discount": 10.0,
+                    "title": "韩版新款半高领纯色修身毛衣打底衫显瘦毛呢小脚哈伦背带裤套装",
+                    "cfav": 7721,
+                    "price": 49.0,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k67duq",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.5",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "背带裤套装",
+                        "半高领",
+                        "显瘦",
+                        "哈伦",
+                        "纯色",
+                        "修身",
+                        "小脚",
+                        "新款",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 84.28,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1jwdx7s&acm=3.ms.1_4_1jwdx7s.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOBZHFPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "acm": "3.ms.1_4_1jwdx7s.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOBZHFPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1jwdx7s?acm=3.ms.1_4_1jwdx7s.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOBZHFPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1jwdx7s?acm=3.ms.1_4_1jwdx7s.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DKOBZHFPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "img": "http://s2.mogucdn.com/p1/160529/88844644_ie4dentfgmytsmtehazdambqgiyde_640x960.jpg",
+                    "itemMarks": "-1",
+                    "shopSeller": "气场街",
+                    "discount": 10.0,
+                    "title": "时尚七分哈伦背带裤+条纹t恤两件套装  ",
+                    "cfav": 291,
+                    "price": 58.99,
+                    "originalPrice": 84.28,
+                    "tradeItemId": "1jwdx7s",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.5",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "两件套装",
+                        "七分",
+                        "时尚"
+                    ]
+                },
+                {
+                    "orgPrice": 57.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=18o7aei&acm=3.ms.1_4_18o7aei.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DGOJZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORQFYYA",
+                    "acm": "3.ms.1_4_18o7aei.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DGOJZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORQFYYA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/18o7aei?acm=3.ms.1_4_18o7aei.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DGOJZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORQFYYA",
+                    "link": "http://m.mogujie.com/x6/detail/18o7aei?acm=3.ms.1_4_18o7aei.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DGOJZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DALRQENYTUMBOGARWIORQFYYA",
+                    "img": "http://s2.mogucdn.com/p1/160324/lqo21_ifqtanjqga3gizrxg4zdambqgyyde_650x975.jpg",
+                    "itemMarks": "-1",
+                    "shopSeller": "如初见",
+                    "discount": 10.0,
+                    "title": "韩版针织开衫+吊带+休闲裤三件套",
+                    "cfav": 26009,
+                    "price": 39.9,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "18o7aei",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.5",
+                        "qualityDsr": "4.4",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "三件套",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 127.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k7ye0q&acm=3.ms.1_1_1k7ye0q.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175887736_0_9-c1_50243_0",
+                    "acm": "3.ms.1_1_1k7ye0q.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175887736_0_9-c1_50243_0",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k7ye0q?acm=3.ms.1_1_1k7ye0q.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175887736_0_9-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNXQ5enI2XzJjNjY1MGRjYmI5OTk2ZjVkNGViNmUzNGNiZWQ1YTJmXzE2XzhfMTc1ODg3NzM2XzAuOTMxNV8wXzlfMF8yNV8wXzA%3D",
+                    "link": "http://m.mogujie.com/x6/detail/1k7ye0q?acm=3.ms.1_1_1k7ye0q.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175887736_0_9-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xNXQ5enI2XzJjNjY1MGRjYmI5OTk2ZjVkNGViNmUzNGNiZWQ1YTJmXzE2XzhfMTc1ODg3NzM2XzAuOTMxNV8wXzlfMF8yNV8wXzA%3D",
+                    "img": "http://s2.mogucdn.com/p2/170301/63707161_486303ik6020hi32632l00eg4lg90_640x960.jpg",
+                    "cparam": "MTQ4ODM2OTkwMl8xNXQ5enI2XzJjNjY1MGRjYmI5OTk2ZjVkNGViNmUzNGNiZWQ1YTJmXzE2XzhfMTc1ODg3NzM2XzAuOTMxNV8wXzlfMF8yNV8wXzA=",
+                    "itemMarks": "-1",
+                    "shopSeller": "首尔阳光",
+                    "discount": 10.0,
+                    "title": "2017春拼色杠条运动女长袖上衣宽松休闲显瘦套装",
+                    "cfav": "0",
+                    "price": 88.9,
+                    "originalPrice": 127.0,
+                    "tradeItemId": "1k7ye0q",
+                    "hasSimilarity": false,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        
+                    },
+                    "leftbottom_taglist": [
+                        {
+                            "content": "热卖",
+                            "bgColor": "#FF743C",
+                            "color": "#FFFFFF"
+                        }
+                    ],
+                    "props": [
+                        "显瘦套装",
+                        "拼色",
+                        "运动",
+                        "宽松",
+                        "休闲"
+                    ]
+                },
+                {
+                    "orgPrice": 57.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k7y7zg&acm=3.ms.1_1_1k7y7zg.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175752965_1607960_10-c1_50243_0",
+                    "acm": "3.ms.1_1_1k7y7zg.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175752965_1607960_10-c1_50243_0",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k7y7zg?acm=3.ms.1_1_1k7y7zg.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175752965_1607960_10-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xMWtfNGM0ZDIyOGJjMWYwMDM1ZWE2Zjg0NmY3MzFmZjkyZTFfMTZfOV8xNzU3NTI5NjVfMF8xNjA3OTYwXzEwXzBfNTg5XzBfMA%3D%3D",
+                    "link": "http://m.mogujie.com/x6/detail/1k7y7zg?acm=3.ms.1_1_1k7y7zg.1.28243-22922.i6fb8qcCAqPqD.t_0-lc_16-c_1_16_175752965_1607960_10-c1_50243_0&cparam=MTQ4ODM2OTkwMl8xMWtfNGM0ZDIyOGJjMWYwMDM1ZWE2Zjg0NmY3MzFmZjkyZTFfMTZfOV8xNzU3NTI5NjVfMF8xNjA3OTYwXzEwXzBfNTg5XzBfMA%3D%3D",
+                    "img": "http://s2.mogucdn.com/p2/170301/159862128_601d995jbc075efg58icjh3g26cj3_640x960.jpg",
+                    "cparam": "MTQ4ODM2OTkwMl8xMWtfNGM0ZDIyOGJjMWYwMDM1ZWE2Zjg0NmY3MzFmZjkyZTFfMTZfOV8xNzU3NTI5NjVfMF8xNjA3OTYwXzEwXzBfNTg5XzBfMA==",
+                    "itemMarks": "-1",
+                    "shopSeller": "小吉米布",
+                    "discount": 10.0,
+                    "title": "2017韩版新款星星短袖T恤+小脚九分白边休闲运动裤两件套",
+                    "cfav": "0",
+                    "price": 39.9,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "1k7y7zg",
+                    "hasSimilarity": false,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        
+                    },
+                    "leftbottom_taglist": [
+                        {
+                            "content": "热卖",
+                            "bgColor": "#FF743C",
+                            "color": "#FFFFFF"
+                        }
+                    ],
+                    "props": [
+                        "两件套",
+                        "白边",
+                        "九分",
+                        "小脚",
+                        "星星",
+                        "新款",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 70.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k7a4nu&acm=3.ms.1_4_1k7a4nu.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "acm": "3.ms.1_4_1k7a4nu.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k7a4nu?acm=3.ms.1_4_1k7a4nu.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "link": "http://m.mogujie.com/x6/detail/1k7a4nu?acm=3.ms.1_4_1k7a4nu.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "img": "http://s2.mogucdn.com/p2/170213/123345903_16deb67cgjcfdffbj5h62ij8jafje_640x960.jpg",
+                    "itemMarks": "82",
+                    "shopSeller": "迷鹿的人",
+                    "discount": 10.0,
+                    "title": "送裹胸 时尚套装镂空套头上衣裹胸+雪纺阔腿裤三件套",
+                    "cfav": 2983,
+                    "price": 49.0,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k7a4nu",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.4",
+                        "qualityDsr": "4.4",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "时尚套装",
+                        "镂空"
+                    ]
+                },
+                {
+                    "orgPrice": 134.15,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k7f1e8&acm=3.ms.1_4_1k7f1e8.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSMZZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "onSaleTime": "最近上新",
+                    "acm": "3.ms.1_4_1k7f1e8.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSMZZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k7f1e8?acm=3.ms.1_4_1k7f1e8.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSMZZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "link": "http://m.mogujie.com/x6/detail/1k7f1e8?acm=3.ms.1_4_1k7f1e8.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DSMZZGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "img": "http://s2.mogucdn.com/p2/170216/56469371_4h78dc0f0a3ch7ikc6j3kg132jh49_640x960.jpg",
+                    "itemMarks": "-1",
+                    "shopSeller": "后叙【简约、素雅、文艺】",
+                    "discount": 10.0,
+                    "title": "春季新款韩版休闲松紧腰抽绳牛仔连体裤女装纯色宽松高腰显瘦长裤",
+                    "cfav": 3760,
+                    "price": 93.9,
+                    "originalPrice": 134.15,
+                    "tradeItemId": "1k7f1e8",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "牛仔连体裤",
+                        "高腰",
+                        "纯色",
+                        "宽松",
+                        "春季",
+                        "休闲",
+                        "新款",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 70.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k78tbi&acm=3.ms.1_4_1k78tbi.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "acm": "3.ms.1_4_1k78tbi.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k78tbi?acm=3.ms.1_4_1k78tbi.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1k78tbi?acm=3.ms.1_4_1k78tbi.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "img": "http://s2.mogucdn.com/p2/170212/150487176_0bb3jhc4d471d171a2jhliafad3kg_640x960.jpg",
+                    "itemMarks": "82",
+                    "shopSeller": "microcosm小宇宙",
+                    "discount": 10.0,
+                    "title": "T恤半身裙套装 韩版字母印花T恤+高腰蕾丝网纱拼接半身裙套装",
+                    "cfav": 4181,
+                    "price": 49.0,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k78tbi",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.5",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "裙套装",
+                        "半身",
+                        "高腰",
+                        "网纱",
+                        "蕾丝",
+                        "字母",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 70.0,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k7frto&acm=3.ms.1_4_1k7frto.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "acm": "3.ms.1_4_1k7frto.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k7frto?acm=3.ms.1_4_1k7frto.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "link": "http://m.mogujie.com/x6/detail/1k7frto?acm=3.ms.1_4_1k7frto.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DIOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DCNRYFYYCG4J2GAXDAI3EHIZTAMBOGA",
+                    "img": "http://s2.mogucdn.com/p2/170217/73271236_2398969l40jf76kg8gb6jc177ifak_640x960.jpg",
+                    "itemMarks": "82 148",
+                    "shopSeller": "秋田格子美衣",
+                    "discount": 10.0,
+                    "title": "春季新品高腰短款条纹显瘦卫衣+百搭显瘦黑色阔腿裤套装",
+                    "cfav": 4626,
+                    "price": 49.0,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k7frto",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.5",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "套装",
+                        "高腰",
+                        "条纹",
+                        "春季",
+                        "百搭显瘦",
+                        "短款"
+                    ]
+                },
+                {
+                    "orgPrice": 112.86,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k78q3a&acm=3.ms.1_4_1k78q3a.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DOOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "acm": "3.ms.1_4_1k78q3a.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DOOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k78q3a?acm=3.ms.1_4_1k78q3a.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DOOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "link": "http://m.mogujie.com/x6/detail/1k78q3a?acm=3.ms.1_4_1k78q3a.0.2520-22922.i6fb8qcCAqPqD.t_0-lc_16-i_OA5DOOJQGBPXKYJ2GE3TAX3QME5DAX3DHI3TAMY-s1_OA5DIOJYFYYCG4J2GAXDAI3EHIYC4MA",
+                    "img": "http://s2.mogucdn.com/p2/170212/45145119_7adab5lfda397783hba4kd506lc6c_640x960.jpg",
+                    "itemMarks": "-1",
+                    "shopSeller": "阿朵家",
+                    "discount": 10.0,
+                    "title": "春装新款宽松复古印花长袖衬衫+大摆网纱拼接金丝绒半身裙套装",
+                    "cfav": 265,
+                    "price": 79.0,
+                    "originalPrice": 112.86,
+                    "tradeItemId": "1k78q3a",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [
+                        
+                    ],
+                    "props": [
+                        "裙套装",
+                        "半身",
+                        "金丝绒",
+                        "大摆",
+                        "网纱",
+                        "印花",
+                        "拼接",
+                        "复古",
+                        "宽松",
+                        "新款"
+                    ]
+                }
+            ]
+        },
+        "banner": {
+            
+        }
+    },
+    "success": true
+}

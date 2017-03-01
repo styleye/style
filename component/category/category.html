@@ -1,12 +1,24 @@
 <!--分类-->
-<div id="category">
-	<!--搜索栏-->
+<div id="category" ui-view>
+	<!--头部-->
 	<div id="search_bar">
-		<div class="search_content">
-			<div class="addr_name">首都大酒店 正义路10号院</div>
-			<div class="search_btn">
-				搜&nbsp;索
+		
+	</div>
+	<div class="category_main">
+		<aside class="category_asd">
+			<ul class="category_nav">
+				<li ng-repeat="obj in arr" ng-click="getKey(obj.maitKey,obj.image)">{{obj.title}}</li>
+			</ul>
+		</aside>
+		<section class="category_sec">
+			<div ng-if="img.length>0" class="imgs"><img src="{{img}}"/></div>
+			<div ng-repeat="obj1 in arrList" class="good_item">
+				<a href="" ui-sref="category.fashion">
+				<img src="{{obj1.image}}"/>
+				<p>{{obj1.title}}</p>
+				</a>
 			</div>
-		</div>
+		</section>
+		
 	</div>
 </div>

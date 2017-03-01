@@ -12,27 +12,32 @@ angular.module("categoryModule",['ui.router'])
 
 .service('categoryData',['$http',function($http){
 	this.get=function(){
-		return $http.get('json/5.json');
+		return $http.get('component/category/json/category.json');
 	}
 }])
-.service('swipe',['$timeout',function($timeout){
-	this.swipe=function(){
-		$timeout(function(){
-			 mySwiper = new Swiper ('.swiper-container', {
-			    loop: true,
-			    autoplay:1000,
-			    autoplayDisableOnInteraction : false,
-			    paginationClickable :true,
-			    pagination: '.swiper-pagination',
-	 	 })
-		},50);
+.service('categoryHot',['$http',function($http){
+	this.get=function(){
+		return $http.get('component/category/json/3627.json');
+	}
+}])
 
-	}
-}])
-.controller('categoryCtrl',['$scope','categoryData','swipe',function($scope,categoryData,swipe){
+.controller('categoryCtrl',['$scope','categoryData','categoryHot',function($scope,categoryData,categoryHot){
 	categoryData.get().success(function(res){
-		$scope.arr = res.product;
-		console.log(res.product)
-		swipe.swipe();
+		$scope.arr = res.data[581].list;
+		console.log(res.data[581].list)
 	})
+	categoryHot.get().success(function(res){
+		$scope.arrList = res.data[3627].list
+		//console.log(res.data[3627].list)
+	})
+	$scope.getKey = function(key,imgUrl){
+		console.log(imgUrl.length);
+		$scope.img = imgUrl;
+		$.getJSON('component/category/json/'+key+'.json',function(data){
+			$scope.arrList = data.data[key].list;
+			//console.log(data.data[key].list)
+		})	
+	}
+	
+	
 }])
