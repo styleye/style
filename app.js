@@ -1,19 +1,13 @@
-angular.module('myApp',['ui.router','angularCSS','homeModule'])
+document.documentElement.style.fontSize=43*innerWidth/320+'px';
+window.onresize=function(){
+	document.documentElement.style.fontSize=43*innerWidth/320+'px';
+}
+angular.module('myApp',['ui.router','angularCSS','homeModule','categoryModule','goodproductsModule'])
 .config(function($stateProvider, $urlRouterProvider) {
     //这个是首先加载什么页面
     $urlRouterProvider.otherwise('/home/local');
     
     $stateProvider
-        
-        // HOME STATES AND NESTED VIEWS ========================================
-//  .state('home', {
-//      url: '/home',
-//      templateUrl: 'component/home/home.html'
-//  })
-   .state('category', {
-        url: '/category',
-        templateUrl: 'component/category/category.html'
-    })
    .state('home.local', {
         url: '/local',
         templateUrl: 'component/home/local/local.html'
