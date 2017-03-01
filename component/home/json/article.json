@@ -1,0 +1,547 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": ""
+    },
+    "result": {
+        "skuInfo": {
+            "title": "冬装新品男士中长款棉衣韩版青年宽松连帽加厚保暖棉服情侣外套潮",
+            "skus": [
+                {
+                    "stockId": "1omn9bc",
+                    "xdSkuId": "1omn9bc",
+                    "price": 21300,
+                    "nowprice": 14910,
+                    "img": "http://s2.mogucdn.com/p2/161220/127727100_3ck0gadcbk6ejk8db5ij2ij8jc1d9_640x960.jpg",
+                    "currency": "￥",
+                    "stock": 0,
+                    "style": "黑色",
+                    "size": "M",
+                    "styleId": 1,
+                    "sizeId": 100
+                },
+                {
+                    "stockId": "1omn9be",
+                    "xdSkuId": "1omn9be",
+                    "price": 21300,
+                    "nowprice": 14910,
+                    "img": "http://s2.mogucdn.com/p2/161220/127727100_3ck0gadcbk6ejk8db5ij2ij8jc1d9_640x960.jpg",
+                    "currency": "￥",
+                    "stock": 68,
+                    "style": "黑色",
+                    "size": "L",
+                    "styleId": 1,
+                    "sizeId": 101
+                },
+                {
+                    "stockId": "1omn9bg",
+                    "xdSkuId": "1omn9bg",
+                    "price": 21300,
+                    "nowprice": 14910,
+                    "img": "http://s2.mogucdn.com/p2/161220/127727100_3ck0gadcbk6ejk8db5ij2ij8jc1d9_640x960.jpg",
+                    "currency": "￥",
+                    "stock": 0,
+                    "style": "黑色",
+                    "size": "XL",
+                    "styleId": 1,
+                    "sizeId": 102
+                },
+                {
+                    "stockId": "1p3irei",
+                    "xdSkuId": "1p3irei",
+                    "price": 21300,
+                    "nowprice": 14910,
+                    "img": "http://s2.mogucdn.com/p2/161220/127727100_3ck0gadcbk6ejk8db5ij2ij8jc1d9_640x960.jpg",
+                    "currency": "￥",
+                    "stock": 4,
+                    "style": "黑色",
+                    "size": "S",
+                    "styleId": 1,
+                    "sizeId": 103
+                }
+            ],
+            "props": [
+                {
+                    "label": "颜色:",
+                    "list": [
+                        {
+                            "type": "style",
+                            "name": "黑色",
+                            "isDefault": false,
+                            "styleId": 1,
+                            "index": 1
+                        }
+                    ],
+                    "isDefault": false
+                },
+                {
+                    "label": "尺码:",
+                    "list": [
+                        {
+                            "type": "size",
+                            "name": "M",
+                            "isDefault": false,
+                            "sizeId": 100,
+                            "index": 100
+                        },
+                        {
+                            "type": "size",
+                            "name": "L",
+                            "isDefault": false,
+                            "sizeId": 101,
+                            "index": 101
+                        },
+                        {
+                            "type": "size",
+                            "name": "XL",
+                            "isDefault": false,
+                            "sizeId": 102,
+                            "index": 102
+                        },
+                        {
+                            "type": "size",
+                            "name": "S",
+                            "isDefault": false,
+                            "sizeId": 103,
+                            "index": 103
+                        }
+                    ],
+                    "isDefault": false
+                }
+            ],
+            "styleKey": "颜色",
+            "sizeKey": "尺码",
+            "priceRange": "¥149.10",
+            "defaultPrice": "¥149.10",
+            "isAbroad": false,
+            "totalStock": 72
+        },
+        "itemInfo": {
+            "desc": "默认圆通！偏大，宽松版型。 七天无理由退换货 购物全面保障！",
+            "userId": "14839rk",
+            "shopId": "1q0hne",
+            "title": "冬装新品男士中长款棉衣韩版青年宽松连帽加厚保暖棉服情侣外套潮",
+            "discountDesc": "7折",
+            "discountBgColor": "#f13e3a",
+            "lowPrice": "213.00",
+            "highPrice": "213.00",
+            "lowNowPrice": "149.10",
+            "highNowPrice": "149.10",
+            "iid": "1k5gbiy",
+            "isSelf": false,
+            "isFaved": false,
+            "imUrl": "mgjim://talk?&bid=1q0hne&goodsId=1k5gbiy&userId=14839rk&shopId=1q0hne",
+            "state": 0,
+            "topImages": [
+                "http://s2.mogucdn.com/p2/161215/127727100_44k4lcahfh1k0e0d48ecbcgdkgf5a_640x960.jpg",
+                "http://s2.mogucdn.com/p2/161215/127727100_834hf14gh5283e4ekld41blg0jcjk_640x960.jpg",
+                "http://s2.mogucdn.com/p2/161215/127727100_8e30j4jf4f5bdbacd1a2ck6e2842a_640x960.jpg",
+                "http://s2.mogucdn.com/p2/161215/127727100_8aab52903d4j9d8g3jfce6k4fgf6l_640x960.jpg",
+                "http://s2.mogucdn.com/p2/161215/127727100_38ck0ceff46al6b08d6i4hj69465h_640x960.jpg",
+                "http://s2.mogucdn.com/p2/161215/127727100_4kgaai8b9b74eicijgdgki28ggef7_640x960.jpg"
+            ],
+            "oldPrice": "¥213.00",
+            "price": "¥149.10",
+            "saleType": 0,
+            "tags": "",
+            "inActivity": false,
+            "redPacketsSwitch": false,
+            "cFav": 0,
+            "admin": false,
+            "cids": "#682# #822# #823# #835#",
+            "cartNum": 0,
+            "extra": {},
+            "addCartTips": true
+        },
+        "topBar": {
+            "img": "http://s2.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+            "link": "http://www.xiaodian.com/h5/download"
+        },
+        "detailInfo": {
+            "desc": "默认圆通！偏大，宽松版型。 七天无理由退换货 购物全面保障！",
+            "detailImage": [
+                {
+                    "desc": "",
+                    "key": "穿着效果",
+                    "anchor": "model_img",
+                    "list": [
+                        "http://s2.mogucdn.com/p2/170106/127727100_31j52008761h6fa92957ifj4ge0kj_900x1200.jpg",
+                        "http://s2.mogucdn.com/p2/161215/127727100_1gehh3e3e2d212hjlijac29ba3geb_800x1079.jpg",
+                        "http://s2.mogucdn.com/p2/161215/127727100_34c9d2kh77h96gc07l44cfea1if37_800x905.jpg",
+                        "http://s2.mogucdn.com/p2/161215/127727100_6d9h7093iiddk23dg40h174ad83fd_800x1200.jpg",
+                        "http://s2.mogucdn.com/p2/161215/127727100_1bb903l2175bcfjjdg9ef1jh67gkc_800x1200.jpg",
+                        "http://s11.mogucdn.com/p2/161215/127727100_26hjjj23b6beh566d5e41jh1hc9b3_800x1023.jpg",
+                        "http://s2.mogucdn.com/p2/161215/127727100_3d21ldicli55204725c5g7gfh7c6k_800x1023.jpg",
+                        "http://s18.mogucdn.com/p2/161215/127727100_2l57ihc9k6ca3cffda1c3fk63e27g_800x1065.jpg",
+                        "http://s2.mogucdn.com/p2/161215/127727100_0jf14fjd7d7c5889j6l7ldh18d0e3_800x1065.jpg",
+                        "http://s2.mogucdn.com/p2/161215/127727100_6hjh139alg120bj8hegi9687i12f1_800x800.jpg",
+                        "http://s2.mogucdn.com/p2/161215/127727100_5dc3ejg1713173e17dgc197g7fd6g_800x800.jpg",
+                        "http://s2.mogucdn.com/p2/161215/127727100_541jc6f65fhi1h76e0i090b9h1210_800x1200.jpg",
+                        "http://s2.mogucdn.com/p2/161215/127727100_6ccckghggbji56cfj459ge4g94h7l_800x1200.jpg"
+                    ]
+                },
+                {
+                    "desc": "",
+                    "key": "整体款式",
+                    "anchor": "baipai_img2",
+                    "list": [
+                        "http://s2.mogucdn.com/p2/161122/127727100_1a8jfiehijd6bf58efdflef75feih_800x800.jpg"
+                    ]
+                }
+            ]
+        },
+        "columns": [
+            "全国包邮",
+            "销量 1737"
+        ],
+        "promotions": {
+            "link": "mgj://shoppro?shopId=1q0hne",
+            "alertData": {},
+            "list": [
+                "159元任选2件",
+                "全店铺满149元减15元"
+            ]
+        },
+        "itemParams": {
+            "info": {
+                "set": [
+                    {
+                        "value": "S,M,L,XL",
+                        "key": "尺码"
+                    },
+                    {
+                        "value": "黑色",
+                        "key": "颜色"
+                    },
+                    {
+                        "value": "拉链",
+                        "key": "门襟"
+                    },
+                    {
+                        "value": "长袖",
+                        "key": "袖长"
+                    },
+                    {
+                        "value": "罗纹,口袋",
+                        "key": "细节"
+                    },
+                    {
+                        "value": "插肩袖",
+                        "key": "袖型"
+                    },
+                    {
+                        "value": "韩系",
+                        "key": "风格"
+                    },
+                    {
+                        "value": "加厚",
+                        "key": "厚薄"
+                    },
+                    {
+                        "value": "仿丝棉",
+                        "key": "填充物"
+                    },
+                    {
+                        "value": "宽松",
+                        "key": "版型"
+                    },
+                    {
+                        "value": "长款",
+                        "key": "衣长"
+                    },
+                    {
+                        "value": "连帽",
+                        "key": "领型"
+                    },
+                    {
+                        "value": "纯色",
+                        "key": "图案"
+                    },
+                    {
+                        "value": "锦棉（有光泽）",
+                        "key": "面料材质"
+                    }
+                ],
+                "key": "产品参数",
+                "anchor": "product_info"
+            },
+            "rule": {
+                "desc": "尺码偏宽松，推荐尺寸如下：\ns适合身高160-175，体重120斤以内；\nM适合身高175-180，体重150斤以内；\nL适合身高180-190，体重170斤以内；\nXL适合身高180以上，体重210斤以内。",
+                "tables": [
+                    [
+                        [
+                            "尺码",
+                            "M",
+                            "L",
+                            "XL",
+                            "S"
+                        ],
+                        [
+                            "肩宽",
+                            "插肩袖",
+                            "插肩袖",
+                            "插肩袖",
+                            "插肩袖"
+                        ],
+                        [
+                            "衣长",
+                            "92",
+                            "94",
+                            "96",
+                            "90"
+                        ],
+                        [
+                            "胸围",
+                            "114",
+                            "120",
+                            "126",
+                            "108"
+                        ]
+                    ]
+                ],
+                "key": "尺码说明",
+                "anchor": "size_info",
+                "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+            }
+        },
+        "shopInfo": {
+            "score": [
+                {
+                    "name": "描述相符",
+                    "score": 4.52,
+                    "isBetter": true
+                },
+                {
+                    "name": "价格合理",
+                    "score": 4.47,
+                    "isBetter": true
+                },
+                {
+                    "name": "质量满意",
+                    "score": 4.5,
+                    "isBetter": true
+                }
+            ],
+            "services": [
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_804deld49f8i13gb2gdji12k6h9h2_60x60.png",
+                    "name": "退货补运费"
+                },
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_69l7gg2aeb5jb1k0g5l785gdhk7g0_60x60.png",
+                    "name": "7天无理由退货"
+                },
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_40a944ddkgekbdia0jalfi5jki4h2_60x60.png",
+                    "name": "劣一赔三服务"
+                },
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_8fak1807jfee78jjh49f146g09hc5_60x60.png",
+                    "name": "72小时发货"
+                },
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_4c9fi653lcljc0ig512il61jh3ljl_60x60.png",
+                    "name": "全国包邮"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "『专辑∶T恤』",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=1447952"
+                },
+                {
+                    "name": "『专辑∶牛仔裤』",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20038493"
+                },
+                {
+                    "name": "『秋冬特价区』",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20131124"
+                },
+                {
+                    "name": "『  热销TOP  』",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20151120"
+                },
+                {
+                    "name": "『专辑∶外套』",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20151121"
+                },
+                {
+                    "name": "『秋冬棉衣』",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20151122"
+                },
+                {
+                    "name": "『针织衫/毛衣』",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20151123"
+                },
+                {
+                    "name": "『卫衣』",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20151124"
+                },
+                {
+                    "name": "『夹克』",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20151125"
+                },
+                {
+                    "name": "『秋冬羽绒』",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20160968"
+                },
+                {
+                    "name": "『专辑∶衬衫』",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20163852"
+                },
+                {
+                    "name": "『NEW/当季新品』",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20166407"
+                },
+                {
+                    "name": "春装第一季",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20166408"
+                },
+                {
+                    "name": "春装第二季",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20166409"
+                },
+                {
+                    "name": "『专辑∶休闲裤』",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20166431"
+                },
+                {
+                    "name": "『专辑∶短裤』",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20166432"
+                },
+                {
+                    "name": "春装第三季",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20168101"
+                },
+                {
+                    "name": "159元2件专区",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20168758"
+                },
+                {
+                    "name": "春装第四季",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20168881"
+                },
+                {
+                    "name": "春装第五季",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20170943"
+                },
+                {
+                    "name": "春装第六季",
+                    "link": "http://shop.mogujie.com/1q0hne/list/index?categoryId=20174035"
+                }
+            ],
+            "cFans": 8431,
+            "cSells": 33304,
+            "allGoodsUrl": "http://m.mogujie.com/v8/meili/shopSearch?shopid=1q0hne",
+            "shopUrl": "http://m.mogujie.com/v8/meili/shop?shopid=1q0hne",
+            "isMarked": false,
+            "cGoods": 105,
+            "userId": "14839rk",
+            "shopLogo": "http://s2.mogucdn.com/p2/161226/241mv0_7cb38ial20adibh6bg06kbj5ak3a7_360x360.jpg",
+            "name": "T-rz原创潮牌男装",
+            "shopId": "1q0hne",
+            "tag": "http://s2.mogucdn.com/p1/170103/idid_ie4wkmrrhbrgcojtmqzdambqgqyde_56x36.png",
+            "type": 1,
+            "level": 4
+        },
+        "listBanner": {
+            "downloadBanner": {
+                "bgImg": "http://s8.mogucdn.com/p1/160709/t0_ie4dsndgmjrtgntbhezdambqgiyde_750x109.jpg",
+                "link": "https://www.mogujie.com/mage/app/tuiguang?package=MAMtxdetai01.apk&pkgname=com.mogujie&ckey=CK1297357065612",
+                "acm": "3.mce.1_10_19sa8.5694.0.0Fy84qcBo6eYp.m_228252"
+            }
+        },
+        "rate": {
+            "list": [
+                {
+                    "user": {
+                        "uid": "",
+                        "uname": "w***b",
+                        "avatar": "http://s2.mogucdn.com/p1/160105/idid_ifrwem3ggvswgntfguzdambqhayde_160x160.jpg",
+                        "profileUrl": "",
+                        "tagIndex": ""
+                    },
+                    "images": [
+                        "http://s2.mogucdn.com/p2/170116/1104392195_535e412428853iblkc4i0l2fakfgb_3456x4608.jpg"
+                    ],
+                    "rateId": "1scxbry",
+                    "content": "很喜欢   跟描述的一样。给老爸买的自己拿来试了下。喜欢。。。",
+                    "created": 1484523558,
+                    "isAnonymous": 0,
+                    "style": "颜色:黑色 尺码:L ",
+                    "isEmpty": 0,
+                    "level": "",
+                    "canExplain": false
+                },
+                {
+                    "user": {
+                        "uid": "",
+                        "uname": "曉***y",
+                        "avatar": "http://s2.mogucdn.com/p1/160105/idid_ifrwenbygrsggntfguzdambqhayde_160x160.jpg",
+                        "profileUrl": "",
+                        "tagIndex": ""
+                    },
+                    "images": [
+                        "http://s2.mogucdn.com/p2/170119/197971825_8427g4hfhkl2lk8cjlhl6ab419h6a_1080x1458.jpg",
+                        "http://s2.mogucdn.com/p2/170119/197971825_6a1a250id44jc5l47lkc8a28bbbf2_1080x1458.jpg"
+                    ],
+                    "rateId": "1sf49c6",
+                    "content": "这不是拉链坏了，这是没有那一块。我不知道这样的货还能给顾客吗？衣服版型就不说了，拉链一坏。穿都没法穿。希望商家给个说法。",
+                    "created": 1484828182,
+                    "isAnonymous": 1,
+                    "style": "颜色:黑色 尺码:M ",
+                    "isEmpty": 0,
+                    "level": "",
+                    "canExplain": false,
+                    "extraInfo": [
+                        "体重:65 kg",
+                        "身高:176 cm",
+                        "是否合身:偏大"
+                    ]
+                }
+            ],
+            "cRate": 250,
+            "rateTags": [
+                {
+                    "emotion": "positive",
+                    "property": "质量",
+                    "value": "质量很好",
+                    "num": 22
+                },
+                {
+                    "emotion": "positive",
+                    "property": "款式",
+                    "value": "款式好",
+                    "num": 10
+                },
+                {
+                    "emotion": "positive",
+                    "property": "厚度",
+                    "value": "很厚实",
+                    "num": 7
+                },
+                {
+                    "emotion": "positive",
+                    "property": "做工",
+                    "value": "做工不错",
+                    "num": 6
+                },
+                {
+                    "emotion": "positive",
+                    "property": "性价比",
+                    "value": "性价比高",
+                    "num": 6
+                }
+            ]
+        },
+        "itemTags": [
+            {
+                "icon": "http://s2.mogucdn.com/p1/160331/upload_ie4dcyjqgyytcm3bg4zdambqgiyde_30x31.png",
+                "name": "蘑菇良品",
+                "content": "蘑菇良品商品来自品质商家，购买此商品因质量问题、描述不符等原因发起维权，且维权成立，您将得到3倍赔偿。"
+            }
+        ],
+        "isLogin": false,
+        "esi": "<esi:try><esi:attempt><esi:include src='http://m.mogujie.com/detail/mgj/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>"
+    }
+}
