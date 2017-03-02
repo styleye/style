@@ -1,0 +1,323 @@
+#tab,#good_products{
+	display: none;
+}
+.sec_goodIntro_wrap{
+	position: relative;
+	overflow: hidden;
+    width: 100%;
+    margin: 0 auto;
+    background: #fff;
+}
+.sec_primary-navbar {
+    position: absolute;
+    top: 0;
+    z-index: 11;
+    width: 100%;
+    padding: .2rem;
+}
+/*清除浮动*/
+.clear_f:before,.clear_f:after{
+	content: " ";  
+	display: block;  
+	height: 0;  
+	visibility: hidden;
+}
+.clear_f:after{
+	clear: both;
+}
+.clear_f{
+	zoom: 1;
+}
+
+.sec_primary-navbar .sec_back{
+    float: left;
+    font-size: 0.8rem;
+    width: 1rem;
+    height: 1rem;
+    line-height: 1rem;
+    padding-left: 0.3rem;
+    border-radius: 50%;
+    color: #fff;
+    background: rgba(0,0,0,.4);
+}
+.sec_primary-navbar .sec_cart {
+    float: right;
+    padding-left: 0;
+    background: url(http://s18.mogucdn.com/p1/150814/upload_ie2tky3fgi4tsmrqgmzdambqhayde_80x80.png) no-repeat center center;
+    background-size: 100%;
+    font-size: 0.19rem;
+    width: 1rem;
+    height: 1rem;
+    line-height: 1rem;
+    border-radius: 50%;
+    color: #fff;
+}
+#sec_goodDetail .sec_swiper-container{
+	width: 100%;
+}
+
+/*基本信息*/
+.sec_primary-info {
+	background: #fff;
+    overflow: hidden;
+}
+.sec_primary-info .sec_info-title {
+    line-height: .4rem;
+    margin-top: .38rem;
+    color: #424242;
+    font-size: .32rem;
+    padding: 0 .3rem;
+    text-align: center;
+}
+.sec_primary-info .sec_info-desc {
+    line-height: .42rem;
+    margin-top: .16rem;
+    color: #999;
+    font-size: .32rem;
+    padding: 0 .3rem;
+    text-align: center;
+}
+/*价格*/
+.sec_primary-info .sec_info-price {
+    height: .44rem;
+    margin-top: .24rem;
+    text-align: center;
+}
+.sec_primary-info .sec_info-price>span{
+	display: inline-block;
+}
+
+
+.sec_primary-info .sec_info-price .sec_now {
+    line-height: .44rem;
+    color: #000;
+    font-size: .44rem;
+}
+.sec_primary-info .sec_info-price .sec_market {
+    line-height: .28rem;
+    margin: .14rem 0.1rem 0 .1em;
+    color: #999;
+    font-size: .28rem;
+    text-decoration: line-through;
+}
+.sec_primary-info .sec_info-price .sec_discount {
+    height: .32rem;
+    line-height: .32rem;
+    margin: 0 0 0 .015rem;
+    padding: 0 .08rem;
+    color: #fff;
+    font-size: .22rem;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 1px;
+}
+.sec_primary-info .sec_info-other-notopbor {
+	text-align: center;
+    padding-top: 0;
+    border-top-width: 0;
+    margin: .4rem .3rem .3rem;
+    /*border-top: 1px solid #eaeaea;*/
+}
+.sec_primary-info .sec_info-other .sec_item {
+    display: inline-block;
+    width: 2rem;
+    line-height: .26rem;
+    border-right: 1px solid #dbdbdb;
+    color: #999;
+    font-size: .26rem;
+    text-align: center;
+}
+.sec_primary-info .sec_info-other .sec_item:last-child {
+    border-right-width: 0;
+}
+.sec_primary-info .sec_info-itemtags {
+	position: relative;
+    margin: 0 .3rem;
+    border-top: 1px solid #eaeaea;
+}
+.sec_primary-info .sec_info-itemtags .sec_inner {
+    height: .32rem;
+    display: block;
+    overflow: hidden;
+    margin: .25rem 0;
+}
+.sec_primary-info .sec_info-itemtags .sec_item {
+    line-height: .32rem;
+    float: left;
+    margin-right: .3rem;
+    font-size: .26rem;
+    color: #999;
+}
+.sec_primary-info .sec_info-itemtags .sec_item img {
+    width: .3rem;
+    margin-right: .1rem;
+    vertical-align: text-bottom;
+}
+.sec_primary-info .sec_info-itemtags .sec_more {
+    position: absolute;
+    top: .26rem;
+    right: 0;
+    color: #666;
+    font-size: .26rem;
+    line-height: .3rem;
+}
+.sec_arrow {
+    border-top: 1px solid #999;
+    border-left: 1px solid #999;
+    width: .16rem;
+    height: .16rem;
+    background-color: transparent;
+    -webkit-transform: rotate(135deg);
+    display: inline-block;
+    margin-left: .05rem;
+}
+
+
+/*促销信息*/
+.sec_primary-promotions .sec_mbanner-top {
+    height: .2rem;
+    border-top: 1px solid #dedede;
+    background: #eaeaea;
+}
+.sec_primary-promotions .sec_inner {
+    display: block;
+    overflow: hidden;
+    background: #fff;
+    padding: .3rem;
+}
+.sec_primary-promotions .sec_more {
+    float: right;
+    color: #666;
+    font-size: .26rem;
+    line-height: .32rem;
+}
+.sec_primary-promotions .sec_item {
+    float: left;
+    /*max-width: 11.5rem;*/
+    overflow: hidden;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    position: relative;
+    color: #333;
+    font-size: .3rem;
+    line-height: .32rem;
+    padding-left: .25rem;
+    margin-right: .3rem;
+}
+.sec_primary-promotions .sec_item i {
+    position: absolute;
+    left: 0;
+    top: .1rem;
+    border: .05rem solid #f13e3a;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    font-size: 0;
+    line-height: 0;
+    vertical-align: middle;
+}
+
+/*商品详情-评价列表 */
+.sec_detail-wrap .sec_plr30 {
+	background: #fff;
+    padding-left: .3rem;
+    padding-right: .3rem;
+}
+.sec_rates-top {
+    height: .2rem;
+    border-top: 1px solid #dedede;
+    background: #eaeaea;
+}
+
+.sec_rates-head .sec_title {
+    padding: .4rem 0 .3rem;
+    color: #333;
+    font-size: .3rem;
+    display: block;
+    line-height: .3rem;
+}
+.sec_rates-head .sec_more {
+    float: right;
+    color: #666;
+    font-size: .26rem;
+    line-height: .3rem;
+}
+
+
+
+.sec_rate-item {
+    border-top: 1px solid #eee;
+    padding-top: .3rem;
+    margin-bottom: .3rem;
+}
+.sec_rate-user .sec_user-info {
+    display: inline-block;
+    line-height: 0.82rem;
+}
+.sec_rate-user .sec_user-info .sec_avatar {
+    width: 0.82rem;
+    height: 0.82rem;
+    border: 1px solid #efefef;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+.sec_rate-user .sec_user-info .sec_name {
+    margin-left: .2rem;
+    color: #424242;
+    font-size: .3rem;
+    vertical-align: middle;
+    line-height: 0.82rem;
+}
+
+.sec_rate-cont {
+    line-height: .34rem;
+    margin-top: .1rem;
+    color: #727272;
+    font-size: .28rem;
+}
+
+.sec_rate-attr {
+    line-height: .24rem;
+    margin-top: .15rem;
+}
+.rate-attr .sec_time {
+    color: #999;
+    font-size: .24rem;
+}
+.sec_rate-attr .sec_sku {
+    margin-left: .15rem;
+    color: #999;
+    font-size: .24rem;
+}
+.sec_rate-imgs {
+    overflow: hidden;
+    margin-top: .25rem;
+    font-size: 0;
+}
+.sec_rate-imgs .sec_item {
+    width: 1.4rem;
+    display: inline-block;
+    margin-bottom: .05rem;
+    margin-right: .05rem;
+}
+.sec_rate-imgs .sec_item img {
+    width: 100%;
+    border: none;
+    vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

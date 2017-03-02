@@ -1,0 +1,103 @@
+<div id="sec_goodDetail">
+	
+	<!--商品介绍首屏-->
+	<div class="sec_goodIntro_wrap">
+		<!--头部-->
+		<div class="sec_primary-navbar clear_f">
+			<a ui-sref="goodproducts" class="sec_back sec_icon-uniE809"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
+			<a href="/x6/cart/list?sfrom=http%3A%2F%2Fm.mogujie.com%2Fx6%2Fdetail%2F1k5e3k6%3Facm%3D3.mce.1_4_1k5e3k6.7626.15938.qtIkWqcH4CE53.p_3_1-lc_201-mf_11325_117578-idx_1-mfs_40%26ptp%3Dm1._mf1_1064_11325._b_42075f0ad5f058ad_wall_docs.2.cVa5W%26f%3Dbaidusem_4uv5iimn1v" class="sec_cart sec_icon-uniE810"></a>
+		</div>
+		<!--轮播图-->
+		<div class="sec_swiper-container">
+			<div class="swiper-wrapper">
+				<div class="swiper-slide" ng-repeat="obj in rundata">
+					<img src="{{obj}}">
+				</div>
+			</div>
+			<div class="swiper-pagination"></div>
+		</div>
+	</div>
+	
+	
+	<!--基本信息-->
+		<div class="sec_primary-info">
+			<div class="sec_info-title sec_break">{{spIntro.title}}</div>
+			<div class="sec_info-desc sec_break">{{spIntro.desc}}</div>
+			<!-- 价格 -->
+			<div class="sec_info-price sec_center sec_J_InfoPrice">
+				<span class="sec_now">¥{{spIntro.highNowPrice}}</span>
+				<span class="sec_market">¥{{spIntro.highPrice}}</span>
+				<span class="sec_discount" style="background-color: {{spIntro.discountBgColor}}">{{spIntro.discountDesc}}</span>
+				<!-- 价格后面的标志 -->
+			</div>
+			<div class="sec_info-other sec_center sec_info-other-notopbor">
+				<span class="sec_item" ng-repeat="obj in data.columns">{{obj}}</span>
+			</div>
+			<!-- 商品特色 -->
+			<div class="sec_info-itemtags sec_open-itemTags">
+				<span class="sec_inner">
+					<span class="sec_item">
+						<img src="{{data.itemTags[0].icon}}">{{data.itemTags[0].name}}
+					</span>
+				</span> 
+				<span class="sec_more"><i class="sec_arrow"></i></span>
+			</div>
+		</div>
+		
+		<!--促销信息-->
+		<div class="sec_primary-promotions" id="sec_PrimaryPromotions">
+			<div class="sec_mbanner-top"></div>
+			<span class="sec_inner sec_pro-info">
+				<span class="sec_more">更多<i class="sec_arrow"></i></span>
+				<span class="sec_item"><i></i>{{data.promotions.list[0]}}</span> 
+			</span>
+		</div>
+	
+	
+	<!-- 商品详情-评价列表 -->
+	<div class="sec_detail-wrap sec_detail-rates" id="sec_DetailRates">
+		<!-- 顶部 -->
+		<div class="sec_rates-top"></div>
+		<!-- 标题 -->
+		<div class="sec_rates-head sec_plr30">
+			<a class="sec_title" href="http://h5.mogujie.com/rate/list.html?itemId=1k5e3k6">
+				累计评价 91
+				<span class="sec_more">更多<i class="sec_arrow"></i></span>
+			</a>
+		</div>
+		<!-- 列表 -->
+		<div class="sec_rates-list sec_plr30">
+			<div class="sec_rate-item" ng-repeat="obj in commentInfo">
+				<!-- 用户信息 -->
+				<div class="sec_rate-user">
+					<a class="sec_user-info" href="" data-isanonymous="1"> 
+						<img class="sec_avatar" src="{{obj.user.avatar}}"> 
+						<span class="sec_name">{{obj.user.uname}}</span> 
+					</a>
+				</div>
+				<!-- 评价内容 -->
+				<div class="sec_rate-cont">{{obj.content}}</div>
+				<!-- 属性 -->
+				<div class="sec_rate-attr">
+					<p> 
+						<span class="sec_time">2017-01-11</span> 
+						<span class="sec_sku">{{obj.style}}</span> 
+					</p>
+					<p> </p>
+				</div>
+				<!-- 图片列表 -->
+				<div class="sec_rate-imgs sec_show-img">
+					<a href="/x6/rate/1k5e3k6/rateList" class="sec_item" ng-repeat="obj1 in obj.images"> 
+						<img src="{{obj1}}"> 
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<!--店铺详情-->
+	
+	
+	
+	
+</div>
