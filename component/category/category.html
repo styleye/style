@@ -1,13 +1,17 @@
 <!--分类-->
 <div id="category" ui-view>
 	<!--头部-->
-	<div id="search_bar">
-		
+	<div class="home-topbar">
+		<input type="text" name="" id="" value="" placeholder="简约百搭欧美大降短靴"/>
+		<a href="##" class="talk-mark fa fa-commenting-o"></a>
+		<a href="##" class="shop-mark fa fa-shopping-cart"></a>
+		<a href="##" class="search-mark fa fa-search"></a>
 	</div>
+	<!--导航部分-->
 	<div class="category_main">
 		<aside class="category_asd">
 			<ul class="category_nav">
-				<li ng-repeat="obj in arr" ng-click="getKey(obj.maitKey,obj.image)">{{obj.title}}</li>
+				<li ng-repeat="(i,obj) in arr" ng-click="getKey(obj.maitKey,obj.image,i)" ng-class="{'active':i==index}">{{obj.title}}</li>
 			</ul>
 		</aside>
 		<section class="category_sec">
