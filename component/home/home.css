@@ -60,3 +60,14 @@
 .rowarr{width: 25%;margin-bottom: 0.2rem;}
 .rowarr p{text-align: center;margin-top: 0.02rem;color: #333;}
 .rowarr img{width: 100%;}
+
+
+.run{width: 100%;display: flex;flex-wrap: wrap;padding: 0 0 0 0.2rem;}
+.run>div{width: 48%;background: white;margin-right: 0.12rem;margin-bottom: 0.12rem;}
+.run>div:nth-of-type(even){margin-right: none;}
+.run>div>img{width: 100%;}
+.run>div>.runhei{width: 100%;height: 0.44rem;overflow: hidden;}
+.run>div>div>span{float: left;height: .36rem;line-height: .36rem;padding: 0 .06rem;margin-left: .06rem;font-size: .22rem;background: #eff3f6;color: #5a6f7a;margin-top: 0.05rem;}
+.run>div>p{display: flex;justify-content: space-between;padding: 0 0.2rem;}
+.run>div>p span{font-size: .3rem;font-weight: 700;}
+.run>div>p i{font-size: .24rem}
