@@ -7,7 +7,8 @@
 .home-topbar>.search-mark{left:1.4rem;top:.25rem;font-size:.3rem;color: #cacaca;}
 
 /*轮播图*/
-.swiper-container {width: 100%;margin-top: .83rem;}
+#boxlunbo{padding-top: 0.83rem;}
+.swiper-container {width: 100%;}
 .swiper-slide img{width: 100%;height: auto;}
 
 /*买实惠*/
