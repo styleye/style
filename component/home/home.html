@@ -1,29 +1,36 @@
 
-	<!--搜索栏-->
-	<div id="search_bar">
-		<div class="search_content">
-			<div class="addr_name">首都大酒店 正义路10号院sssssssssssssssssssssssssssssssssssssss</div>
-			<div class="search_btn">
-				搜&nbsp;索
-			</div>
-		</div>
-	</div>
-	<li ng-repeat="obj in arr">
-		<h4>{{obj.product_name}}</h4>
-</li>
-<nav><a ui-sref="home.local" href="">本地超市</a><a ui-sref="home.nonlocal"  href="">外地超市</a></nav>
+<i class="fa fa-shopping-cart" aria-hidden="true"></i>
 <div class="swiper-container">
 		<div class="swiper-wrapper">
-			<div class="swiper-slide">
-				s2
-			</div>
-			<div class="swiper-slide">
-				s1
-			</div>
-			<div class="swiper-slide">
-				s3
-			</div>
+			<div class="swiper-slide" ng-repeat="obj in headarr"><img src="{{obj.image}}"/></div>
 		</div>
 		<div class="swiper-pagination"></div>
+</div>
+<div id="nav">
+	<div class="floor-title ">
+		<div class="floor-bg">买实惠</div>
+		<div class="floor-fg">热门促销</div>
 	</div>
+</div>
+<div id="shoop">
+	<div class="shoopLeft"><img src="{{shoopLeft.image}}"/></div>
+	<div class="shoopRight">
+		<div class="shoopTop"><img src="{{shoopTop.image}}"/></div>
+		<div class="shoopBottom">
+			<div><img src="{{shoopBottomone.image}}"/></div>
+			<div><img src="{{shoopBottomtwo.image}}"/></div>
+		</div>
+	</div>
+</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+<nav><a ui-sref="home.local" href="">本地超市</a><a ui-sref="home.nonlocal"  href="">外地超市</a></nav>
 <div ui-view></div>
