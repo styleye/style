@@ -13,7 +13,7 @@ angular.module("homeModule",['ui.router'])
 
 .service('homeData',['$http',function($http){
 	this.get=function(){
-		return $http.get('json/5.json');
+		return $http.get('component/home/json/header.json');
 	}
 }])
 .service('swipe',['$timeout',function($timeout){
@@ -32,8 +32,12 @@ angular.module("homeModule",['ui.router'])
 }])
 .controller('HomeCtrl',['$scope','homeData','swipe',function($scope,homeData,swipe){
 	homeData.get().success(function(res){
-		$scope.arr = res.product;
-		console.log(res.product)
-		swipe.swipe();
+		console.log(res.data)
+		$scope.headarr=res.data[36344].list;
+		$scope.shoopLeft=res.data[36355].list[0];
+		$scope.shoopTop=res.data[36355].list[1];
+		$scope.shoopBottomone=res.data[36355].list[2];
+		$scope.shoopBottomtwo=res.data[36355].list[3];
 	})
+	swipe.swipe();
 }])
