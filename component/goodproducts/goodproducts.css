@@ -190,7 +190,7 @@
 .good_divide_line{
 	height: 0.2rem;
 	width: 100%;
-	background: pink;
+	/*background: pink;*/
 }
 /*良品推荐模块*/
 .lp_goods{
@@ -249,12 +249,12 @@
 .good_detail_title{
 	padding: 0.3rem 0 0rem 0;
 }
-.floor_title {
+.good_floor_title {
     padding: 0.3rem 0 0.2rem 0;
     text-align: center;
     line-height: 1;
 }
-.title_bg{
+.good_title_bg{
     font-size: 0.3rem;
     color: #333333;
     width: 3.13rem;
@@ -288,17 +288,17 @@
     height: 4.62rem;
     width: 100%;
 }
-.name_box {
+.goods_info>.name_box {
     margin: .18rem .18rem .14rem .1rem;
     height: .36rem;
     overflow: hidden;
 }
-.name_tags {
+.goods_info>.name_box>.name_tags {
     height: .36rem;
     width: 100%;
     overflow: hidden;
 }
-.title_tag {
+.goods_info>.name_box>.name_tags>.title_tag {
     float: left;
     height: .36rem;
     line-height: .36rem;
@@ -309,9 +309,35 @@
     color: #5a6f7a;
 }
 
-.bot_box{
+.goods_info>.bot_box{
 	margin: 0 .18rem;
 }
+.good_p_price{
+	float: left;
+    max-width: 45%;
+    margin-top: .02rem;
+    font-size: .3rem;
+    font-weight: 700;
+    color: #333;
+    overflow: hidden;
+}
+
+.good_p_feed{
+	float: right;
+	max-width: 45%;
+    height: .24rem;
+    line-height: .24rem;
+    margin-top: .11rem;
+    padding-right: .3rem;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAuCAAAAABLtcWwAAAAAmJLR0QA/4ePzL8AAAJVSURBVEjHjZULb6JAFIX5///ggNYXRdRq3fog2tVqo61r3DWRNU3MqkmNNru6oS0qa63Oig9AEOTEyNzL/WRmOHOlyCkp1Uikqpy8RZ1KTi+x0eXUNZDE9XC4+Vq7BEREFoQsomi5A+QLpqdee8yF7AoQ8HU3uIXgBuiC3e+PwuLXeWARgngY/0Tw31mgjIwepFE6B4wQkPRICmDoDHzyqBvjOvhPR6COxHHi+vgHjgC5U+bhHZmm6AVf7sgWQHoqbv3DPpgXWWO3vio+SRqgtG+DajIsNMbkhMYNIazeD+bbigq0vQAdzTcl4iCpmY/QgLdNqD6YTEsmLiSLWQZ96gsabqoPm3hDcZDcAxI4SkDNPVBDlhrg4tlt/bMfA4o8IvTHXf3vEB7V91AA52oZEofC9sWtsojMztfPosiudtZYJpFYnqtfJpBUi7ZeWsRws3KuX6UQ3Z6+nflm3KnzbpQAbjftvVtfg+qC7FVA8JUYATL2oWJfX4HvYGTtAPURtwfi6BMz8IKUPZDCyAJ0kbcHcuhaANHagnSV9eamAXUn19bwzQKUTjb3vVr64zVA0KdpVQ9ZCxDH2B6Y4MoChGgH/y3pkAVg/Ecli8VRGKDXJmAO3jiFO7+/ODEkeMxNwF9DF+6madCbT1rfhiQmJkBzxup7HPBV394efEDsx/6Y6N44ABPE1Mv0ftN7w+KHOv4QNy2Vvd/+vV/B7NY1i8p7J+cBUn196v0U4Ml13qsImRdNXhi1Q3vujEtVn1zyqHnG6lYyyHDJ5pxYpDSTXGaghf8BQmofv0UdUUcAAAAASUVORK5CYII=) no-repeat top right;
+    background-size: auto .23rem;
+    font-size: .24rem;
+    color: #999;
+    overflow: hidden;
+}
+
+
+
 
 
 /*页脚留白*/

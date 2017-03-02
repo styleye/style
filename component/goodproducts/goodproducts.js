@@ -41,7 +41,7 @@ angular.module("goodproductsModule",['ui.router'])
 	
 }])
 
-
+//轮播图
 .service('swipe',['$timeout',function($timeout){
 	this.swipe=function(){
 		$timeout(function(){
@@ -56,8 +56,37 @@ angular.module("goodproductsModule",['ui.router'])
 	}
 }])
 
+//计时器
+.service('leftTimer',['$interval',function($interval){
+	this.leftTimer=function(){
+		$interval(function(){
+			function leftTimer(year,month,day,hour,minute,second){ 
+				 var leftTime = (new Date(year,month-1,day,hour,minute,second)) - (new Date()); //计算剩余的毫秒数 
+				 var days = parseInt(leftTime / 1000 / 60 / 60 / 24); //计算剩余的天数 
+				 var hours = parseInt(leftTime / 1000 / 60 / 60 % 24); //计算剩余的小时 
+				 var minutes = parseInt(leftTime / 1000 / 60 % 60);//计算剩余的分钟 
+				 var seconds = parseInt(leftTime / 1000 % 60);//计算剩余的秒数 
+				 days = checkTime(days); 
+				 hours = checkTime(hours); 
+				 minutes = checkTime(minutes); 
+				 seconds = checkTime(seconds); 
+					$(".hr").html(hours);
+					$(".min").html(minutes);
+					$(".sec").html(seconds);
+				} 
+			setInterval(leftTimer(2017,03,02,14,00,00),1000); 
+			function checkTime(i){
+				//将0~9的数字前加上0,如1在页面显示为01
+				if(i<10){
+					i="0"+i;
+				}
+				return i;
+			}
+		},50)
+	}
+}])
 
-.controller('goodproductsCtrl',['$scope','goodproductsData','swipe',function($scope,goodproductsData,swipe){
+.controller('goodproductsCtrl',['$scope','goodproductsData','swipe','leftTimer',function($scope,goodproductsData,swipe,leftTimer){
 	goodproductsData.get().success(function(res){
 		$scope.obj = res.data;
 		//轮播图数据
@@ -66,6 +95,9 @@ angular.module("goodproductsModule",['ui.router'])
 
 		//限时抢购数据
 		$scope.limitedData=res.data[8927].list;
+		
+		//限时抢购倒计时
+		leftTimer.leftTimer();
 		//蘑菇优选数据
 		$scope.good_introduceData=res.data[7286].list;
 
@@ -78,7 +110,7 @@ angular.module("goodproductsModule",['ui.router'])
 	//	良品精选数据_part1
 	goodproductsData.getpart_1().success(function(res){
 		$scope.part_1=res.result.wall.docs;
-		console.log($scope.part_1);
+//		console.log($scope.part_1);
 //		console.log($scope.part_1[0].leftbottom_taglist[0].bgColor);
 	});
 	
@@ -87,5 +119,9 @@ angular.module("goodproductsModule",['ui.router'])
 		$scope.part_2=res.result.wall.docs;
 //		console.log($scope.part_2);
 	});
+	
+	
+	
+	
 	
 }])
