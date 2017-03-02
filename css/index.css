@@ -1,4 +1,4 @@
-#tab{width: 100%;height: 1rem;display: flex;justify-content: space-around;position: fixed;bottom: 0;border-top: 1px solid #e5e5e5;}
+#tab{width: 100%;height: 1rem;display: flex;justify-content: space-around;position: fixed;bottom: 0;border-top: 1px solid #e5e5e5;background: white;}
 #tab li{width: 100%;display: flex;align-items: center;justify-content: space-around;}
 #tab li div{display: flex;flex-direction: column;align-items: center;}
 #tab li:first-of-type div	span{width: 0.4rem;height: .4rem;background: border-box;display: block;background: url(http://s18.mogucdn.com/p1/160414/upload_ie4tqobqmjqwiylfg4zdambqgqyde_40x40.png) no-repeat;background-size: 100%;}
