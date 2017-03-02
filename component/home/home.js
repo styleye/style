@@ -13,7 +13,7 @@ angular.module("homeModule",['ui.router'])
 
 .service('homeData',['$http',function($http){
 	this.get=function(){
-		return $http.get('component/home/json/header.json');
+		return $http.get('component/home/json/multigit.json');
 	}
 }])
 .service('swipe',['$timeout',function($timeout){
@@ -38,6 +38,9 @@ angular.module("homeModule",['ui.router'])
 		$scope.shoopTop=res.data[36355].list[1];
 		$scope.shoopBottomone=res.data[36355].list[2];
 		$scope.shoopBottomtwo=res.data[36355].list[3];
+		$scope.partobj=res.data[8927].list[0];
+		$scope.modarr=res.data[8927].list[0].list;
+		$scope.rowarr=res.data[4746].list;
 	})
 	swipe.swipe();
 }])

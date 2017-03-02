@@ -1,18 +1,62 @@
-body{background: #f6f6f6;}
-.swiper-container {width: 100%;}
+/*顶部浮动*/body{background: #f6f6f6;}
+.home-topbar{width: 100%;height:.83rem;background:#fff;position: fixed;top: 0;z-index: 11;overflow: hidden;}
+.home-topbar>input{width:70%;height: .5rem;padding-left:0.7rem;border:none;border-radius: 0.03rem;margin-top:0.15rem;margin-left:1.2rem;background: #eeeeee;}
+.home-topbar>a{position:absolute;font-size: 0.5rem;color: #a3a3a3;}
+.talk-mark{left:0.3rem;top: 0.15rem;}
+.shop-mark{right:0.3rem;top: 0.15rem;}
+.home-topbar>.search-mark{left:1.4rem;top:.25rem;font-size:.3rem;color: #cacaca;}
+
+/*轮播图*/
+.swiper-container {width: 100%;margin-top: .83rem;}
 .swiper-slide img{width: 100%;height: auto;}
-#nav{margin-top: -0.05rem;}
+
+/*买实惠*/
+.nav{margin-top: -0.05rem;}
 .floor-title{padding: 0.3rem 0 0.2rem 0;
     text-align: center;
     line-height: 1;background: #f6f6f6;}
 .floor-bg{background: url(img/upload_ifrwkyzymu2damdgg4zdambqhayde_313x10.png)no-repeat center;background-size: 50%;font-size: 0.3rem;}
 .floor-fg{font-size: 0.15rem;margin-top: 0.05rem;}
+/*买实惠图片区*/
 #shoop img{width: 100%;}
-#shoop{width: 100%;display: flex;flex-wrap:nowrap ;height: 100%;}
-#shoop .shoopLeft{width: 43.5%;border-right: solid 1px #CCCCCC;}
-
+#shoop p{font-size: 0.1rem;}
+#shoop{width: 100%;display: flex;flex-wrap:nowrap ;height: 100%;background: white;}
+#shoop .shoopLeft{width: 43.5%;border-right: solid 1px #CCCCCC;position: relative;}
+#shoop .shoopLeft div{position: absolute;top: 0.3rem;left: 0.2rem;}
+#shoop .shoopLeft div p:first-of-type{font-size:.3rem ;}
 #shoop .shoopRight{width: 56.5%;display: flex;flex-direction: column;height: 100%;}
-#shoop .shoopTop{ width: 100%;height: 50%;}
+
+#shoop .shoopTop div{position: absolute;top: 0.2rem;left: 0.2rem;}
+#shoop .shoopTop div p:first-of-type{font-size:.3rem ;}
+#shoop .shoopTop{ width: 100%;height: 50%;border-bottom: solid 1px #CCCCCC;position:relative;}
+
 #shoop .shoopBottom{display: flex;justify-content: space-around;height: 50%;background: white;}
+#shoop .shoopBottomleft{border-right: solid 1px #CCCCCC;position: relative;}
+#shoop .shoopBottomleft div{position: absolute;top: 0.2rem;left: 0.2rem;}
+#shoop .shoopBottomleft div p:first-of-type{font-size:.3rem ;}
 
+#shoop .shoopBottomright{border-right: solid 1px #CCCCCC;position: relative;}
+#shoop .shoopBottomright div{position: absolute;top: 0.2rem;left: 0.2rem;}
+#shoop .shoopBottomright div p:first-of-type{font-size:.3rem ;}
 
+#mod_content{width: 100%;background: white;margin-top: 0.3rem;}
+#mod_content .title-part p{font-size: 0.3rem;}
+#mod_content .title-part span{width: 0.08rem;height: 0.08rem;display: inline-block;background-color: black;border-radius: 0.1rem;margin: 0 0.12rem 0.05rem 0.12rem;}
+#mod_content .ct_num{color: white;font-family: CircularStd-BlackItalic;font-size: 0.25rem;line-height: 0.4rem;display: inline-block;padding: 0 0.06rem;border-radius: 0.06rem;background-color: black;margin: auto 0.05rem;}
+#mod_content .count_down{display: flex;justify-content: space-between; width: 100%;height:0.6rem;}  
+#mod_content .left-part{float: left;display: flex;flex-wrap: wrap;padding-top: 0.1rem;padding-left: 0.2rem;}
+#mod_content .count_down a{width: 1.2rem;display: flex;align-items: center;}
+#mod_content .count_down img{width: 80%;height: 40%;}
+
+#mod_content .count_arr{width:100%;overflow: hidden;height: 4rem;}
+#mod_content .count_arr #boxarr{overflow: auto;height: 5rem;width: 95%;display: flex;justify-content: space-around;margin-left: 2.5%;}
+#mod_content .count_arr #boxarr .modarr{margin-right: 0.2rem;}
+#mod_content .count_arr #boxarr .modarr img{width: 2.1rem;}
+#mod_content .count_arr #boxarr .modarr:first-of-type{margin-left: 18.4rem;}
+#mod_content .count_arr #boxarr .modarr p{white-space: nowrap;overflow: hidden;text-overflow: ellipsis;width: 2.1rem;color: #666;font-size: 0.16rem;}
+#mod_content .count_arr #boxarr .modarr span{color: #f25;font-size: 0.26rem;}
+
+.module-row{width: 100%;height: auto;display: flex;flex-wrap: wrap;background: white;}
+.rowarr{width: 25%;margin-bottom: 0.2rem;}
+.rowarr p{text-align: center;margin-top: 0.02rem;color: #333;}
+.rowarr img{width: 100%;}
