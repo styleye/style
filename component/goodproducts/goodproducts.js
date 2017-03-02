@@ -13,10 +13,32 @@ angular.module("goodproductsModule",['ui.router'])
 .service('goodproductsData',['$http',function($http){
 	this.get=function(){
 		return $http.get('component/goodproducts/json/nondefective.json');
-	}
-	this.getpart1=function(){
+	};
+	this.getpart_1=function(){
 		return $http.get('component/goodproducts/json/nondefective_1.json');
-	}
+	};
+	this.getpart_2=function(){
+		return $http.get('component/goodproducts/json/nondefective_2.json');
+	};
+	this.getpart_3=function(){
+		return $http.get('component/goodproducts/json/nondefective_3.json');
+	};
+	this.getpart_4=function(){
+		return $http.get('component/goodproducts/json/nondefective_4.json');
+	};
+	this.getpart_5=function(){
+		return $http.get('component/goodproducts/json/nondefective_5.json');
+	};
+	this.getpart_6=function(){
+		return $http.get('component/goodproducts/json/nondefective_6.json');
+	};
+	this.getpart_7=function(){
+		return $http.get('component/goodproducts/json/nondefective_7.json');
+	};
+	this.getpart_8=function(){
+		return $http.get('component/goodproducts/json/nondefective_8.json');
+	};
+	
 }])
 
 
@@ -50,11 +72,20 @@ angular.module("goodproductsModule",['ui.router'])
 		//良品推荐数据
 		$scope.lp_goodsData=res.data[11303].list;
 
-	})
+	});
 	
-	goodproductsData.getpart1().success(function(res){
-		$scope.data=res.result;
-		console.log($scope.data)
-	})
+	
+	//	良品精选数据_part1
+	goodproductsData.getpart_1().success(function(res){
+		$scope.part_1=res.result.wall.docs;
+		console.log($scope.part_1);
+//		console.log($scope.part_1[0].leftbottom_taglist[0].bgColor);
+	});
+	
+	//	良品精选数据_part2
+	goodproductsData.getpart_2().success(function(res){
+		$scope.part_2=res.result.wall.docs;
+//		console.log($scope.part_2);
+	});
 	
 }])

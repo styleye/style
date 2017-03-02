@@ -93,9 +93,25 @@
 		    </div>
 		</div>
 		<!--良品精选内容-->
-		<!--<div class="good_detail">
-			<a href="" ng-repeat=""></a>
-		</div>-->
+		
+		<!--part1-->
+		<div class="good_detail clear_f">
+			<a href="{{obj.link}}" ng-repeat="obj in part_1">
+				<img src="{{obj.img}}" alt="" />
+				<div class="goods_info">
+					<div class="name_box  clear_f">
+						<div class="name_tags">
+							<span class="title_tag" style="background: {{obj.leftbottom_taglist[0].bgColor}};color: {{obj.leftbottom_taglist[0].color}}" ng-if="obj.leftbottom_taglist[0].content">{{obj.leftbottom_taglist[0].content}}</span>
+							<span class="title_tag" ng-repeat="obj1 in obj.props">{{obj1}}</span>
+						</div>
+					</div>
+					<div class="bot_box clear_f">
+						<p class="p_price fl">¥{{obj.price}}</p>
+						<p class="p_feed fr">{{obj.cfav}}</p>
+					</div>
+				</div>
+			</a>
+		</div>
 	</div>
 	
 	

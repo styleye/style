@@ -271,6 +271,49 @@
 
 
 
+
+
+.good_detail>a {
+    display: block;
+    width: 47%;
+    height: 5.88rem;
+    margin: 2% 0 0 2%;
+    background: #fff;
+    border-radius: .06rem;
+    overflow: hidden;
+    float: left;
+}
+.good_detail>a>img{
+	display: block;
+    height: 4.62rem;
+    width: 100%;
+}
+.name_box {
+    margin: .18rem .18rem .14rem .1rem;
+    height: .36rem;
+    overflow: hidden;
+}
+.name_tags {
+    height: .36rem;
+    width: 100%;
+    overflow: hidden;
+}
+.title_tag {
+    float: left;
+    height: .36rem;
+    line-height: .36rem;
+    padding: 0 .06rem;
+    margin-left: .06rem;
+    font-size: .22rem;
+    background: #eff3f6;
+    color: #5a6f7a;
+}
+
+.bot_box{
+	margin: 0 .18rem;
+}
+
+
 /*页脚留白*/
 #bottomPlaceholder{
     height: 0.98rem;
