@@ -30,7 +30,8 @@ angular.module("homeModule",['ui.router'])
 
 	}
 }])
-.controller('HomeCtrl',['$scope','homeData','swipe',function($scope,homeData,swipe){
+
+.controller('HomeCtrl',['$scope','homeData','swipe','$http',function($scope,homeData,swipe,$http){
 	homeData.get().success(function(res){
 		console.log(res.data)
 		$scope.headarr=res.data[36344].list;
@@ -41,6 +42,85 @@ angular.module("homeModule",['ui.router'])
 		$scope.partobj=res.data[8927].list[0];
 		$scope.modarr=res.data[8927].list[0].list;
 		$scope.rowarr=res.data[4746].list;
+		runFun();
+		
 	})
+	function runFun(){
+		$($).scroll(function(){
+	var runTop=$($).scrollTop();
+	var height=$($).outerHeight();
+	var ouverheight=$(window).height();
+	if (ouverheight+runTop+8>=height) {
+		if (num==0) {
+		$http.get('component/home/json/'+arr[0]+'.json').success(function(res){
+			console.log(res.result.wall.docs)
+			$scope.tempone=res.result.wall.docs;
+		});
+		num++;
+		}else if(num==1){
+			$http.get('component/home/json/'+arr[num]+'.json').success(function(res){
+			console.log(res.result.wall.docs)
+			$scope.temptwo=res.result.wall.docs;
+		});
+		num++;
+		}else if(num==2){
+			$http.get('component/home/json/'+arr[num]+'.json').success(function(res){
+			console.log(res.result.wall.docs)
+			$scope.temptwo=res.result.wall.docs;
+		});
+		num++;
+		}else if(num==3){
+			$http.get('component/home/json/'+arr[num]+'.json').success(function(res){
+			console.log(res.result.wall.docs)
+			$scope.tempthree=res.result.wall.docs;
+		});
+		num++;
+		}else if(num==4){
+			$http.get('component/home/json/'+arr[num]+'.json').success(function(res){
+			console.log(res.result.wall.docs)
+			$scope.tempfour=res.result.wall.docs;
+		});
+		num++;
+		}else if(num==5){
+			$http.get('component/home/json/'+arr[num]+'.json').success(function(res){
+			console.log(res.result.wall.docs)
+			$scope.tempfive=res.result.wall.docs;
+		});
+		num++;
+		}else if(num==6){
+			$http.get('component/home/json/'+arr[num]+'.json').success(function(res){
+			console.log(res.result.wall.docs)
+			$scope.tempsix=res.result.wall.docs;
+		});
+		num++;
+		}else if(num==7){
+			$http.get('component/home/json/'+arr[num]+'.json').success(function(res){
+			console.log(res.result.wall.docs)
+			$scope.tempseven=res.result.wall.docs;
+		});
+		num++;
+		}else if(num==8){
+			$http.get('component/home/json/'+arr[num]+'.json').success(function(res){
+			console.log(res.result.wall.docs)
+			$scope.tempeight=res.result.wall.docs;
+		});
+		num++;
+		}else if(num==9){
+			$http.get('component/home/json/'+arr[num]+'.json').success(function(res){
+			console.log(res.result.wall.docs)
+			$scope.tempnine=res.result.wall.docs;
+		});
+		num++;
+		}
+	}
+
+})
+	}
+	
 	swipe.swipe();
+//	console.log(arr)
 }])
+var num=0;
+var arr=['one','two','three','four','five','six','seven','eight','nine'];
+
+

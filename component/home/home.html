@@ -1,14 +1,14 @@
 <div class="home-topbar">
-	<input type="text" name="" id="" value="" placeholder="简约百搭欧美大降短靴"/>
+	<input type="text" name="" id="" value="" placeholder="简约百搭欧美大降短靴" />
 	<a href="##" class="talk-mark fa fa-commenting-o"></a>
 	<a href="##" class="shop-mark fa fa-shopping-cart"></a>
 	<a href="##" class="search-mark fa fa-search"></a>
 </div>
 <div class="swiper-container">
-		<div class="swiper-wrapper">
-			<div class="swiper-slide" ng-repeat="obj in headarr"><img src="{{obj.image}}"/></div>
-		</div>
-		<div class="swiper-pagination"></div>
+	<div class="swiper-wrapper">
+		<div class="swiper-slide" ng-repeat="obj in headarr"><img src="{{obj.image}}" /></div>
+	</div>
+	<div class="swiper-pagination"></div>
 </div>
 <div class="nav">
 	<div class="floor-title ">
@@ -17,16 +17,28 @@
 	</div>
 </div>
 <div id="shoop">
-	<div class="shoopLeft"><div id="font">
-		<p style="color: {{shoopLeft.titleColor}};">{{shoopLeft.title}}</p><p>{{shoopLeft.viceTitle}}</p>
-	</div><img src="{{shoopLeft.image}}"/></div>
+	<div class="shoopLeft">
+		<div id="font">
+			<p style="color: {{shoopLeft.titleColor}};">{{shoopLeft.title}}</p>
+			<p>{{shoopLeft.viceTitle}}</p>
+		</div><img src="{{shoopLeft.image}}" /></div>
 	<div class="shoopRight">
 		<div class="shoopTop">
-			<div><p style="color: {{shoopTop.titleColor}};">{{shoopTop.title}}</p><p>{{shoopTop.viceTitle}}</p></div><img src="{{shoopTop.image}}"/></div>
+			<div>
+				<p style="color: {{shoopTop.titleColor}};">{{shoopTop.title}}</p>
+				<p>{{shoopTop.viceTitle}}</p>
+			</div><img src="{{shoopTop.image}}" /></div>
 		<div class="shoopBottom">
 			<div class="shoopBottomleft">
-				<div><p style="color: {{shoopBottomone.titleColor}};">{{shoopBottomone.title}}</p><p>{{shoopBottomone.viceTitle}}</p></div><img src="{{shoopBottomone.image}}"/></div>
-			<div class="shoopBottomright"><div><p style="color: {{shoopBottomtwo.titleColor}};">{{shoopBottomtwo.title}}</p><p>{{shoopBottomtwo.viceTitle}}</p></div><img src="{{shoopBottomtwo.image}}"/></div>
+				<div>
+					<p style="color: {{shoopBottomone.titleColor}};">{{shoopBottomone.title}}</p>
+					<p>{{shoopBottomone.viceTitle}}</p>
+				</div><img src="{{shoopBottomone.image}}" /></div>
+			<div class="shoopBottomright">
+				<div>
+					<p style="color: {{shoopBottomtwo.titleColor}};">{{shoopBottomtwo.title}}</p>
+					<p>{{shoopBottomtwo.viceTitle}}</p>
+				</div><img src="{{shoopBottomtwo.image}}" /></div>
 		</div>
 	</div>
 </div>
@@ -42,17 +54,17 @@
 				<span class="ct_num ss">00</span>
 			</div>
 		</div>
-		<a class="more"><img src="http://s16.mogucdn.com/p1/160719/upload_ifrwkntcmi4diolehezdambqhayde_84x20.png"/></a>
+		<a class="more"><img src="http://s16.mogucdn.com/p1/160719/upload_ifrwkntcmi4diolehezdambqhayde_84x20.png" /></a>
 	</div>
 	<div class="count_arr">
 		<div id="boxarr">
-			
-		
-		<div ng-repeat="objse in modarr" class="modarr">
-			<img src="{{objse.coverImg}}"><p>{{objse.title}}</p><span>￥{{objse.salePrice}}</span>
-		</div>
+
+			<div ng-repeat="objse in modarr" class="modarr">
+				<img src="{{objse.coverImg}}">
+				<p>{{objse.title}}</p><span>￥{{objse.salePrice}}</span>
 			</div>
-		
+		</div>
+
 	</div>
 </div>
 <div class="nav">
@@ -63,21 +75,112 @@
 </div>
 <div class="module-row">
 	<div ng-repeat="obj in rowarr" class="rowarr">
-			<img src="{{obj.image}}"><p>{{obj.title}}</p></span>
-		</div>
+		<img src="{{obj.image}}">
+		<p>{{obj.title}}</p>
+		</span>
+	</div>
 </div>
 <div class="nav">
 	<div class="floor-title ">
 		<div class="floor-bg">猜你喜欢</div>
 	</div>
 </div>
-	
-	
-	
-	
-	
-	
-	
+<div class="run">
+	<div ng-repeat="obj in tempone">
+		<img src="{{obj.img}}" />
+		<div class="runhei">
+			<span ng-repeat="x in obj.props">{{x}}</span>
+		</div>
+		<p>
+			<span>￥{{obj.orgPrice}}</span>
+			<i>{{obj.cfav}}</i>
+		</p>
+	</div>
+	<div ng-repeat="obj in temptwo">
+		<img src="{{obj.img}}" />
+		<div class="runhei">
+			<span ng-repeat="x in obj.props">{{x}}</span>
+		</div>
+		<p>
+			<span>￥{{obj.orgPrice}}</span>
+			<i>{{obj.cfav}}</i>
+		</p>
+	</div>
+	<div ng-repeat="obj in tempthree">
+		<img src="{{obj.img}}" />
+		<div class="runhei">
+			<span ng-repeat="x in obj.props">{{x}}</span>
+		</div>
+		<p>
+			<span>￥{{obj.orgPrice}}</span>
+			<i>{{obj.cfav}}</i>
+		</p>
+	</div>
+	<div ng-repeat="obj in tempfour">
+		<img src="{{obj.img}}" />
+		<div class="runhei">
+			<span ng-repeat="x in obj.props">{{x}}</span>
+		</div>
+		<p>
+			<span>￥{{obj.orgPrice}}</span>
+			<i>{{obj.cfav}}</i>
+		</p>
+	</div>
+	<div ng-repeat="obj in tempfive">
+		<img src="{{obj.img}}" />
+		<div class="runhei">
+			<span ng-repeat="x in obj.props">{{x}}</span>
+		</div>
+		<p>
+			<span>￥{{obj.orgPrice}}</span>
+			<i>{{obj.cfav}}</i>
+		</p>
+	</div>
+	<div ng-repeat="obj in tempsix">
+		<img src="{{obj.img}}" />
+		<div class="runhei">
+			<span ng-repeat="x in obj.props">{{x}}</span>
+		</div>
+		<p>
+			<span>￥{{obj.orgPrice}}</span>
+			<i>{{obj.cfav}}</i>
+		</p>
+	</div>
+	<div ng-repeat="obj in tempseven">
+		<img src="{{obj.img}}" />
+		<div class="runhei">
+			<span ng-repeat="x in obj.props">{{x}}</span>
+		</div>
+		<p>
+			<span>￥{{obj.orgPrice}}</span>
+			<i>{{obj.cfav}}</i>
+		</p>
+	</div>
+	<div ng-repeat="obj in tempeight">
+		<img src="{{obj.img}}" />
+		<div class="runhei">
+			<span ng-repeat="x in obj.props">{{x}}</span>
+		</div>
+		<p>
+			<span>￥{{obj.orgPrice}}</span>
+			<i>{{obj.cfav}}</i>
+		</p>
+	</div>
+	<div ng-repeat="obj in tempnine">
+		<img src="{{obj.img}}" />
+		<div class="runhei">
+			<span ng-repeat="x in obj.props">{{x}}</span>
+		</div>
+		<p>
+			<span>￥{{obj.orgPrice}}</span>
+			<i>{{obj.cfav}}</i>
+		</p>
+	</div>
 
-<nav><a ui-sref="home.local" href="">本地超市</a><a ui-sref="home.nonlocal"  href="">外地超市</a></nav>
+</div>
+
+<nav>
+	<a ui-sref="home.local" href="">本地超市</a>
+	<a ui-sref="home.nonlocal" href="">外地超市</a>
+</nav>
 <div ui-view></div>
