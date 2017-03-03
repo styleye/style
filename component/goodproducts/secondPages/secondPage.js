@@ -49,11 +49,31 @@ angular.module('secondModule',['ui.router'])
 		
 		//评论数据
 		$scope.commentInfo=res.result.rate.list;
-		console.log($scope.commentInfo);
 		
+		//店铺详情数据
+		$scope.shopDetailMsg=res.result.shopInfo;
 		
+		//图文详情数据
+		$scope.detailInfo=res.result.detailInfo;
+		
+		//商品参数
+		//表格参数
+		$scope.tableData=res.result.itemParams.rule.tables;
+//		console.log($scope.tableData);
+		//列表参数
+		$scope.listData=res.result.itemParams.info.set;
 		
 	});
+	
+	$scope.flag=true;
+	
+	
+	$(document).scroll(function(){
+	if($(document).scrollTop()>1800){
+		console.log($(document).scrollTop());
+		$(document).scrollTop(0);
+	}
+	})
 	
 	
 }])

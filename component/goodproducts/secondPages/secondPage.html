@@ -96,48 +96,157 @@
 	</div>
 	
 	<!--店铺详情-->
-	<div class="detail-wrap detail-shop" id="DetailShop">
+	<div class="sec_detail-wrap sec_detail-shop" id="sec_DetailShop">
 		<!-- 顶部 -->
-		<div class="shop-top"></div>
+		<div class="sec_shop-top"></div>
 		<!-- 信息 -->
-		<div class="shop-info plr30">
+		<div class="sec_shop-info sec_plr30">
 			<!-- 头像 -->
-			<a class="info-avatar" href="http://m.mogujie.com/v8/meili/shop?shopid=1170y4zo"> <img src="http://s2.mogucdn.com/p2/161010/upload_7ke4k1a188c0ieeek6h5fb068ga22_320x320.png_100x100.jpg"> </a>
+			<a class="sec_info-avatar" href="{{shopDetailMsg.shopUrl}}">
+				<img src="{{shopDetailMsg.shopLogo}}">
+			</a>
 			<!-- 内容 -->
-			<div class="info-content">
-				<p class="title">AILAWANG店</p>
-				<div class="left_star"> <b class="level" style="width:27px"></b> </div>
-				<p class="count-s"> <span class="sale">总销量&nbsp;9648</span> <span class="fans" data-fans="6288">收藏数&nbsp;6288</span> </p>
+			<div class="sec_info-content">
+				<p class="sec_title">{{shopDetailMsg.name}}</p>
+				<div class="sec_left_star"> <b class="sec_level"></b> </div>
+				<p class="sec_count-s"> <span class="sec_sale">总销量&nbsp;{{shopDetailMsg.cSells}}</span> <span class="sec_fans">收藏数&nbsp;{{shopDetailMsg.cFans}}</span> </p>
 			</div>
-			<!-- 收藏 --><span class="info-fav" data-id="1170y4zo" data-type="1"><i></i><span>收藏</span></span>
+			<!-- 收藏 --><span class="sec_info-fav"><i></i><span>收藏</span></span>
 		</div>
 		<!-- 评价 -->
-		<div class="shop-evaluate plr30">
-			<ul class="center">
-				<li> <span>描述相符</span> <em>4.64</em> <i>高</i> </li>
-				<li> <span>价格合理</span> <em>4.57</em> <i>高</i> </li>
-				<li> <span>质量满意</span> <em>4.61</em> <i>高</i> </li>
+		<div class="sec_shop-evaluate plr30">
+			<ul class="sec_center">
+				<li ng-repeat="obj1 in shopDetailMsg.score"> <span>{{obj1.name}}</span> <em>{{obj1.score}}</em> <i>高</i> </li>
 			</ul>
 		</div>
 		<!-- 服务 -->
-		<div class="shop-services plr30" id="ShopServices">
-			<ul class="column2">
-				<li> <img src="http://s2.mogucdn.com/p2/161121/upload_804deld49f8i13gb2gdji12k6h9h2_60x60.png"> <span>退货补运费</span> </li>
-				<li> <img src="http://s2.mogucdn.com/p2/161121/upload_69l7gg2aeb5jb1k0g5l785gdhk7g0_60x60.png"> <span>7天无理由退货</span> </li>
-				<li> <img src="http://s2.mogucdn.com/p2/161121/upload_40a944ddkgekbdia0jalfi5jki4h2_60x60.png"> <span>劣一赔三服务</span> </li>
-				<li> <img src="http://s2.mogucdn.com/p2/161121/upload_8fak1807jfee78jjh49f146g09hc5_60x60.png"> <span>48小时发货</span> </li>
-				<li> <img src="http://s2.mogucdn.com/p2/161121/upload_4c9fi653lcljc0ig512il61jh3ljl_60x60.png"> <span>全国包邮</span> </li>
+		<div class="sec_shop-services sec_plr30" id="sec_ShopServices">
+			<ul class="sec_column2">
+				<li ng-repeat="obj2 in shopDetailMsg.services">
+					<img src="{{obj2.icon}}">
+					<span>{{obj2.name}}</span>
+				</li>
 			</ul>
 		</div>
 		<!-- 入口 -->
-		<div class="shop-entry plr30">
-			<div class="center">
-				<a href="http://m.mogujie.com/v8/meili/shopSearch?shopid=1170y4zo" class="goods">全部商品（76）</a>
-				<a href="http://m.mogujie.com/v8/meili/shop?shopid=1170y4zo" class="xiaodian"><i></i><span>进入小店</span></a>
+		<div class="sec_shop-entry sec_plr30">
+			<div class="sec_center">
+				<a href="{{shopDetailMsg.allGoodsUrl}}" class="sec_goods">全部商品（{{shopDetailMsg.cGoods}}）</a>
+				<a href="{{shopDetailMsg.shopUrl}}" class="sec_xiaodian"><i></i><span>进入小店</span></a>
 			</div>
 		</div>
 	</div>
 	
+	
+	
+	<!--图文详情-->
+	<div class="sec_detail-wrap sec_detail-tabpanel">
+			<!-- 顶部 -->
+			<div class="sec_tabpanel-top"></div>
+			<!-- 占位 -->
+			<div class="sec_tabpanel-occupying" id="sec_TabpanelOccupying">
+				<!-- 标签 -->
+				<nav class="sec_tabpanel-tabs sec_center">
+					<li class="sec_tab-item sec_active"> <span>图文详情</span> <i></i> </li>
+					<li class="sec_tab-item"> <span>商品参数</span> <i></i> </li>
+					<li class="sec_tab-item"> <span>热卖推荐</span> <i></i> </li>
+				</nav>
+			</div>
+			<!-- 面板 -->
+			<div class="sec_tabpanel-panels" id="sec_TabpanelPanels">
+				<!-- 图文详情 -->
+				<div class="sec_panel-item" id="sec_PanelGraphic">
+					<!-- 商品详情-图文详情 -->
+					<div class="sec_detail-graphic">
+						<!-- 图文列表 -->
+						<div class="sec_graphic-list">
+							<div class="sec_desc clear_f">
+								<p class="sec_start"><i></i></p>
+								<p class="sec_text">{{detailInfo.desc}}</p>
+								<p class="sec_end"><i></i></p>
+							</div>
+							<div class="sec_pics">
+								<dl class="sec_pic-box" ng-repeat="obj in detailInfo.detailImage">
+									<dt class="sec_pic-title">{{obj.key}}</dt>
+									<dd class="sec_pic-list">
+										<img lazy-src="{{obj1}}" class="sec_fadeIn" ng-repeat="obj1 in obj.list">
+									</dd>
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				
+				
+				<!-- 商品参数 -->
+				<div class="sec_panel-item" id="sec_PanelParameter">
+					<!-- 商品详情-商品参数 -->
+					<div class="sec_detail-parameter">
+						<!-- <h2 class="title fold">产品参数</h2> -->
+						<div class="sec_parameter-wrap">
+							<!-- 尺码表格 -->
+							<div class="sec_size-list">
+								<div class="sec_item" ng-repeat="obj in tableData">
+									<table>
+										<tbody>
+											<tr ng-repeat="obj1 in obj">
+												<td ng-repeat="obj2 in obj1">{{obj2}}</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+							</div>
+							<!-- 参数 -->
+							<div class="sec_param-list">
+								<ul>
+									<li ng-repeat="obj in listData">
+										<span class="sec_param-name">{{obj.key}}</span>
+										<p class="sec_param-info">{{obj.value}}</p>
+									</li>
+								</ul>
+							</div>
+							<!-- 尺码图片 -->
+							<!-- 尺码图片 -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!--工具条,购买等-->
+		<div class="sec_detail-wrap sec_detail-footbar" id="sec_DetailFootbar">
+			<!-- 私聊 -->
+			<div class="sec_footbar-im">
+				<i class="sec_icon"></i> <span class="sec_text">私聊</span>
+			</div>
+			<!-- 喜欢 -->
+			<div class="sec_footbar-fav" data-id="1k5e3k6" data-type="1">
+				<i class="sec_icon"></i> <span class="sec_text">收藏</span> 
+			</div>
+			<!-- 购买 -->
+			<div class="sec_footbar-buy">
+				<span class="sec_buy-cart">加入购物车</span>
+				<span class="sec_buy-now">立即购买</span>
+			</div>
+		</div>
+	
+		<!--蘑菇良品点击隐藏内容-->
+		<div class="info-itemtags-dialog" ng-hide="flag">
+			<h1 class="title">服务说明<span class="close close-itemTags"></span></h1>
+			<ul class="list">
+				<li>
+					<dl>
+						<dt>
+							<img src="http://s2.mogucdn.com/p1/160331/upload_ie4dcyjqgyytcm3bg4zdambqgiyde_30x31.png">蘑菇良品
+						</dt>
+						<dd>蘑菇良品商品来自品质商家，购买此商品因质量问题、描述不符等原因发起维权，且维权成立，您将得到3倍赔偿。</dd>
+					</dl>
+				</li>
+			</ul>
+		</div>
+		
+		<div id="M_Mask" class="ui-mask" ng-hide="flag"></div>
 	
 	
 </div>
