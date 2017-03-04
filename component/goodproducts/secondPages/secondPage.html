@@ -36,7 +36,7 @@
 			<!-- 商品特色 -->
 			<div class="sec_info-itemtags sec_open-itemTags">
 				<span class="sec_inner">
-					<span class="sec_item">
+					<span class="sec_item" ng-click="show_dialog()">
 						<img src="{{data.itemTags[0].icon}}">{{data.itemTags[0].name}}
 					</span>
 				</span> 
@@ -47,7 +47,7 @@
 		<!--促销信息-->
 		<div class="sec_primary-promotions" id="sec_PrimaryPromotions">
 			<div class="sec_mbanner-top"></div>
-			<span class="sec_inner sec_pro-info">
+			<span class="sec_inner sec_pro-info" ng-click="show_promotion()">
 				<span class="sec_more">更多<i class="sec_arrow"></i></span>
 				<span class="sec_item"><i></i>{{data.promotions.list[0]}}</span> 
 			</span>
@@ -169,7 +169,7 @@
 								<dl class="sec_pic-box" ng-repeat="obj in detailInfo.detailImage">
 									<dt class="sec_pic-title">{{obj.key}}</dt>
 									<dd class="sec_pic-list">
-										<img lazy-src="{{obj1}}" class="sec_fadeIn" ng-repeat="obj1 in obj.list">
+										<img lazy-src="{{obj1}}" ng-repeat="obj1 in obj.list">
 									</dd>
 								</dl>
 							</div>
@@ -211,7 +211,142 @@
 						</div>
 					</div>
 				</div>
+				
+				<!-- 热卖推荐 -->
+				<div class="panel-item" id="PanelRecommend">
+					<!-- 商品详情-热卖推荐 -->
+					<div class="detail-recommend">
+						<div class="recommend-goods">
+							<!-- <h2>热门</h2> -->
+							<div class="hot-list">
+								<ul class="clear_f">
+									<li>
+										<a href="http://m.mogujie.com/x6/detail/1k6m9da?acm=3.mce.1_4_1k6m9da.5018.0.v5H1OqcLQCoJv.lc_201">
+											<div class="img"> <img lazy-src="http://s2.mogucdn.com/p2/161230/133914971_7k1bclifb7b8i1d917cib0d685ia1_640x960.jpg_320x999.jpg"> </div>
+											<div class="info">
+												<p class="name">【Aila wang】魔术贴松糕加绒小白鞋平底保暖毛毛鞋棉鞋</p>
+												<p class="meta"> <span class="price">¥145.00</span> <span class="fav-count fav"><i></i>107</span> </p>
+											</div>
+										</a>
+									</li>
+									<li>
+										<a href="http://m.mogujie.com/x6/detail/1k3jy4s?acm=3.mce.1_4_1k3jy4s.5018.0.v5H1OqcLQCoJw.lc_201">
+											<div class="img"> <img lazy-src="http://s2.mogucdn.com/p2/170102/133914971_79fdg35fddlga93dk591e0h01e562_640x960.jpg_320x999.jpg"> </div>
+											<div class="info">
+												<p class="name">【Aila wang】韩版系带休闲厚底小白鞋女单鞋中跟板鞋</p>
+												<p class="meta"> <span class="price">¥118.00</span> <span class="fav-count fav"><i></i>318</span> </p>
+											</div>
+										</a>
+									</li>
+									<li>
+										<a href="http://m.mogujie.com/x6/detail/1k3wqnw?acm=3.mce.1_4_1k3wqnw.5018.0.v5H1OqcLQCoJx.lc_201">
+											<div class="img"> <img lazy-src="http://s2.mogucdn.com/p2/170110/133914971_75d4l5glk0g0fd6064hjkh21399ce_640x960.jpg_320x999.jpg"> </div>
+											<div class="info">
+												<p class="name">【Aila wang】秋冬百搭女鞋透气跑步鞋厚底系带休闲鞋</p>
+												<p class="meta"> <span class="price">¥138.00</span> <span class="fav-count fav"><i></i>27</span> </p>
+											</div>
+										</a>
+									</li>
+									<li>
+										<a href="http://m.mogujie.com/x6/detail/1k3ka0a?acm=3.mce.1_4_1k3ka0a.5018.0.v5H1OqcLQCoJy.lc_201">
+											<div class="img"> <img lazy-src="http://s2.mogucdn.com/p2/170110/133914971_7lk45agbdffkbjhf0i654906c3335_640x960.jpg_320x999.jpg"> </div>
+											<div class="info">
+												<p class="name">【Aila wang】韩版秋款真皮黑色透气单鞋草编厚底休闲鞋</p>
+												<p class="meta"> <span class="price">¥182.86</span> <span class="fav-count fav"><i></i>41</span> </p>
+											</div>
+										</a>
+									</li>
+									<li>
+										<a href="http://m.mogujie.com/x6/detail/1k3azma?acm=3.mce.1_4_1k3azma.5018.0.v5H1OqcLQCoJz.lc_201">
+											<div class="img"> <img lazy-src="http://s2.mogucdn.com/p2/170111/133914971_75hfah114g4hi36cal4jka107c35j_640x960.jpg_320x999.jpg"> </div>
+											<div class="info">
+												<p class="name">韩国马克线松糕真皮厚底鞋女2016新款原宿风拼色女鞋圆头单鞋</p>
+												<p class="meta"> <span class="price">¥158.00</span> <span class="fav-count fav"><i></i>69</span> </p>
+											</div>
+										</a>
+									</li>
+									<li>
+										<a href="http://m.mogujie.com/x6/detail/1k446qk?acm=3.mce.1_4_1k446qk.5018.0.v5H1OqcLQCoJA.lc_201">
+											<div class="img"> <img lazy-src="http://s2.mogucdn.com/p2/170111/133914971_11c540df0e5g1h5fh8aebie1bc3ii_640x960.jpg_320x999.jpg"> </div>
+											<div class="info">
+												<p class="name">【Aila wang】韩版真皮厚底小白鞋星星网面运动鞋休闲鞋</p>
+												<p class="meta"> <span class="price">¥88.00</span> <span class="fav-count fav"><i></i>34</span> </p>
+											</div>
+										</a>
+									</li>
+									<li>
+										<a href="http://m.mogujie.com/x6/detail/1k5vwsa?acm=3.mce.1_4_1k5vwsa.5018.0.v5H1OqcLQCoJB.lc_201">
+											<div class="img"> <img lazy-src="http://s11.mogucdn.com/p2/170111/133914971_5egb4h43lb3897a8dk98b501da39i_640x960.jpg_320x999.jpg"> </div>
+											<div class="info">
+												<p class="name">【Aila wang】贝壳头女高筒靴瘦腿过膝长靴平底骑士靴</p>
+												<p class="meta"> <span class="price">¥168.00</span> <span class="fav-count fav"><i></i>2491</span> </p>
+											</div>
+										</a>
+									</li>
+									<li>
+										<a href="http://m.mogujie.com/x6/detail/1k7z3gc?acm=3.mce.1_4_1k7z3gc.5018.0.v5H1OqcLQCoJC.lc_201">
+											<div class="img"> <img lazy-src="http://s2.mogucdn.com/p2/170301/133914971_4b468c3hib601j4c9f87jbb5i0459_640x960.jpg_320x999.jpg"> </div>
+											<div class="info">
+												<p class="name">【AILAWANG】新春白色运动鞋轻便透气休闲舒适百搭旅游鞋</p>
+												<p class="meta"> <span class="price">¥197.15</span> <span class="fav-count fav"><i></i>0</span> </p>
+											</div>
+										</a>
+									</li>
+									<li>
+										<a href="http://m.mogujie.com/x6/detail/1k74lhw?acm=3.mce.1_4_1k74lhw.5018.0.v5H1OqcLQCoJD.lc_201">
+											<div class="img"> <img lazy-src="http://s2.mogucdn.com/p2/170217/133914971_46hjc89jle4jgae2ek34g0bk7f92b_640x960.jpg_320x999.jpg"> </div>
+											<div class="info">
+												<p class="name">【AILAWANG】新款真皮系带单鞋贝壳头厚底休闲运动板鞋女</p>
+												<p class="meta"> <span class="price">¥158.00</span> <span class="fav-count fav"><i></i>75</span> </p>
+											</div>
+										</a>
+									</li>
+									<li>
+										<a href="http://m.mogujie.com/x6/detail/1k3bmo4?acm=3.mce.1_4_1k3bmo4.5018.0.v5H1OqcLQCoJE.lc_201">
+											<div class="img"> <img lazy-src="http://s2.mogucdn.com/p2/170111/133914971_5c6k00e4jbb2lb7cgildhlalel4k4_640x960.jpg_320x999.jpg"> </div>
+											<div class="info">
+												<p class="name">【Aila wang】欧洲站高帮贝壳头女鞋松糕厚底短靴小白鞋</p>
+												<p class="meta"> <span class="price">¥138.00</span> <span class="fav-count fav"><i></i>375</span> </p>
+											</div>
+										</a>
+									</li>
+									<li>
+										<a href="http://m.mogujie.com/x6/detail/1k3kwo8?acm=3.mce.1_4_1k3kwo8.5018.0.v5H1OqcLQCoJF.lc_201">
+											<div class="img"> <img lazy-src="http://s11.mogucdn.com/p2/170110/133914971_5kel121k953750dd8aj1488gd6bd5_640x960.jpg_320x999.jpg"> </div>
+											<div class="info">
+												<p class="name">【Aila wang】韩版小白鞋魔术贴透气厚底增高休闲鞋</p>
+												<p class="meta"> <span class="price">¥128.00</span> <span class="fav-count fav"><i></i>42</span> </p>
+											</div>
+										</a>
+									</li>
+									<li>
+										<a href="http://m.mogujie.com/x6/detail/1k338ue?acm=3.mce.1_4_1k338ue.5018.0.v5H1OqcLQCoJG.lc_201">
+											<div class="img"> <img lazy-src="http://s2.mogucdn.com/p2/170108/133914971_6hb23gd123623j7f8igl1e6kfbk0b_640x960.jpg_320x999.jpg"> </div>
+											<div class="info">
+												<p class="name">【Aila wang】秋冬加绒布洛克雕花厚底短靴漆皮切尔西靴</p>
+												<p class="meta"> <span class="price">¥118.00</span> <span class="fav-count fav"><i></i>843</span> </p>
+											</div>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				
+				
+				
+				
 			</div>
+			
+			
+			
+			
+			
+			
+			
+			
 		</div>
 		
 		<!--工具条,购买等-->
@@ -226,14 +361,14 @@
 			</div>
 			<!-- 购买 -->
 			<div class="sec_footbar-buy">
-				<span class="sec_buy-cart">加入购物车</span>
-				<span class="sec_buy-now">立即购买</span>
+				<span class="sec_buy-cart" ng-click="show_goodsku()">加入购物车</span>
+				<span class="sec_buy-now" ng-click="show_goodsku()">立即购买</span>
 			</div>
 		</div>
 	
 		<!--蘑菇良品点击隐藏内容-->
-		<div class="info-itemtags-dialog" ng-hide="flag">
-			<h1 class="title">服务说明<span class="close close-itemTags"></span></h1>
+		<div class="info-itemtags-dialog" ng-hide="dialog_flag">
+			<h1 class="title">服务说明<span class="close close-itemTags" ng-click="hide_dialog()"></span></h1>
 			<ul class="list">
 				<li>
 					<dl>
@@ -246,7 +381,109 @@
 			</ul>
 		</div>
 		
-		<div id="M_Mask" class="ui-mask" ng-hide="flag"></div>
+		<!--点击全店铺满99元减5元显示隐藏图层-->
+		<section class="sec_promotion-box" id="sec_J_PromotionBox">
+			<div class="sec_wrap">
+				<h1 class="sec_title">店铺优惠</h1>
+				<div class="sec_ul">
+					<div class="clear_f sec_li"> <span class="sec_text sec_fl">满99元立减5元</span>
+						<a href="javascript:;" class="sec_get-pro sec_receive">点击领取</a>
+					</div>
+					<div class="clear_f sec_li"> <span class="sec_text sec_fl">满188元立减10元</span>
+						<a href="javascript:;" class="sec_get-pro sec_receive">点击领取</a>
+					</div>
+					<div class="clear_f sec_li"> <span class="sec_text sec_fl">满298元立减20元</span>
+						<a href="javascript:;" class="sec_get-pro sec_receive">点击领取</a>
+					</div>
+				</div>
+				<div class="sec_action"><span class="sec_close-pro sec_confirm" ng-click="hide_promotion()">我知道了</span></div>
+			</div>
+		</section>
+		
+		
+		<!--快捷导航/置顶按钮-->
+		<div id="J_Left_Navigation" class="left-navigation-container ">
+			<div class="menus-box">
+				
+				<div class="menus">
+					<div class="menu-item" style="zoom: 1;">
+						<p style="float: left">首页</p>
+						<a class="icon-menu" href="//m.mogujie.com/"> <i class="icon home"></i> </a>
+					</div>
+					<div class="menu-item" style="zoom: 1;">
+						<p style="float: left">购物车</p>
+						<a class="icon-menu" href="//m.mogujie.com/x6/cart/list"> <i class="icon shop-car"></i> </a>
+					</div>
+					<div class="menu-item" style="zoom: 1;">
+						<p style="float: left">搜索</p>
+						<a class="icon-menu" href="//act.mogujie.com/cateyichi?ismobile=1"> <i class="icon search"></i> </a>
+					</div>
+				</div>
+				<div class="icon-plus-nav menu-btn J_MenuBtn" ng-click="showNav()">
+					<p>快捷<br>导航</p> <i class="icon" ng-click="hideClose()"></i> </div>
+			</div>
+			<div class="icon-plus-nav go-top scroll-hide" ng-click="goTop()"> <i class="icon"></i>置顶</div>
+		</div>
+		<div id="M_Mask" class="ui-mask" ng-hide="mask_flag"></div>
+		
+		
+		<!--点击加入购物车与购买弹出的隐藏图层-->
+		<section id="J_GoodsSku" class="goods-sku">
+			<div class="content">
+				<div class="sku-title">
+					<div class="sku-title-img">
+						<img src="http://s2.mogucdn.com/p2/161120/133914971_596i0jhe8h46c93ala4925dcj4663_750x510.jpg_100x100.jpg" alt="">
+					</div>
+					<div class="sku-title-desc">
+						<span class="sku-title-text">{{skuInfoData.title}}</span>
+						<span class="sku-title-price">
+							<span class="price">{{skuInfoData.defaultPrice}}</span>
+							<span class="sku-stock">库存<span class="stock">{{skuInfoData.skus[0].stock}}</span>件</span>
+						</span>
+						<span class="sku-title-addon"></span>
+					</div>
+					<span class="close" ng-click="close_goodsku()">╳</span>
+				</div>
+				
+				<div class="scroll">
+					<div class="sku-list">
+						<dl class="style clear_f">
+							<dt>{{skuInfoData.props[0].label}}</dt>
+							<dd>
+								<ol class="J_StyleList style-list clear_f">
+									<li data-id="{{obj1.styleId}}" title="{{obj1.name}}" ng-repeat="(i,obj1) in skuInfoData.props[0].list" ng-click="selected_style(i)">{{obj1.name}}</li>
+								</ol>
+							</dd>
+						</dl>
+						<dl class="size clear_f">
+							<dt>{{skuInfoData.props[1].label}}</dt>
+							<dd>
+								<ol class="J_StyleList size-list clear_f">
+									<li data-id="{{obj1.styleId}}" title="{{obj1.name}}" ng-repeat="(i,obj1) in skuInfoData.props[1].list" ng-click="selected_size(i)">{{obj1.name}}</li>
+								</ol>
+							</dd>
+						</dl>
+					</div>
+					<div class="sku-num">
+						<p class="title">数量:</p>
+						<div class="clear_f">
+							<div class="sku-counter fl">
+								<span class="num-reduce fl num-disable">
+									<b class="reduce-icon">－</b>
+								</span>
+								<em class="num-input fl">1</em>
+								<span class="num-add fl">
+									<b class="add-icon">＋</b>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="action">
+					<span class="confirm ui-btn ui-btn-pink">确定</span>
+				</div>
+			</div>
+		</section>
 	
 	
 </div>

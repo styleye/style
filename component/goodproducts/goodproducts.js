@@ -102,7 +102,7 @@ angular.module("goodproductsModule",['ui.router'])
 		$scope.limitedData=res.data[8927].list;
 		
 		//限时抢购倒计时
-		leftTimer.leftTimer();
+//		leftTimer.leftTimer();
 		//蘑菇优选数据
 		$scope.good_introduceData=res.data[7286].list;
 

@@ -1,6 +1,9 @@
 #tab,#good_products{
 	display: none;
 }
+i,em{
+	font-style: normal;
+}
 
 #sec_goodDetail{
 	background: #fff;
@@ -664,10 +667,6 @@
     border: none;
     vertical-align: middle;
 }
-.sec_fadeIn {
-    -webkit-animation: fadeIn .8s ease both;
-    animation: fadeIn .8s ease both;
-}
 
 
 /*表格数据*/
@@ -713,6 +712,9 @@
     line-height: 0.93rem;
     border-bottom: 1px solid #f4f4f4;
 }
+.sec_parameter-wrap .sec_param-list li:last-child {
+    border-bottom: none;
+}
 .sec_parameter-wrap .sec_param-list .sec_param-name {
     display: inline-block;
     width: 2.3255rem;
@@ -723,6 +725,84 @@
     -webkit-box-flex: 1;
     color: #eb4868;
 }
+
+/*热卖推荐*/
+.sec_tabpanel-panels .panel-item {
+    overflow: hidden;
+    background-color: #fff;
+}
+.detail-recommend {
+    margin-top: .4rem;
+}
+.recommend-goods {
+    padding: 0 .3rem .3rem;
+}
+.recommend-goods .hot-list ul {
+    font-size: 0;
+}
+.recommend-goods .hot-list li {
+    width: 32%;
+    margin-right: 2%;
+    margin-bottom: .3rem;
+    float: left;
+}
+.recommend-goods .hot-list li:nth-child(3n) {
+    margin-right: 0;
+}
+.recommend-goods .hot-list li a {
+    display: block;
+    position: relative;
+    overflow: hidden;
+}
+.recommend-goods .hot-list li a .img {
+    padding: 1.65rem 0;
+}
+.recommend-goods .hot-list li a .img img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.recommend-goods .hot-list .img img {
+    width: 100%;
+}
+.recommend-goods .hot-list .info {
+    position: relative;
+    background: #fff;
+    font-size: 0.279rem;
+}
+.recommend-goods .hot-list .info .name {
+    height: 0.4186rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.recommend-goods .hot-list .meta {
+    white-space: nowrap;
+    overflow: hidden;
+}
+.recommend-goods .hot-list .info .price {
+    margin-right: 0.069rem;
+}
+.recommend-goods .hot-list .info .fav-count {
+    color: #727272;
+}
+.recommend-goods .hot-list .info .fav i {
+    width: 0.279rem;
+    height: 0.279rem;
+    margin-right: 0.0465rem;
+}
+.recommend-goods .hot-list .info .fav i {
+    background: url(http://s6.mogucdn.com/pic/141202/sp1ku_ieydanjxgyytkmdfmqytambqgyyde_44x221.png) no-repeat 0 0;
+    background-size: 100% auto;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 0.11627rem;
+}
+
+
+
+
+
 
 
 
@@ -895,6 +975,474 @@
     background: #000;
     z-index: 998;
 }
+
+
+
+/*点击全店铺满99元减5元显示隐藏图层*/
+
+.sec_promotion-box {
+	display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.7);
+}
+.sec_promotion-box .sec_wrap {
+	margin-left: 5%;
+	margin-top: 60%;
+    background: #fff;
+    border-radius: 0.1162790697674419rem;
+    width: 90%;
+}
+.sec_promotion-box h1.sec_title {
+    height: 1.046511627906977rem;
+    line-height: 1.046511627906977rem;
+    color: #f95578;
+    font-size: 0.4186046511627907rem;
+    text-align: center;
+    border-bottom: 1px solid #e1e1e1;
+}
+.sec_promotion-box .sec_ul {
+    max-height: 4.651162790697674rem;
+    overflow: auto;
+}
+.sec_promotion-box .sec_li {
+    min-height: 1rem;
+    border-bottom: 1px solid #e5e5e5;
+    font-size: 0.3255813953488372rem;
+    padding-left: 0.3488372093023256rem;
+    padding-right: 0.3488372093023256rem;
+    text-align: left;
+}
+.sec_promotion-box .sec_li .sec_text {
+	float: left;
+    height: 1rem;
+    line-height: 1rem;
+    overflow: hidden;
+    width: 4.186046511627907rem;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.sec_promotion-box .sec_receive {
+	font-size: 0.3255813953488372rem;
+    width: 1.697674418604651rem;
+    height: 0.6511627906976744rem;
+    display: inline-block;
+    line-height: 0.6511627906976744rem;
+    text-align: center;
+    float: right;
+    margin-top: 0.1627906976744186rem;
+    border-radius: 0.0465116279069767rem;
+    color: #ee4566;
+    border: 1px solid #ee4566;
+}
+.sec_promotion-box .sec_action {
+    padding: 0.2325581395348837rem 0;
+    text-align: center;
+}
+.sec_promotion-box .sec_action .sec_confirm {
+    background: #ff5777;
+    border-radius: 0.0465116279069767rem;
+    width: 4.883720930232558rem;
+    line-height: 0.9767441860465116rem;
+    height: 0.9767441860465116rem;
+    margin: 0;
+    padding: 0;
+    font-size: 0.3488372093023256rem;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    white-space: nowrap;
+    border: none;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*快捷导航/置顶按钮*/
+.left-navigation-container {
+    position: fixed;
+    width: 2.558139534883721rem;
+    right: 0.2325581395348837rem;
+    bottom: 1.511627906976744rem;
+    z-index: 999;
+    zoom: 1;
+}
+.left-navigation-container .menus-box {
+    position: relative;
+    bottom: -1.511627906976744rem;
+    float: right;
+    zoom: 1;
+    z-index: 999;
+}
+.left-navigation-container .menus {
+    position: relative;
+    z-index: -1;
+}
+.left-navigation-container .menus .menu-item {
+    height: 40px0.9302325581395349rem
+    width: 2.558139534883721rem;
+    margin-top: 0.3023255813953488rem;
+    overflow: hidden;
+    position: relative;
+    opacity: 0;
+}
+.left-navigation-container .menus .menu-item:nth-child(1) {
+    bottom: -3.86046511627907rem;
+}
+.left-navigation-container .menus .menu-item:nth-child(2) {
+    bottom: -2.627906976744186rem;
+}
+.left-navigation-container .menus .menu-item:nth-child(3) {
+    bottom: -1.395348837209302rem;
+}
+.left-navigation-container .menus p {
+    display: block;
+    width: 1.465116279069767rem;
+    font-size: 0.3255813953488372rem;
+    line-height: 0.9302325581395349rem;
+    color: #FFF;
+    text-align: center;
+}
+.left-navigation-container .menus .icon-menu {
+    display: block;
+    width: 0.9302325581395349rem;
+    height: 0.9302325581395349rem;
+    border-radius: 50%;
+    opacity: 1;
+    background: #FFF;
+    margin-right: 0.1162790697674419rem;
+    float: right;
+}
+.left-navigation-container .menus .icon {
+    display: block;
+    width: 0.3953488372093023rem;
+    height: 0.3953488372093023rem;
+    margin: 0.2558139534883721rem;
+}
+.icon {
+    font-family: icon!important;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+}
+.left-navigation-container .menus .home {
+    background: url(data:image/png;base64,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) no-repeat;
+    background-size: 100%;
+}
+.left-navigation-container .menus .shop-car {
+    background: url(data:image/png;base64,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) no-repeat;
+    background-size: 100%;
+}
+.left-navigation-container .menus .search {
+    background: url(data:image/png;base64,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) no-repeat;
+    background-size: 100%;
+}
+.left-navigation-container .icon-plus-nav {
+    position: relative;
+    right: 0;
+    width: 1.162790697674419rem;
+    height: 1.162790697674419rem;
+    margin-top: 0.3488372093023256rem;
+    font-size: 0.2790697674418605rem;
+    line-height: 0.3255813953488372rem;
+    text-align: center;
+    color: #FFF;
+    background: #000;
+    opacity: .7;
+    border-radius: 50%;
+    float: right;
+    box-shadow: 0 0.0930232558139535rem 0.186046511627907rem rgba(0,0,0,0.3);
+    overflow: hidden;
+}
+.left-navigation-container .menu-btn p {
+    padding: 0.2325581395348837rem 0 0 0;
+}
+.left-navigation-container .menu-btn .icon {
+    display: none;
+    width: 100%;
+    height: 100%;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAAAXNSR0IArs4c6QAAAm5JREFUaAXtm0tuwjAQhqNuuoA9rDk03KRngENV9J9Qg+tQP+bluHSkUWLHM/N/sQNRJE9TZNfrdQffRF1Dn4JlC98vINB5gJ/hZJ/wI/x9MXCQDtIOP8GJhewCP9zlf3fQhdg+0BgOmjTDSXtq5xkYvfv0StQeChq6f4MNSLsJZ7TOw9SHC/FxCGgILsES4+33CSe03nO2amgIL8ES2zF+hmsCVgldCbvUzg683zb/E7FmcQJHZjWtaokM4dU1qidUhDfTZpZYAG+uybxAA7ybFrdCGXh3De4FI/hutXsU7lEzutcTvXe7vZF51voBmTY8hHjUSLmybUtBlrmzUKWLFsIscpY4mq5rCtTM1QTROlhDqEaOVt2i8RLBkliRaGkwRzgnRqpTNb4FoGWsqkjtZA0g9NklZ8vPMtpitfKBouaN7G/AhpsmgB5nZgNsODKgx4VlQLvAvgVh/0eFO/BSS5oBi5DZXJa2wnw+UkD26/wtVcLSLJLnbP0zDfU1MzuDtIx9rJ0VnXEAODGrQJYIl8R2gdcQrJHDBV5TqGYuE3gLgRY5VeAthVnmZsF7CPKoUQXvKcSz1lP4HgJ61JzhuxVGdffa7gWfrC83DW6FnkCmXeZazAukRBVtM01miSugSkPUtaknLBEwrqtpVEvEgGgNEWsVJ2hVrDCerZkdqCBamoKlHUFHeM5W/X0Jwms+LZ3mm4vBG/irbAHY0qsb7VX6zVY9s+njAIjSTN/2MGFg2LMUgw8FG+Az0JcwhmaZNmrRZiYyWt606WO4PUsBiLTD6XcpPKo0oY+NWtFA2sO0De3Rj2Ch36ddzPEFCfIJUJzG2swAAAAASUVORK5CYII=) no-repeat center center;
+    background-size: 40%;
+}
+.left-navigation-container .go-top .icon {
+    display: block;
+    width: 0.3255813953488372rem;
+    height: 0.3953488372093023rem;
+    margin: 0.2325581395348837rem auto 0;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAABECAYAAADUZvakAAAAAXNSR0IArs4c6QAAAhNJREFUaAXt20tOwzAQBuAGWHXHHlaIFRL3aHcseF0AJK7FBRB7uAF3QGpvAGwAKfyDUmkwaewkY3emGkujOqmx5/O0UanSySRodV3PEAuEtUY5zwLOpApPYNAC5w7C80aOl1VVHfJcd/jBNvbbgDeALg1iKWfK3ZvvgO+A74DvgK0dwIeHfcQD4h3xijizJejIFhjCvSB4+8bBVcef2XgKiDbcCmobGcFx5LWNcrEsE3E2kT1xtpAduOeVhD1+sT516T2p9+WK5NZdUAg3RYTtHCdsIJFoJ47enqGuOacfmYJbB1SPTMV1AdUi++BiQHXIvrgUoBrkEFwqcOPIobg+wI0hx+D6Aosjx+KGAIshJXBDgdmRUrgxwGxISdxYoDhSGicBFEPmwEkBm3kukOOw/0Jy4SSBg5E5cdLA3sjcuBzAZGQJXC5gEhLAR0TYfr9moAmkWriA1Lw0D+Zuu/DQheiUnnwLFhfHNUn8WUYS2IG8I+A9W/kJ/an04iWADPnZeD7weEzAXQSV+BKxlwNXCtiscwLHLeKIjv/dRkInczQsWPN5cbtHkbXb7rLgeZjvO9B6Cb2CXkHlO+AvUeUFiqbnFYxukfIBXkHlBYqm5xWMbpHyAV5B5QWKpucVjG6R8gFeQeUFiqbnFYxukfIBXkHlBYqm5xWMblH6AP6TPd5Pn0HzSHxzP0fQz1Ap5qVy/QGmGjUTkWi4mAAAAABJRU5ErkJggg==) no-repeat;
+    background-size: 100%;
+}
+
+/*快捷导航向上位移出现*/
+.left-navigation-container .menus-box.move-up {
+    transform: translate3d(0, -1.511627906976744rem, 0);
+    transition: all 500ms;
+}
+.left-navigation-container .go-top.scroll-hide {
+    opacity: 0;
+    -webkit-transition: all 500ms;
+    transition: all 500ms;
+}
+.left-navigation-container .go-top.scroll-show {
+    opacity: .7;
+    -webkit-transition: all 500ms;
+    transition: all 500ms;
+}
+
+.left-navigation-container .menu-btn.del_{
+    background: #FF5577;
+    z-index: 999;
+    opacity: 1;
+}
+
+
+/*点击购买和放入购物车*/
+.goods-sku {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    width: 100%;
+    height: 100%;
+    display: block;
+    visibility: hidden;
+    background: rgba(0,0,0,0.7);
+}
+.goods-sku .content {
+    display: block;
+    background: #fff;
+    width: 100%;
+    max-height: 75%;
+    position: absolute;
+    bottom: 0;
+    display: -moz-box;
+    display: -webkit-box;
+    display: box;
+    box-orient: vertical;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+}
+.goods-sku .sku-title {
+    width: 100%;
+    display: -moz-box;
+    display: -webkit-box;
+    display: box;
+    position: relative;
+    top: 0;
+    background: #fff;
+    border-bottom: .5px solid #ccc;
+    padding: 0.3488372093023256rem 0;
+    overflow: auto;
+}
+.goods-sku .sku-title .sku-title-img {
+    margin-left: 0.3488372093023256rem;
+    display: block;
+    position: relative;
+    -webkit-box-flex: 1;
+    min-width: 1.627906976744186rem;
+    max-width: 1.627906976744186rem;
+}
+.goods-sku .sku-title .sku-title-img img {
+    height: 1.627906976744186rem;
+    width: 1.627906976744186rem;
+}
+.goods-sku .sku-title .sku-title-desc {
+    margin-left: 0.2325581395348837rem;
+    margin-right: 0.813953488372093rem;
+    display: block;
+    position: relative;
+    -webkit-box-flex: 1;
+}
+.goods-sku .sku-title .sku-title-desc .sku-title-text {
+    font-size: .25rem;
+}
+.goods-sku .sku-title .sku-title-desc .sku-title-addon, .goods-sku .sku-title .sku-title-desc .sku-title-price, .goods-sku .sku-title .sku-title-desc .sku-title-text {
+    display: block;
+    position: relative;
+}
+.goods-sku .sku-title .sku-title-desc .sku-title-price {
+    color: red;
+}
+.sku-title-price {
+    line-height: 0.6rem;
+}
+.sku-title-price .price {
+	font-size: 0.32rem;
+}
+.goods-sku .sku-title .sku-title-desc .sku-title-addon {
+    font-size: .25rem;
+    color: #999;
+}
+.goods-sku .sku-stock {
+    color: #999;
+    margin-left: 0.2325581395348837rem;
+    line-height: 0.3255813953488372rem;
+    margin-top: 0.1395348837209302rem;
+}
+
+
+.goods-sku .close {
+    color: #bbb;
+    font-size: 0.4651162790697674rem;
+    font-family: serif;
+    position: absolute;
+    right: 0;
+    top: 0;
+    line-height: 1.162790697674419rem;
+    cursor: pointer;
+    width: 0.813953488372093rem;
+    height: 0.813953488372093rem;
+}
+.goods-sku .scroll {
+    padding: 0 0.3488372093023256rem;
+    overflow: auto;
+    height: 100%;
+    position: relative;
+    -webkit-box-flex: 1;
+}
+.goods-sku .sku-list {
+    margin-bottom: 0.1162790697674419rem;
+}
+.goods-sku .size, .goods-sku .style {
+    margin-top: 0.1162790697674419rem;
+}
+.goods-sku .size-list li, .goods-sku .style-list li {
+    display: inline-block;
+    line-height: 0.6046511627906977rem;
+    padding: 0 0.3488372093023256rem;
+    border: 1px solid #bbb;
+    border-radius: 0.0697674418604651rem;
+    margin-right: 0.2325581395348837rem;
+    margin-bottom: 0.2325581395348837rem;
+    font-size: 0.2790697674418605rem;
+}
+
+
+
+
+.goods-sku .sku-list li.disable {
+    opacity: .5;
+    border-style: dashed;
+    border-color: #bbb!important;
+    color: #424242!important;
+}
+.goods-sku .sku-list li.c {
+    color: #ed4566;
+    border-color: #ed4566;
+}
+
+.goods-sku .sku-num {
+    margin-bottom: 0.3488372093023256rem;
+}
+.goods-sku .title {
+    line-height: 0.372093023255814rem;
+    margin-bottom: 0.1627906976744186rem;
+}
+.goods-sku .sku-counter {
+    height: 0.6046511627906977rem;
+    border: 1px solid #bbb;
+    border-radius: 0.0697674418604651rem;
+    width: 2.046511627906977rem;
+}
+.fl {
+    float: left!important;
+}
+
+.goods-sku .sku-counter .num-add, .goods-sku .sku-counter .num-reduce {
+    width: 0.6511627906976744rem;
+}
+.goods-sku .sku-counter .num-disable b {
+    color: #999!important;
+}
+.goods-sku .sku-counter .num-input {
+	 width: 0.6976744186046512rem;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    color: #333;
+}
+.goods-sku .sku-counter * {
+    line-height: 0.5348837209302326rem;
+    display: inline-block;
+    height: 100%;
+    vertical-align: top;
+    text-align: center;
+}
+.goods-sku .sku-counter .num-add b, .goods-sku .sku-counter .num-reduce b {
+    font-size: 16px;
+    color: #ed4566;
+}
+
+
+.goods-sku .action {
+    border-top: .5px solid #ccc;
+    position: relative;
+    height: 40px;
+    background: #fff;
+    width: 100%;
+    text-align: center;
+    display: -moz-box;
+    display: -webkit-box;
+    display: box;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+}
+.goods-sku .action .confirm {
+    display: block;
+    width: 30%;
+}
+.ui-btn-pink {
+    color: #fff;
+    background: #ff5e7a;
+    background: linear-gradient(top,#ff5e7a,#f24868);
+}
+.ui-btn {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    white-space: nowrap;
+    border: none;
+    background-image: none;
+    padding: 0.1395348837209302rem 0.2790697674418605rem;
+    font-size: 0.32558rem;
+    border-radius: 0.0697674418604651rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
