@@ -68,12 +68,12 @@ angular.module('secondModule',['ui.router'])
 	$scope.flag=true;
 	
 	
-	$(document).scroll(function(){
-	if($(document).scrollTop()>1800){
-		console.log($(document).scrollTop());
-		$(document).scrollTop(0);
-	}
-	})
+//	$(document).scroll(function(){
+//	if($(document).scrollTop()>1800){
+//		console.log($(document).scrollTop());
+//		$(document).scrollTop(0);
+//	}
+//	})
 	
 	
 }])
