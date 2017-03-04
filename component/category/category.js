@@ -40,10 +40,7 @@ angular.module("categoryModule",['ui.router'])
 			$scope.arrList = data.data[key].list;
 			//console.log(data.data[key].list)
 		})	
-		if(i > 6 && i<9){
-			$anchorScroll.yOffset = 10;
-		}
-		console.log($anchorScroll.yOffset);
+		
 	}
 	
 	
