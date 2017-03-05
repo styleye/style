@@ -58,14 +58,15 @@ angular.module('FashionModule',['ui.router'])
 	//按销量排序
 	$scope.range = function(method){
 		$scope.s = method;
-		$scope.f = method;
+		//$scope.f = method;
 	}
 	
 	$scope.hideFun = function(txt,key){
-		$scope.judg = true;
-		$scope.n = key;
 		$(".fashion_header>p").text(txt);
 		//console.log(txt)
+//		$scope.f = function(e){
+//			return e.$$hashKey == key
+//		}
 	}
 	
 	//跳转到顶部
@@ -84,11 +85,18 @@ angular.module('FashionModule',['ui.router'])
 			$(".fashion_icon>a:last-child").hide();
 		}
 	})
-	
 	//相似商品跳转
+	$scope.flg = true;
 	$scope.similarGood = function(obj){
 		console.log(obj);
-		$('#fashion_wrap').hide();
+		$('.fashion_header').hide();
+		$('.nav_fixed').hide();
+		$('#fashion_similar').css("visibility","visible");
+		$scope.pic = obj.img;
+		$scope.txt = obj.title;
+		$scope.price = obj.price;
+		$scope.love = obj.cfav;
+		$scope.flg = false;
 	}
 	
 	

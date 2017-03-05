@@ -1,4 +1,25 @@
 <div id="fashion_wrap">
+	
+	<!--相似商品隐藏栏-->
+	<div id="fashion_similar">
+		<div class="similar_border" ng-hide="flg"></div>
+		<div class="similar_header">
+			<a href="javascript:void(history.back());"><i class="fa fa-angle-left fa-2x"></i></a>
+			<div><p></p><input type="text" /><a></a></div>
+			<i class="fa fa-shopping-cart fa-2x"></i>
+		</div>
+		<div class="similar_main">
+			<div class="similar_good">
+				<div class="image"><img src="{{pic}}"/></div>
+				<div class="ctt">
+					<p>{{txt}}</p>
+					<p><span class="pri">￥{{price}}</span><span class="sc">{{love}}人收藏</span></p>
+				</div>
+			</div>
+			<div class="similar_title" ng-hide="flg"></div>
+		</div>
+	</div>
+	
 	<!--头部-->
 	<header class="fashion_header">
 		<a href="javascript:void(history.back());"><i class="fa fa-angle-left fa-2x"></i></a>
@@ -38,8 +59,6 @@
 		</div>
 		<!--商品展示列表-->
 		<div id="fashion_goods_list">
-			<div class="good_border" ng-hide="judg"></div>
-			<div class="good_border"></div>
 			<div class="goods_item" ng-repeat="good in arr.wall.docs | filter:f | orderBy:s">
 				<img src="{{good.img}}" ng-if="good.img.length>0" style="height: 4.6rem;"/>
 				<img src="{{good.show.img}}" ng-if="good.show" style="width: 100%;"/>
@@ -64,16 +83,4 @@
 		
 	</div>
 	
-</div>
-<div id="fashion_similar">
-	<div class="similar_header">
-		<a href="javascript:void(history.back());"><i class="fa fa-angle-left fa-2x"></i></a>
-		<div><p></p><input type="text" /><a></a></div>
-		<i class="fa fa-shopping-cart fa-2x"></i>
-	</div>
-	<div class="similar_main">
-		<div class="similar_good"></div>
-		<div class="similar_title"></div>
-		<div class="similar_list"></div>
-	</div>
 </div>
