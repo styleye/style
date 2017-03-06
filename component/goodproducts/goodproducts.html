@@ -74,7 +74,8 @@
 		<h3>良品推荐</h3>
 		<ul class="good_keys_list clear_f">
 			<li ng-repeat="obj in lp_goodsData">
-				<a href="{{obj.link}}">
+				<!--href="{{obj.link}}"-->
+				<a ui-sref="goodproducts.women">
 					<img src="{{obj.image}}" alt="" />
 					<p>{{obj.title}}</p>
 				</a>
@@ -95,10 +96,10 @@
 		<!--良品精选内容-->
 		
 		<!--part1-->
-		<div class="good_detail clear_f">
+		<div class="good_detail clear_f" infinite-scroll="good_Scroll()" infinite-scroll-distance="2" infinite-scroll-disabled="stopScollFlag">
 			<a ui-sref="goodproducts.secondPage" ng-repeat="obj in part_1">
 				<!--href="{{obj.link}}"--> 
-				<img lazy-src="{{obj.img}}" alt="" />
+				<img src="{{obj.img}}" alt="" />
 				<div class="goods_info">
 					<div class="name_box  clear_f">
 						<div class="name_tags">

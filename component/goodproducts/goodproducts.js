@@ -91,7 +91,7 @@ angular.module("goodproductsModule",['ui.router'])
 	}
 }])
 
-.controller('goodproductsCtrl',['$scope','goodproductsData','swipe','leftTimer',function($scope,goodproductsData,swipe,leftTimer){
+.controller('goodproductsCtrl',['$scope','goodproductsData','swipe','leftTimer','$http',function($scope,goodproductsData,swipe,leftTimer,$http){
 	goodproductsData.get().success(function(res){
 		$scope.obj = res.data;
 		//轮播图数据
@@ -113,17 +113,28 @@ angular.module("goodproductsModule",['ui.router'])
 	
 	
 	//	良品精选数据_part1
-	goodproductsData.getpart_1().success(function(res){
+	$http.get("http://list.mogujie.com/search?cKey=h5-quality&fcid=&pid=7626&searchTag=&sort=pop&page=1&ratio=3%3A4&_version=61&cpc_offset=0&_=1488351235797")
+		  .success(function (res){
 		$scope.part_1=res.result.wall.docs;
 //		console.log($scope.part_1);
-//		console.log($scope.part_1[0].leftbottom_taglist[0].bgColor);
 	});
 	
-	//	良品精选数据_part2
-	goodproductsData.getpart_2().success(function(res){
-		$scope.part_2=res.result.wall.docs;
-//		console.log($scope.part_2);
-	});
+		var goodnum=2;
+	$scope.good_Scroll=function(){
+		$http.get("http://list.mogujie.com/search?cKey=h5-quality&fcid=&pid=7626&searchTag=&sort=pop&page="+goodnum+"&ratio=3%3A4&_version=61&cpc_offset=0&_=1488351235797")
+		  .success(function (res) {
+	  		$scope.goodUrldatas=res.result.wall.docs;
+//			console.log($scope.goodUrldatas);
+			for(var temp in $scope.goodUrldatas){
+				$scope.part_1.push($scope.goodUrldatas[temp]);
+			}
+		  });
+		if(goodnum==9){
+			$stopScollFlag=true;
+		}
+		goodnum++;
+	}
+		
 	
 	
 	
