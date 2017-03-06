@@ -57,29 +57,29 @@ angular.module("goodproductsModule",['ui.router'])
 }])
 
 //计时器
-.service('leftTimer',['$interval',function($interval){
+.service('leftTimer',['$timeout','$interval',function($timeout,$interval){
 	this.leftTimer=function(){
-		$interval(function(){
-			function leftTimer(year,month,day,hour,minute,second){ 
-				 var leftTime = (new Date(year,month-1,day,hour,minute,second)) - (new Date()); //计算剩余的毫秒数 
-				 var days = parseInt(leftTime / 1000 / 60 / 60 / 24); //计算剩余的天数 
-				 var hours = parseInt(leftTime / 1000 / 60 / 60 % 24); //计算剩余的小时 
-				 var minutes = parseInt(leftTime / 1000 / 60 % 60);//计算剩余的分钟 
-				 var seconds = parseInt(leftTime / 1000 % 60);//计算剩余的秒数 
-				 days = checkTime(days); 
-				 hours = checkTime(hours); 
-				 minutes = checkTime(minutes); 
-				 seconds = checkTime(seconds); 
+		$timeout(function(){
+			function leftTimer(){ 
+				var nowDate=new Date();
+				var year=nowDate.getFullYear();
+				var month=nowDate.getMonth()+1;
+				var day=nowDate.getDate();
+				var hour=nowDate.getHours()+1;
+				var leftTime = (new Date(year,month-1,day,hour,00,00)) - (new Date()); //计算剩余的毫秒数 
+				var days = parseInt(leftTime / 1000 / 60 / 60 / 24); //计算剩余的天数 
+				var hours = parseInt(leftTime / 1000 / 60 / 60 % 24); //计算剩余的小时 
+				var minutes = parseInt(leftTime / 1000 / 60 % 60);//计算剩余的分钟 
+				var seconds = parseInt(leftTime / 1000 % 60);//计算剩余的秒数 
+				days = checkTime(days); 
+				hours = checkTime(hours); 
+				minutes = checkTime(minutes); 
+				seconds = checkTime(seconds); 
 					$(".hr").html(hours);
 					$(".min").html(minutes);
 					$(".sec").html(seconds);
-				} 
-			var nowDate=new Date();
-			var setY=nowDate.getFullYear();
-			var setM=nowDate.getMonth();
-			var setD=nowDate.getDate();
-			var setH=nowDate.getHours();
-			setInterval(leftTimer(setY,setM+1,setD,setH+1,00,00),1000); 
+			} 
+			$interval(leftTimer,1000); 
 			function checkTime(i){
 				//将0~9的数字前加上0,如1在页面显示为01
 				if(i<10){
@@ -102,7 +102,7 @@ angular.module("goodproductsModule",['ui.router'])
 		$scope.limitedData=res.data[8927].list;
 		
 		//限时抢购倒计时
-//		leftTimer.leftTimer();
+		leftTimer.leftTimer();
 		//蘑菇优选数据
 		$scope.good_introduceData=res.data[7286].list;
 
