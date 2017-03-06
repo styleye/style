@@ -24,7 +24,7 @@
 </head>
 <body ng-app="myApp">
 	
-	<div ui-view></div>
+	<div ui-view id="homescoll"></div>
 	<ul id="tab">
 		<li>
 			<a href="" ui-sref='home'><div><span></span>首页</div></a>
@@ -40,4 +40,19 @@
 		</li>
 	</ul>
 </body>
+<script type="text/javascript">
+	var lis=$("#tab li").on("click",function(){
+		var index=$(this).index();
+		$.getJSON("component/home/json/multigit.json",function(res){
+			var imgarr=res.data[4604].list;
+			for (var i = 0; i < imgarr.length; i++) {
+				var imgurl=imgarr[i].image;
+				$("#tab span").eq(i).css("background-image","url("+imgurl+")")
+			}
+			var imurl=res.data[4604].list[index].selected;
+			$("#tab span").eq(index).css("background-image","url("+imurl+")")
+		})
+	})
+	
+</script>
 </html>
