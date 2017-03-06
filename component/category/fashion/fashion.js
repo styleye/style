@@ -56,9 +56,9 @@ angular.module('FashionModule',['ui.router'])
 		}
 	}
 	//按销量排序
-	$scope.range = function(method){
+	$scope.range = function(method,empty){
 		$scope.s = method;
-		//$scope.f = method;
+		$scope.f = empty;
 	}
 	
 	$scope.hideFun = function(txt,key){

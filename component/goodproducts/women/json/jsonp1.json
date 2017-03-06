@@ -1,0 +1,1285 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": "success"
+    },
+    "result": {
+        "param": {
+            "_mgjuuid": "de1b66c9-b0f9-4be3-a113-0d8c1d136329",
+            "sort": "pop",
+            "maxPrice": "20000",
+            "ptpWallCpc": "_wall_cpc",
+            "section": "0",
+            "ptpWallDoc": "_wall_docs",
+            "eventId": "0x00000000",
+            "cKey": "h5-cube-default-v1",
+            "page": "1",
+            "fcid": "10060683",
+            "cpcEventId": "70005",
+            "ptpPartC": "_b_fca4a9693015fa2d",
+            "minPrice": "1"
+        },
+        "wall": {
+            "title": "买手精选",
+            "isEnd": false,
+            "docs": [
+                {
+                    "orgPrice": 285,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k4bv62&acm=3.ms.1_4_1k4bv62.0.1651-22922.wGTROqd3Lg722.t_0",
+                    "acm": "3.ms.1_4_1k4bv62.0.1651-22922.wGTROqd3Lg722.t_0",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k4bv62?acm=3.ms.1_4_1k4bv62.0.1651-22922.wGTROqd3Lg722.t_0",
+                    "link": "http://m.mogujie.com/x6/detail/1k4bv62?acm=3.ms.1_4_1k4bv62.0.1651-22922.wGTROqd3Lg722.t_0",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s18.mogucdn.com/p2/161028/161748938_44he793611lg834dh4l60lldcke0a_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "79 61",
+                    "shopSeller": "Z小鸡CHICKZ",
+                    "discount": 10,
+                    "title": "2016冬装新款韩版宽松帅气格子毛呢料中长款大衣外套女",
+                    "cfav": 9859,
+                    "price": 199.5,
+                    "originalPrice": 285,
+                    "tradeItemId": "1k4bv62",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.5",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "中长款大衣",
+                        "毛呢料",
+                        "格子",
+                        "宽松",
+                        "帅气",
+                        "韩版",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 238,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k1pkcg&acm=3.ms.1_4_1k1pkcg.0.1651-22922.wGTROqd3Lg722.t_0",
+                    "acm": "3.ms.1_4_1k1pkcg.0.1651-22922.wGTROqd3Lg722.t_0",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k1pkcg?acm=3.ms.1_4_1k1pkcg.0.1651-22922.wGTROqd3Lg722.t_0",
+                    "link": "http://m.mogujie.com/x6/detail/1k1pkcg?acm=3.ms.1_4_1k1pkcg.0.1651-22922.wGTROqd3Lg722.t_0",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161022/40198531_10l15b52g38fj11iekb600jcfaakl_640x959.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "79 61",
+                    "shopSeller": "ZZ大小姐",
+                    "discount": 10,
+                    "title": "ZZ大小姐新款欧美街拍简约设计格子长款毛呢外套女长款呢大衣",
+                    "cfav": 5484,
+                    "price": 166.6,
+                    "originalPrice": 238,
+                    "tradeItemId": "1k1pkcg",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.7",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "长款毛呢外套",
+                        "格子",
+                        "街拍",
+                        "欧美",
+                        "简约",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 178,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k5rkpw&acm=3.ms.1_4_1k5rkpw.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k5rkpw.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k5rkpw?acm=3.ms.1_4_1k5rkpw.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k5rkpw?acm=3.ms.1_4_1k5rkpw.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161130/148010724_5902jl7623kbkl54cc103cbh7171l_800x1200.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "79",
+                    "shopSeller": "毛菇小象女装",
+                    "discount": 10,
+                    "title": "毛菇小象加厚毛呢外套女中长款 秋冬新款宽松显瘦呢子大衣女装",
+                    "cfav": 2335,
+                    "price": 178,
+                    "originalPrice": 178,
+                    "tradeItemId": "1k5rkpw",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "呢子大衣",
+                        "中长款",
+                        "秋冬新款",
+                        "宽松显瘦",
+                        "加厚"
+                    ]
+                },
+                {
+                    "orgPrice": 282.86,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k3ua1a&acm=3.ms.1_4_1k3ua1a.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k3ua1a.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k3ua1a?acm=3.ms.1_4_1k3ua1a.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k3ua1a?acm=3.ms.1_4_1k3ua1a.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161215/183866689_2bc689l1k8h74b034540116al466e_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "79 72 121",
+                    "shopSeller": "夏梵尼官方旗舰店",
+                    "discount": 10,
+                    "title": "【夏梵尼】大毛领中长款毛呢外套女一粒扣直筒茧型呢子大衣",
+                    "cfav": 9553,
+                    "price": 198,
+                    "originalPrice": 282.86,
+                    "tradeItemId": "1k3ua1a",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "中长款毛呢外套",
+                        "茧型",
+                        "一粒扣",
+                        "大毛领",
+                        "直筒"
+                    ]
+                },
+                {
+                    "orgPrice": 341.43,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k5gq5w&acm=3.ms.1_4_1k5gq5w.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMJRGY4F65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k5gq5w.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMJRGY4F65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k5gq5w?acm=3.ms.1_4_1k5gq5w.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMJRGY4F65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k5gq5w?acm=3.ms.1_4_1k5gq5w.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMJRGY4F65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161122/103151755_5gca6b5bhh3f8he4ggj0k5hh4fgd8_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "79 61",
+                    "shopSeller": "宿本官方旗舰店",
+                    "discount": 10,
+                    "title": "宿本冬装新款文艺保暖纯色过膝西装领呢子大衣女中长款毛呢外套潮",
+                    "cfav": 3961,
+                    "price": 211.68,
+                    "originalPrice": 341.43,
+                    "tradeItemId": "1k5gq5w",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.7",
+                        "serviceDsr": "4.7",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "中长款毛呢外套",
+                        "西装领",
+                        "过膝",
+                        "纯色",
+                        "保暖",
+                        "文艺",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 384.3,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k392jm&acm=3.ms.1_4_1k392jm.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENRZGAYV65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k392jm.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENRZGAYV65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k392jm?acm=3.ms.1_4_1k392jm.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENRZGAYV65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k392jm?acm=3.ms.1_4_1k392jm.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENRZGAYV65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161031/156249756_66506gacf0il61l64e67f3k678909_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "18 96 82 79",
+                    "shopSeller": "凡兔女装旗舰店",
+                    "discount": 10,
+                    "title": "【关晓彤明星同款】2017春秋中长款宽松单排扣呢子大衣",
+                    "cfav": 2878,
+                    "price": 269.01,
+                    "originalPrice": 384.3,
+                    "tradeItemId": "1k392jm",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "呢子大衣",
+                        "中长款宽松",
+                        "单排扣",
+                        "明星同款",
+                        "春秋"
+                    ]
+                },
+                {
+                    "orgPrice": 227,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k3juje&acm=3.ms.1_4_1k3juje.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJYHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k3juje.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJYHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k3juje?acm=3.ms.1_4_1k3juje.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJYHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k3juje?acm=3.ms.1_4_1k3juje.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJYHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161013/157584392_65ch53b58eh5hfj6c9hck7d0kd6d3_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "79",
+                    "shopSeller": "蜜妃儿",
+                    "discount": 10,
+                    "title": "蜜妃儿秋冬装长袖羊毛呢子大衣 韩版宽松粉色毛呢外套女短款",
+                    "cfav": 4359,
+                    "price": 158.9,
+                    "originalPrice": 227,
+                    "tradeItemId": "1k3juje",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "羊毛呢子大衣",
+                        "粉色",
+                        "宽松",
+                        "长袖",
+                        "短款",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 454,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k64yei&acm=3.ms.1_4_1k64yei.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DGMJXHAYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k64yei.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DGMJXHAYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k64yei?acm=3.ms.1_4_1k64yei.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DGMJXHAYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k64yei?acm=3.ms.1_4_1k64yei.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DGMJXHAYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161211/140748315_215bbc0elk47243kk6cle9ha66hf3_800x1200.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "79 61",
+                    "shopSeller": "梅子熟了原创自制",
+                    "discount": 10,
+                    "title": "梅子熟了 2016冬新款文艺复古绣花外套加厚保暖毛呢大衣女",
+                    "cfav": 895,
+                    "price": 317.8,
+                    "originalPrice": 454,
+                    "tradeItemId": "1k64yei",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "毛呢大衣",
+                        "加厚",
+                        "文艺复古",
+                        "保暖",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 228,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k60fr8&acm=3.ms.1_4_1k60fr8.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJZGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k60fr8.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJZGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k60fr8?acm=3.ms.1_4_1k60fr8.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJZGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k60fr8?acm=3.ms.1_4_1k60fr8.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJZGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161207/89849881_3agl05963f6dldaig7hecff2l0dd0_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "82 79 61",
+                    "shopSeller": "JY STUDIO",
+                    "discount": 10,
+                    "title": "【JY】春季新品新款韩版翻领修身加厚短款外套毛呢春季外套",
+                    "cfav": 7397,
+                    "price": 159.6,
+                    "originalPrice": 228,
+                    "tradeItemId": "1k60fr8",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "外套毛呢",
+                        "翻领",
+                        "加厚",
+                        "修身",
+                        "短款",
+                        "春季",
+                        "韩版",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 327.2,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k2ya6s&acm=3.ms.1_4_1k2ya6s.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMJZHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k2ya6s.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMJZHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k2ya6s?acm=3.ms.1_4_1k2ya6s.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMJZHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k2ya6s?acm=3.ms.1_4_1k2ya6s.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMJZHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/160930/156557335_7365j3b3k90028alg22k768li1kh0_800x1200.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "82 79",
+                    "shopSeller": "凡兔女装旗舰店",
+                    "discount": 10,
+                    "title": "凡兔韩版女装2017春秋新款毛呢大衣女短款修身纯色外套",
+                    "cfav": 3612,
+                    "price": 219.9,
+                    "originalPrice": 327.2,
+                    "tradeItemId": "1k2ya6s",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "毛呢大衣",
+                        "纯色",
+                        "修身",
+                        "短款",
+                        "春秋",
+                        "韩版",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 549,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k2jntk&acm=3.ms.1_4_1k2jntk.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZQGE4V65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k2jntk.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZQGE4V65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k2jntk?acm=3.ms.1_4_1k2jntk.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZQGE4V65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k2jntk?acm=3.ms.1_4_1k2jntk.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZQGE4V65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s17.mogucdn.com/p2/160921/134126839_7k0jbh1chfa1j3kbac638c4i6hf1j_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "-1",
+                    "shopSeller": "美特斯邦威旗舰店",
+                    "discount": 10,
+                    "title": "美特斯邦威毛呢大衣女士2016冬装新款可斜门襟中长款外套潮",
+                    "cfav": 367,
+                    "price": 170.19,
+                    "originalPrice": 549,
+                    "tradeItemId": "1k2jntk",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.7",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "毛呢大衣",
+                        "女士",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 396,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k4oale&acm=3.ms.1_4_1k4oale.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k4oale.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k4oale?acm=3.ms.1_4_1k4oale.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k4oale?acm=3.ms.1_4_1k4oale.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161228/62654267_02j7k48d2a4el1dc542cbb836119e_800x1200.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "79",
+                    "shopSeller": "毛菇小象女装",
+                    "discount": 10,
+                    "title": "毛菇小象茧型毛呢外套女秋冬长袖中长款加厚羊绒呢子大衣女",
+                    "cfav": 2985,
+                    "price": 198,
+                    "originalPrice": 396,
+                    "tradeItemId": "1k4oale",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "羊绒呢子大衣",
+                        "茧型",
+                        "中长款加厚",
+                        "长袖",
+                        "秋冬"
+                    ]
+                },
+                {
+                    "orgPrice": 370,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k6ajgq&acm=3.ms.1_4_1k6ajgq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMRZGQYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k6ajgq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMRZGQYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k6ajgq?acm=3.ms.1_4_1k6ajgq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMRZGQYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k6ajgq?acm=3.ms.1_4_1k6ajgq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMRZGQYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161217/103151755_3j5fdia50bb842dhgi8bf335c948c_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "79 61",
+                    "shopSeller": "宿本官方旗舰店",
+                    "discount": 10,
+                    "title": "宿本冬装新款灰粉色娃娃领毛呢外套女中长款呢子大衣宽松加厚加棉",
+                    "cfav": 4390,
+                    "price": 229.4,
+                    "originalPrice": 370,
+                    "tradeItemId": "1k6ajgq",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.7",
+                        "serviceDsr": "4.7",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "长款呢子大衣",
+                        "加厚加棉",
+                        "粉色",
+                        "宽松",
+                        "娃娃领",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 268,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k4rb54&acm=3.ms.1_4_1k4rb54.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOBXGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k4rb54.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOBXGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k4rb54?acm=3.ms.1_4_1k4rb54.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOBXGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k4rb54?acm=3.ms.1_4_1k4rb54.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOBXGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161109/147351147_804di94bf8l321675a245gg5a9d9l_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "61",
+                    "shopSeller": "姗姗家",
+                    "discount": 10,
+                    "title": "姗姗家 偏执的温柔 简洁时尚暖暖的百搭气质羊羔绒外套",
+                    "cfav": 309,
+                    "price": 187.6,
+                    "originalPrice": 268,
+                    "tradeItemId": "1k4rb54",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "羊羔绒外套",
+                        "气质",
+                        "简洁",
+                        "时尚",
+                        "百搭"
+                    ]
+                },
+                {
+                    "orgPrice": 283,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k4mz9c&acm=3.ms.1_4_1k4mz9c.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJYGEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k4mz9c.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJYGEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k4mz9c?acm=3.ms.1_4_1k4mz9c.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJYGEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k4mz9c?acm=3.ms.1_4_1k4mz9c.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJYGEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s11.mogucdn.com/p2/161102/104225998_2h7b00e4f95dghlbb3c63ckji95h5_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "79",
+                    "shopSeller": "蜜妃儿",
+                    "discount": 10,
+                    "title": "蜜妃儿冬季新款韩版女装闺蜜装长袖西服领中长款毛呢大衣风衣",
+                    "cfav": 2905,
+                    "price": 198.1,
+                    "originalPrice": 283,
+                    "tradeItemId": "1k4mz9c",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "长款毛呢大衣",
+                        "长袖",
+                        "冬季",
+                        "韩版",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 333,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=181dy48&acm=3.ms.1_4_181dy48.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNRWGUYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_181dy48.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNRWGUYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/181dy48?acm=3.ms.1_4_181dy48.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNRWGUYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/181dy48?acm=3.ms.1_4_181dy48.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNRWGUYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p1/151009/1go5cp_ie2tmzrtgrsgimrsgqzdambqhayde_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "90",
+                    "shopSeller": "ERANZI官方旗舰店",
+                    "discount": 10,
+                    "title": "Eranzi2016冬装新款韩版呢大衣千鸟格小香风毛呢外套",
+                    "cfav": 861,
+                    "price": 166.5,
+                    "originalPrice": 333,
+                    "tradeItemId": "181dy48",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.3",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.5",
+                        "qualityDsr": "4.4",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "毛呢外套",
+                        "小香风",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 148,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k4dfha&acm=3.ms.1_4_1k4dfha.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNBYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k4dfha.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNBYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k4dfha?acm=3.ms.1_4_1k4dfha.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNBYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k4dfha?acm=3.ms.1_4_1k4dfha.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNBYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161125/106721689_35h3454f9gh28bbl8kiai273kfk7d_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "-1",
+                    "shopSeller": "Realcoco旗舰店",
+                    "discount": 10,
+                    "title": "REALCOCO-韩国新款百搭长款纯色毛呢大衣",
+                    "cfav": 115,
+                    "price": 148,
+                    "originalPrice": 148,
+                    "tradeItemId": "1k4dfha",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.5",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "毛呢大衣",
+                        "长款",
+                        "纯色",
+                        "百搭",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 435,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k4jkw0&acm=3.ms.1_4_1k4jkw0.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DGMBUGUYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k4jkw0.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DGMBUGUYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k4jkw0?acm=3.ms.1_4_1k4jkw0.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DGMBUGUYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k4jkw0?acm=3.ms.1_4_1k4jkw0.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DGMBUGUYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161108/147351147_6bb5c9jai9ae6429f1bb4fl050e1j_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "61",
+                    "shopSeller": "姗姗家",
+                    "discount": 10,
+                    "title": "姗姗家 蜜釉瓷 原创气质优雅随性珍珠扣宽边翻领毛呢大衣",
+                    "cfav": 1515,
+                    "price": 304.5,
+                    "originalPrice": 435,
+                    "tradeItemId": "1k4jkw0",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.5",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "毛呢大衣",
+                        "翻领",
+                        "气质",
+                        "优雅",
+                        "原创",
+                        "宽边"
+                    ]
+                },
+                {
+                    "orgPrice": 227,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k44ubq&acm=3.ms.1_4_1k44ubq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJYHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k44ubq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJYHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k44ubq?acm=3.ms.1_4_1k44ubq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJYHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k44ubq?acm=3.ms.1_4_1k44ubq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJYHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161024/157584392_420i276j56agbkc1j998519ch8k7g_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "79",
+                    "shopSeller": "蜜妃儿",
+                    "discount": 10,
+                    "title": "蜜妃儿秋冬季中长款呢子大衣外套流苏拼接宽松显瘦茧型毛呢外套女",
+                    "cfav": 2163,
+                    "price": 158.9,
+                    "originalPrice": 227,
+                    "tradeItemId": "1k44ubq",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "长款呢子大衣",
+                        "茧型",
+                        "宽松显瘦",
+                        "秋冬季",
+                        "拼接",
+                        "流苏"
+                    ]
+                },
+                {
+                    "orgPrice": 332.05,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k2dgc0&acm=3.ms.1_4_1k2dgc0.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMZSGQZV65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k2dgc0.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMZSGQZV65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k2dgc0?acm=3.ms.1_4_1k2dgc0.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMZSGQZV65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k2dgc0?acm=3.ms.1_4_1k2dgc0.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMZSGQZV65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/160922/64012750_6b63j2009f1e901c3cc83gf9c122d_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "79 61 90",
+                    "shopSeller": "OMONT",
+                    "discount": 10,
+                    "title": "【OMONT】学院风复古宽松显瘦连帽牛角扣大衣 短款外套",
+                    "cfav": 2360,
+                    "price": 232.43,
+                    "originalPrice": 332.05,
+                    "tradeItemId": "1k2dgc0",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.6",
+                        "descDsr": "4.7",
+                        "serviceDsr": "4.7",
+                        "qualityDsr": "4.7",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "牛角扣大衣",
+                        "宽松显瘦",
+                        "连帽",
+                        "学院风",
+                        "复古"
+                    ]
+                },
+                {
+                    "orgPrice": 458,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k2xvok&acm=3.ms.1_4_1k2xvok.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENJRHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k2xvok.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENJRHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k2xvok?acm=3.ms.1_4_1k2xvok.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENJRHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k2xvok?acm=3.ms.1_4_1k2xvok.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENJRHEYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s11.mogucdn.com/p2/160929/103151755_2h8522h8bc0ad579fg8dhddh56454_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "82 79 61",
+                    "shopSeller": "宿本官方旗舰店",
+                    "discount": 10,
+                    "title": "宿本秋冬新款纯色娃娃领喇叭袖毛呢大衣系带蝴蝶结中长款长袖外套",
+                    "cfav": 3691,
+                    "price": 251.9,
+                    "originalPrice": 458,
+                    "tradeItemId": "1k2xvok",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.7",
+                        "serviceDsr": "4.7",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "毛呢大衣",
+                        "中长款",
+                        "秋冬新款",
+                        "纯色",
+                        "娃娃领",
+                        "喇叭袖"
+                    ]
+                },
+                {
+                    "orgPrice": 199,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k1wulo&acm=3.ms.1_4_1k1wulo.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJZGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k1wulo.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJZGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k1wulo?acm=3.ms.1_4_1k1wulo.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJZGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k1wulo?acm=3.ms.1_4_1k1wulo.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJZGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/160905/134126839_1d39bl3087i11f04eic8d7l5l048g_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "90",
+                    "shopSeller": "美特斯邦威旗舰店",
+                    "discount": 10,
+                    "title": "美特斯邦威毛呢外套女士2016秋冬装新款满身绣花茧型呢子大衣",
+                    "cfav": 638,
+                    "price": 199,
+                    "originalPrice": 199,
+                    "tradeItemId": "1k1wulo",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.7",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "呢子大衣",
+                        "茧型",
+                        "绣花",
+                        "女士",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 225,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k4k2pq&acm=3.ms.1_4_1k4k2pq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJXGUYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k4k2pq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJXGUYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k4k2pq?acm=3.ms.1_4_1k4k2pq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJXGUYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k4k2pq?acm=3.ms.1_4_1k4k2pq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNJXGUYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161101/104225998_8fl035c650h76djecd2je4i64hk3k_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "-1",
+                    "shopSeller": "蜜妃儿",
+                    "discount": 10,
+                    "title": "蜜妃儿短款毛呢外套冬季新品韩版女装潮七分袖圆领呢子外套女",
+                    "cfav": 1255,
+                    "price": 157.5,
+                    "originalPrice": 225,
+                    "tradeItemId": "1k4k2pq",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "短款毛呢外套",
+                        "冬季",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 293.58,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k2flsk&acm=3.ms.1_4_1k2flsk.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMBVGUYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k2flsk.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMBVGUYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k2flsk?acm=3.ms.1_4_1k2flsk.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMBVGUYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k2flsk?acm=3.ms.1_4_1k2flsk.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMBVGUYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/160918/64012750_55dch0dacgh679009b64d64j0kl3l_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "79 61 90",
+                    "shopSeller": "OMONT",
+                    "discount": 10,
+                    "title": "【OMONT】情侣款大衣学院风西装领休闲宽松加厚长款呢大衣",
+                    "cfav": 1828,
+                    "price": 205.5,
+                    "originalPrice": 293.58,
+                    "tradeItemId": "1k2flsk",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.6",
+                        "descDsr": "4.7",
+                        "serviceDsr": "4.7",
+                        "qualityDsr": "4.7",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "长款呢大衣",
+                        "西装领",
+                        "加厚",
+                        "学院风",
+                        "休闲宽松",
+                        "情侣款"
+                    ]
+                },
+                {
+                    "orgPrice": 384.2,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k3a7mk&acm=3.ms.1_4_1k3a7mk.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENRYHE2F65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k3a7mk.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENRYHE2F65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k3a7mk?acm=3.ms.1_4_1k3a7mk.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENRYHE2F65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k3a7mk?acm=3.ms.1_4_1k3a7mk.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENRYHE2F65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161008/156557335_53e44j528b0eb8j6g02geeil45a1j_800x1200.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "16 116 82 93 160 79 166",
+                    "shopSeller": "凡兔女装旗舰店",
+                    "discount": 10,
+                    "title": "凡兔女装韩版2017秋冬厚款毛呢女中长款墨绿森系气质呢子大衣",
+                    "cfav": 5885,
+                    "price": 268.94,
+                    "originalPrice": 384.2,
+                    "tradeItemId": "1k3a7mk",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "呢子大衣",
+                        "中长款",
+                        "气质",
+                        "墨绿",
+                        "森系",
+                        "秋冬",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 278,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k4raki&acm=3.ms.1_4_1k4raki.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJUGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k4raki.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJUGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k4raki?acm=3.ms.1_4_1k4raki.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJUGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k4raki?acm=3.ms.1_4_1k4raki.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCOJUGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161108/147351147_4l3hb7i48jiha1j05dii6e5g06e59_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "61",
+                    "shopSeller": "姗姗家",
+                    "discount": 10,
+                    "title": "姗姗家 风之暖 气质翻领经典优雅中长款呢大衣外套",
+                    "cfav": 357,
+                    "price": 194.6,
+                    "originalPrice": 278,
+                    "tradeItemId": "1k4raki",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "呢大衣外套",
+                        "翻领",
+                        "中长款",
+                        "气质",
+                        "经典",
+                        "优雅"
+                    ]
+                },
+                {
+                    "orgPrice": 370,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k431zw&acm=3.ms.1_4_1k431zw.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMRZGQYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k431zw.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMRZGQYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k431zw?acm=3.ms.1_4_1k431zw.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMRZGQYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k431zw?acm=3.ms.1_4_1k431zw.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DEMRZGQYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161023/166262707_0da10j74ffb3gje2652ec6hfhg932_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "82 79 61",
+                    "shopSeller": "宿本官方旗舰店",
+                    "discount": 10,
+                    "title": "宿本冬装新款文艺简约娃娃领长袖系带呢大衣女中长款茧型毛呢外套",
+                    "cfav": 6544,
+                    "price": 229.4,
+                    "originalPrice": 370,
+                    "tradeItemId": "1k431zw",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.7",
+                        "serviceDsr": "4.7",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "毛呢外套",
+                        "茧型",
+                        "中长款",
+                        "长袖",
+                        "系带",
+                        "文艺简约",
+                        "娃娃领",
+                        "新款"
+                    ]
+                },
+                {
+                    "orgPrice": 336,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k5xgyq&acm=3.ms.1_4_1k5xgyq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNRYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k5xgyq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNRYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k5xgyq?acm=3.ms.1_4_1k5xgyq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNRYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k5xgyq?acm=3.ms.1_4_1k5xgyq.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNRYGAYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161205/148010724_5ie58al2lkj5950gh3603ijcegl46_800x1200.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "79",
+                    "shopSeller": "毛菇小象女装",
+                    "discount": 10,
+                    "title": "毛菇小象毛呢外套女女装中长款长袖宽松",
+                    "cfav": 805,
+                    "price": 168,
+                    "originalPrice": 336,
+                    "tradeItemId": "1k5xgyq",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.5",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "毛呢外套",
+                        "宽松"
+                    ]
+                },
+                {
+                    "orgPrice": 256,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k3ccng&acm=3.ms.1_4_1k3ccng.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZZGIYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k3ccng.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZZGIYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k3ccng?acm=3.ms.1_4_1k3ccng.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZZGIYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k3ccng?acm=3.ms.1_4_1k3ccng.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZZGIYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161206/89849881_30c30a326gl3ce6jk46e94367jc0d_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "82 79 121 61",
+                    "shopSeller": "JY STUDIO",
+                    "discount": 10,
+                    "title": "【JY】春季新品韩版短款修身毛绒夹克毛呢春季外套",
+                    "cfav": 8542,
+                    "price": 179.2,
+                    "originalPrice": 256,
+                    "tradeItemId": "1k3ccng",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "毛呢",
+                        "修身",
+                        "短款",
+                        "春季",
+                        "毛绒",
+                        "韩版"
+                    ]
+                },
+                {
+                    "orgPrice": 248,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k4rg6k&acm=3.ms.1_4_1k4rg6k.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZTGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k4rg6k.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZTGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k4rg6k?acm=3.ms.1_4_1k4rg6k.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZTGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k4rg6k?acm=3.ms.1_4_1k4rg6k.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DCNZTGYYF65LBHIYTOMC7OBQTUMC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s11.mogucdn.com/p2/161104/147351147_72i41ij9li72lgkf4b0392i0846ca_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "-1",
+                    "shopSeller": "姗姗家",
+                    "discount": 10,
+                    "title": "姗姗家 甜润浆果 时尚优雅的连帽宽松复古范毛呢大衣外套",
+                    "cfav": 329,
+                    "price": 173.6,
+                    "originalPrice": 248,
+                    "tradeItemId": "1k4rg6k",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.4",
+                        "descDsr": "4.6",
+                        "serviceDsr": "4.6",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "呢大衣外套",
+                        "连帽",
+                        "宽松",
+                        "优雅",
+                        "时尚",
+                        "复古范"
+                    ]
+                },
+                {
+                    "orgPrice": 398,
+                    "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1k6gikg&acm=3.ms.1_4_1k6gikg.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENZYGYYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "acm": "3.ms.1_4_1k6gikg.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENZYGYYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "clientUrl": "http://m.mogujie.com/x6/detail/1k6gikg?acm=3.ms.1_4_1k6gikg.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENZYGYYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "link": "http://m.mogujie.com/x6/detail/1k6gikg?acm=3.ms.1_4_1k6gikg.0.1309-22922.wGTROqd3Lg722.t_0-lc_16-i_OA5DENZYGYYF65LBHIYTOMC7OBQTUNC7MM5DOMBR-s1_OA5DENBXFYYCG4J2GMYDALRQENSDUMZQGAXDA",
+                    "img": {
+                        "w": 220,
+                        "img": "http://s2.mogucdn.com/p2/161224/103151755_64i2kh96371f8h5265ik77fb6db9i_640x960.jpg_220x330.jpg",
+                        "h": 330
+                    },
+                    "itemMarks": "79 61",
+                    "shopSeller": "宿本官方旗舰店",
+                    "discount": 10,
+                    "title": "宿本春装新款文艺复古西装领毛呢外套女中长款翻领风衣外套呢大衣",
+                    "cfav": 1449,
+                    "price": 278.6,
+                    "originalPrice": 398,
+                    "tradeItemId": "1k6gikg",
+                    "hasSimilarity": true,
+                    "lefttop_taglist": [],
+                    "shopDsr": {
+                        "tagPriceDsr": "4.3",
+                        "priceDsr": "4.5",
+                        "descDsr": "4.7",
+                        "serviceDsr": "4.7",
+                        "qualityDsr": "4.6",
+                        "tagDescDsr": "4.4",
+                        "tagServiceDsr": "4.4",
+                        "tagQualityDsr": "4.3"
+                    },
+                    "leftbottom_taglist": [],
+                    "props": [
+                        "毛呢外套",
+                        "西装领",
+                        "中长款",
+                        "文艺复古",
+                        "新款"
+                    ]
+                }
+            ]
+        }
+    },
+    "success": true
+}
