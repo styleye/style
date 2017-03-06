@@ -101,7 +101,8 @@ angular.module('secondModule',['ui.router'])
 	
 	//滚动条滑动时的效果
 	$(document).scroll(function(){
-		
+		var h1=$('#sec_PanelGraphic').outerHeight();
+		var h2=$('#sec_PanelParameter').outerHeight();
 		if($(document).scrollTop()>=700){
 			$('.menus-box').css({
 				"transform": "translate3d(0, -65px, 0)",
@@ -134,10 +135,10 @@ angular.module('secondModule',['ui.router'])
 			})
 		}
 		
-		if($(document).scrollTop()<20705){
+		if($(document).scrollTop()<(1730+h1)){
 			$('.sec_tab-item').removeClass('sec_active');
 			$('.sec_tab-item').eq(0).addClass('sec_active');
-		}else if($(document).scrollTop()>=20705&&$(document).scrollTop()<21590){
+		}else if($(document).scrollTop()>=(1730+h1)&&$(document).scrollTop()<(1730+h1+h2)){
 			$('.sec_tab-item').removeClass('sec_active');
 			$('.sec_tab-item').eq(1).addClass('sec_active');
 		}else{
@@ -147,15 +148,20 @@ angular.module('secondModule',['ui.router'])
 //		console.log($(document).scrollTop());
 	});
 	
+			
 	
 //	点击产品详情导航栏时的动态效果
 	$('.sec_tabpanel-tabs>.sec_tab-item').click(function(){
+		var h1=$('#sec_PanelGraphic').outerHeight();
+		var h2=$('#sec_PanelParameter').outerHeight();
 		if($(this).index()==0){
 			$(document).scrollTop(1730);
 		}else if($(this).index()==1){
-				$(document).scrollTop(20705);	
+			$(document).scrollTop(h1+1732);
+//			$(document).scrollTop(20705);	
 		}else{
-			$(document).scrollTop(21590);
+			$(document).scrollTop(h1+h2+1732);
+//			$(document).scrollTop(21590);
 		}
 	})
 	
@@ -235,7 +241,8 @@ angular.module('secondModule',['ui.router'])
 				$('.num-reduce').removeClass('num-disable');
 			}
 			$('.num-input').text(num);
-		})
+			sumPrice();
+		});
 		
 		//减少
 		
@@ -247,9 +254,19 @@ angular.module('secondModule',['ui.router'])
 				$('.num-reduce').addClass('num-disable');
 			}
 			$('.num-input').text(num);
-		})
+			sumPrice();
+		});
 		
+		//计算价格
+		function sumPrice(){
+//			console.log(111)
+			var qty=$('.num-input').text()/1;
+			var unit_price=$scope.skuInfoData.defaultPrice.split('¥')[1]/1;
+			var totalSum=(qty*unit_price).toFixed(2);
+			$('.sku-title-price>.price').html('¥'+totalSum);
+		}
 		
+		//通过尺码和颜色进行筛选
 		
 		
 	});
