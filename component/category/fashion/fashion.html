@@ -24,7 +24,7 @@
 	<header class="fashion_header">
 		<a href="javascript:void(history.back());"><i class="fa fa-angle-left fa-2x"></i></a>
 		<p>时尚套装</p>
-		<i class="fa fa-shopping-cart fa-2x"></i>
+		<i class="fa fa-shopping-cart fa-2x" ng-click="goCar()"></i>
 	</header>
 	<div class="fashion_view">
 		
@@ -35,9 +35,9 @@
 			</div>
 			<div id="fashion_tab" >
 				<ul>
-					<li ng-click="range()">综合</li>
-					<li ng-click="range('-cfav/1')">销量</li>
-					<li ng-click="range('onSaleTime')">新品</li>
+					<li ng-click="[range(),changeStyle($event)]" class="active">综合</li>
+					<li ng-click="[range('-cfav/1'),changeStyle($event)]">销量</li>
+					<li ng-click="[range('onSaleTime'),changeStyle($event)]">新品</li>
 					<li ng-click="toggle()">
 						价格<i class="fa fa-angle-down fa-2x" style="color: #c3c3c3;position: relative;top: 3px;left: 2px;"></i>
 					</li>
@@ -59,7 +59,7 @@
 		</div>
 		<!--商品展示列表-->
 		<div id="fashion_goods_list">
-			<div class="goods_item" ng-repeat="good in arr.wall.docs | filter:f | orderBy:s">
+			<div class="goods_item" ng-repeat="good in arr.wall.docs | filter:f | orderBy:s" ng-click="runTo()">
 				<img src="{{good.img}}" ng-if="good.img.length>0" style="height: 4.6rem;"/>
 				<img src="{{good.show.img}}" ng-if="good.show" style="width: 100%;"/>
 				<div class="good_tips" ng-if="good.img.length>0">
@@ -71,13 +71,13 @@
 					<span ng-if="!good.onSaleTime">{{good.cfav}}</span>
 					<span ng-if="good.onSaleTime">{{good.onSaleTime}}</span>
 				</div>
-				<div class="good_similar" ng-if="good.hasSimilarity" ng-click="similarGood(good)"></div>
+				<div class="good_similar" ng-if="good.hasSimilarity" ng-click="similarGood(good,$event)"></div>
 			</div>
 		</div>
 		
 		<!--右侧固定小图标-->
 		<div class="fashion_icon">
-			<a><span class="car"></span></a>
+			<a ng-click="goCar()"><span class="car"></span></a>
 			<a href="javascript:void(0)" ng-click="goto(fashion_goods_list)"><span class="top"></span></a>
 		</div>
 		
