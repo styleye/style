@@ -1,0 +1,3 @@
+#locearr{display: flex;flex-flow: row wrap;width: 100%;height: auto;}
+#locearr .locearr{display: flex;width: 50%;height: auto;}
+#locearr .locearr img{width: 100%;height: 100%;}

@@ -1,0 +1,16 @@
+#homeFenzhi{width: 100%;height: 100%;z-index: 100;position: absolute;top: 0;background-color:rgb(246,246,246) ;}
+.home-topbar .homespan{font-size: 0.4rem;position: absolute;left: 2.7rem;top: 0.1rem;}
+#fenlunbo{padding-top: 0.8rem;}
+#homeFenzhi .swiper-pagination{position: absolute;left: 0;width: 40%;}
+#homeFenzhi #navbox{background-color: rgb(246,246,246);}
+#homeFenzhi #navbox .nav{margin-top: 0.3rem;}
+#homeFenzhi .naveearr{background: white;display: flex;flex-wrap: wrap;width: 100%;}
+#homeFenzhi .naveearr a{width: 25%;}
+#homeFenzhi .naveearr .navboxss{width: 100%;display: flex;flex-direction: column;}
+#homeFenzhi .naveearr .navboxss p{text-align: center;margin-top: 0.3rem;}
+#navbox .nav .floor-title{background-color: white;}
+#homeFenzhi nav{width: 100%;position: relative;height: 1rem;background: #f07;position: relative;font-size: 0.3rem;color: white;display: flex;flex-wrap: nowrap;overflow: hidden;}
+#homeFenzhi nav>div:first-of-type{width: 25%;text-align: center;line-height: 1rem;}
+#homeFenzhi nav .divse{width: 75%;overflow: auto;height: 2rem;}
+#homeFenzhi nav .divse #divsebox{width: 8rem;background: #f07;height: 2rem;}
+#homeFenzhi nav .divse #divsebox div{float: left;padding: 0.3rem;}

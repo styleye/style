@@ -58,7 +58,7 @@ $(window).scroll(function(){
 			$scope.tempone=res.result.wall.docs;
 		});
 		num++;
-		}else if(num==1){
+		}/*else if(num==1){
 			$http.get('component/home/json/'+arr[num]+'.json').success(function(res){
 			$scope.temptwo=res.result.wall.docs;
 		});
@@ -103,7 +103,7 @@ $(window).scroll(function(){
 			$scope.tempnine=res.result.wall.docs;
 		});
 		num++;
-		}
+		}*/
 	}
 		}
 	

@@ -1,3 +1,4 @@
+<div ui-view>
 <div class="home-topbar">
 	<input type="text" name="" id="" value="" placeholder="简约百搭欧美大降短靴" />
 	<a href="##" class="talk-mark fa fa-commenting-o"></a>
@@ -8,6 +9,7 @@
 	
 
 <div class="swiper-container">
+	
 	<div class="swiper-wrapper">
 		<div class="swiper-slide" ng-repeat="obj in headarr"><img src="{{obj.image}}" /></div>
 	</div>
@@ -78,10 +80,12 @@
 	</div>
 </div>
 <div class="module-row">
+	
 	<div ng-repeat="obj in rowarr" class="rowarr">
+		<a href="" ui-sref="home.fenzhi">
 		<img src="{{obj.image}}">
 		<p>{{obj.title}}</p>
-		</span>
+		</a>
 	</div>
 </div>
 <div class="nav">
@@ -187,4 +191,4 @@
 	<a ui-sref="home.local" href="">本地超市</a>
 	<a ui-sref="home.nonlocal" href="">外地超市</a>
 </nav>
-<div ui-view></div>
+</div>

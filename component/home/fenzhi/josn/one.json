@@ -1,0 +1,57 @@
+{
+    "data": {
+        "544": {
+            "isEnd": true,
+            "list": [
+                {
+                    "startTime": 1488297600,
+                    "title": "春日出游妆容",
+                    "sort": 1,
+                    "acm": "3.mce.1_10_1aesq.544.0.3B2Bhqd3wa27j.m_242841",
+                    "link": "http://act.mogujie.com/shipin0228?acm=3.mce.1_10_1aesq.544.0.3B2Bhqd3wa27j.m_242841",
+                    "image": "https://s2.mogucdn.com/p2/170301/133546700_5kgg47gdb0ah3h43f3e72cd4k4bil_600x200.jpg",
+                    "endTime": 0
+                },
+                {
+                    "startTime": 1488682800,
+                    "title": "快抢专场",
+                    "sort": 1,
+                    "acm": "3.mce.1_10_1agae.544.0.3B2Bhqd3wa27k.m_243807",
+                    "link": "http://act.mogujie.com/kqhuodong/mzzc35?acm=3.mce.1_10_1agae.544.0.3B2Bhqd3wa27k.m_243807",
+                    "image": "https://s2.mogucdn.com/p2/170303/71254756_7b6j35dj7d92h9h8g27a4lfhf9ic2_750x250.jpg",
+                    "endTime": 1488769200
+                },
+                {
+                    "startTime": 1488729600,
+                    "title": "特权品牌团",
+                    "sort": 2,
+                    "acm": "3.mce.1_10_1afve.544.0.3B2Bhqd3wa27l.m_243537",
+                    "link": "http://act.mogujie.com/nvshengjie?acm=3.mce.1_10_1afve.544.0.3B2Bhqd3wa27l.m_243537",
+                    "image": "https://s2.mogucdn.com/p2/170303/133546700_45621e2ji2547b499g98ca1d9jade_750x250.jpg",
+                    "endTime": 1489334400
+                },
+                {
+                    "startTime": 1488765419,
+                    "title": "春季保湿",
+                    "sort": 4,
+                    "acm": "3.mce.1_10_1agke.544.0.3B2Bhqd3wa27m.m_243987",
+                    "link": "http://act.mogujie.com/haowuji/meizhuangh5?acm=3.mce.1_10_1agke.544.0.3B2Bhqd3wa27m.m_243987",
+                    "image": "https://s10.mogucdn.com/p2/170303/203731209_088g4biechfillg0a08c14l2lak8c_750x250.jpg",
+                    "endTime": 1489075200
+                },
+                {
+                    "startTime": 1488765419,
+                    "title": "惊艳大牌日",
+                    "sort": 4,
+                    "acm": "3.mce.1_10_1agks.544.0.3B2Bhqd3wa27n.m_243994",
+                    "link": "http://act.mogujie.com/jydpr1?acm=3.mce.1_10_1agks.544.0.3B2Bhqd3wa27n.m_243994",
+                    "image": "https://s2.mogucdn.com/p2/170306/205189055_380f8ckeif8hkhce0d32620ig64h7_750x240.jpg",
+                    "endTime": 1489370400
+                }
+            ],
+            "nextPage": 1
+        }
+    },
+    "returnCode": "SUCCESS",
+    "success": true
+}
