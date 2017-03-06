@@ -33,7 +33,6 @@ angular.module("homeModule",['ui.router'])
 
 .controller('HomeCtrl',['$scope','homeData','swipe','$http',function($scope,homeData,swipe,$http){
 	homeData.get().success(function(res){
-		console.log(res.data[4604].list)
 		$scope.bottomArr=res.data[4604].list;
 		$scope.headarr=res.data[36344].list;
 		$scope.shoopLeft=res.data[36355].list[0];
