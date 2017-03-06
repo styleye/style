@@ -21,22 +21,26 @@ angular.module("categoryModule",['ui.router'])
 	}
 }])
 
-.controller('categoryCtrl',['$scope','categoryData','categoryHot',function($scope,categoryData,categoryHot){
+.controller('categoryCtrl',['$scope','$anchorScroll','categoryData','categoryHot',function($scope,$anchorScroll,categoryData,categoryHot){
 	categoryData.get().success(function(res){
 		$scope.arr = res.data[581].list;
-		console.log(res.data[581].list)
+		//console.log(res.data[581].list)
 	})
 	categoryHot.get().success(function(res){
 		$scope.arrList = res.data[3627].list
 		//console.log(res.data[3627].list)
 	})
-	$scope.getKey = function(key,imgUrl){
-		console.log(imgUrl.length);
+	$scope.index = 0;
+	//点击获取对应json号，图片地址
+	$scope.getKey = function(key,imgUrl,i){
+		//console.log(imgUrl.length);
+		$scope.index = this.$index;
 		$scope.img = imgUrl;
 		$.getJSON('component/category/json/'+key+'.json',function(data){
 			$scope.arrList = data.data[key].list;
 			//console.log(data.data[key].list)
 		})	
+		
 	}
 	
 	

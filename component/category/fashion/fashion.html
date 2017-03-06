@@ -1,1 +1,86 @@
-<h1>fashion</h1>
+<div id="fashion_wrap">
+	
+	<!--相似商品隐藏栏-->
+	<div id="fashion_similar">
+		<div class="similar_border" ng-hide="flg"></div>
+		<div class="similar_header">
+			<a href="javascript:void(history.back());"><i class="fa fa-angle-left fa-2x"></i></a>
+			<div><p></p><input type="text" /><a></a></div>
+			<i class="fa fa-shopping-cart fa-2x"></i>
+		</div>
+		<div class="similar_main">
+			<div class="similar_good">
+				<div class="image"><img src="{{pic}}"/></div>
+				<div class="ctt">
+					<p>{{txt}}</p>
+					<p><span class="pri">￥{{price}}</span><span class="sc">{{love}}人收藏</span></p>
+				</div>
+			</div>
+			<div class="similar_title" ng-hide="flg"></div>
+		</div>
+	</div>
+	
+	<!--头部-->
+	<header class="fashion_header">
+		<a href="javascript:void(history.back());"><i class="fa fa-angle-left fa-2x"></i></a>
+		<p>时尚套装</p>
+		<i class="fa fa-shopping-cart fa-2x"></i>
+	</header>
+	<div class="fashion_view">
+		
+		<!--头部固定导航-->
+		<div class="nav_fixed">
+			<div class="hot_cates_scroll" ng-hide="judg">
+				<a ng-repeat="a in arr.hotCates" style="background: url({{a.img}}) no-repeat 100%;" ng-click="hideFun(a.title,a.$$hashKey)">{{a.title}}</a>
+			</div>
+			<div id="fashion_tab" >
+				<ul>
+					<li ng-click="range()">综合</li>
+					<li ng-click="range('-cfav/1')">销量</li>
+					<li ng-click="range('onSaleTime')">新品</li>
+					<li ng-click="toggle()">
+						价格<i class="fa fa-angle-down fa-2x" style="color: #c3c3c3;position: relative;top: 3px;left: 2px;"></i>
+					</li>
+				</ul>
+				<!--隐藏栏-->
+				<div class="price_hide" ng-show="flag">
+					<div class="price_level">
+						<p class="price_range" ng-repeat="p in arr.priceFilter"  ng-click="setValue(p.min,p.max,p.percent)">{{p.min}} - {{p.max}}</p>
+					</div>
+					<div class="price_input"
+						<span>区间(元)</span>
+						<input type="number" class="min_price" value=""/>
+						<p>―</p>
+						<input type="number" class="max_price" value=""/>
+						<input type="submit" ng-click="submitBtn()"/>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--商品展示列表-->
+		<div id="fashion_goods_list">
+			<div class="goods_item" ng-repeat="good in arr.wall.docs | filter:f | orderBy:s">
+				<img src="{{good.img}}" ng-if="good.img.length>0" style="height: 4.6rem;"/>
+				<img src="{{good.show.img}}" ng-if="good.show" style="width: 100%;"/>
+				<div class="good_tips" ng-if="good.img.length>0">
+					<span ng-if="good.leftbottom_taglist.length>0" ng-repeat="tip in good.leftbottom_taglist" style="background-color: {{tip.bgColor}};color: {{tip.color}};">{{tip.content}}</span>
+					<span ng-repeat="tips in good.props">{{tips}}</span>
+				</div>
+				<div ng-if="good.img.length>0" class="good_price">
+					<b>￥{{good.price}}</b>
+					<span ng-if="!good.onSaleTime">{{good.cfav}}</span>
+					<span ng-if="good.onSaleTime">{{good.onSaleTime}}</span>
+				</div>
+				<div class="good_similar" ng-if="good.hasSimilarity" ng-click="similarGood(good)"></div>
+			</div>
+		</div>
+		
+		<!--右侧固定小图标-->
+		<div class="fashion_icon">
+			<a><span class="car"></span></a>
+			<a href="javascript:void(0)" ng-click="goto(fashion_goods_list)"><span class="top"></span></a>
+		</div>
+		
+	</div>
+	
+</div>

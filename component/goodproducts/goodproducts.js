@@ -74,7 +74,12 @@ angular.module("goodproductsModule",['ui.router'])
 					$(".min").html(minutes);
 					$(".sec").html(seconds);
 				} 
-			setInterval(leftTimer(2017,03,02,14,00,00),1000); 
+			var nowDate=new Date();
+			var setY=nowDate.getFullYear();
+			var setM=nowDate.getMonth();
+			var setD=nowDate.getDate();
+			var setH=nowDate.getHours();
+			setInterval(leftTimer(setY,setM+1,setD,setH+1,00,00),1000); 
 			function checkTime(i){
 				//将0~9的数字前加上0,如1在页面显示为01
 				if(i<10){
@@ -82,7 +87,7 @@ angular.module("goodproductsModule",['ui.router'])
 				}
 				return i;
 			}
-		},50)
+		},500)
 	}
 }])
 
@@ -97,7 +102,7 @@ angular.module("goodproductsModule",['ui.router'])
 		$scope.limitedData=res.data[8927].list;
 		
 		//限时抢购倒计时
-		leftTimer.leftTimer();
+//		leftTimer.leftTimer();
 		//蘑菇优选数据
 		$scope.good_introduceData=res.data[7286].list;
 

@@ -96,8 +96,9 @@
 		
 		<!--part1-->
 		<div class="good_detail clear_f">
-			<a href="{{obj.link}}" ng-repeat="obj in part_1">
-				<img src="{{obj.img}}" alt="" />
+			<a ui-sref="goodproducts.secondPage" ng-repeat="obj in part_1">
+				<!--href="{{obj.link}}"--> 
+				<img lazy-src="{{obj.img}}" alt="" />
 				<div class="goods_info">
 					<div class="name_box  clear_f">
 						<div class="name_tags">
@@ -113,16 +114,12 @@
 			</a>
 		</div>
 	</div>
-	
-	
-	
-	
-	<!--页脚留白-->
-	<div class="bottom-placeholder" id="bottomPlaceholder"></div>
-	
-	
-	
 </div>
+
+
+<div ui-view></div>
+<!--页脚留白-->
+<div class="bottom-placeholder" id="bottomPlaceholder"></div>
 	
 	
 	

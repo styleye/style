@@ -1,0 +1,739 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": ""
+    },
+    "result": {
+        "skuInfo": {
+            "title": "【Aila wang】贝壳头加绒小白鞋厚底松糕板鞋羊羔毛毛鞋",
+            "skus": [
+                {
+                    "stockId": "1olsp7c",
+                    "xdSkuId": "1olsp7c",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s11.mogucdn.com/p2/161120/133914971_1f2hd8lk5608001cb46bbcibdbg3f_750x586.jpg",
+                    "currency": "￥",
+                    "stock": 2,
+                    "style": "白色",
+                    "size": "34",
+                    "styleId": 1,
+                    "sizeId": 100
+                },
+                {
+                    "stockId": "1olsp7e",
+                    "xdSkuId": "1olsp7e",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s11.mogucdn.com/p2/161120/133914971_1f2hd8lk5608001cb46bbcibdbg3f_750x586.jpg",
+                    "currency": "￥",
+                    "stock": 2,
+                    "style": "白色",
+                    "size": "35",
+                    "styleId": 1,
+                    "sizeId": 101
+                },
+                {
+                    "stockId": "1olsp7g",
+                    "xdSkuId": "1olsp7g",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s11.mogucdn.com/p2/161120/133914971_1f2hd8lk5608001cb46bbcibdbg3f_750x586.jpg",
+                    "currency": "￥",
+                    "stock": 1,
+                    "style": "白色",
+                    "size": "36",
+                    "styleId": 1,
+                    "sizeId": 102
+                },
+                {
+                    "stockId": "1olsp7i",
+                    "xdSkuId": "1olsp7i",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s11.mogucdn.com/p2/161120/133914971_1f2hd8lk5608001cb46bbcibdbg3f_750x586.jpg",
+                    "currency": "￥",
+                    "stock": 16,
+                    "style": "白色",
+                    "size": "37",
+                    "styleId": 1,
+                    "sizeId": 103
+                },
+                {
+                    "stockId": "1olsp7k",
+                    "xdSkuId": "1olsp7k",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s11.mogucdn.com/p2/161120/133914971_1f2hd8lk5608001cb46bbcibdbg3f_750x586.jpg",
+                    "currency": "￥",
+                    "stock": 18,
+                    "style": "白色",
+                    "size": "38",
+                    "styleId": 1,
+                    "sizeId": 104
+                },
+                {
+                    "stockId": "1olsp7m",
+                    "xdSkuId": "1olsp7m",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s11.mogucdn.com/p2/161120/133914971_1f2hd8lk5608001cb46bbcibdbg3f_750x586.jpg",
+                    "currency": "￥",
+                    "stock": 10,
+                    "style": "白色",
+                    "size": "39",
+                    "styleId": 1,
+                    "sizeId": 105
+                },
+                {
+                    "stockId": "1olsp7o",
+                    "xdSkuId": "1olsp7o",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s11.mogucdn.com/p2/161120/133914971_1f2hd8lk5608001cb46bbcibdbg3f_750x586.jpg",
+                    "currency": "￥",
+                    "stock": 0,
+                    "style": "白色",
+                    "size": "40",
+                    "styleId": 1,
+                    "sizeId": 106
+                },
+                {
+                    "stockId": "1olsp7q",
+                    "xdSkuId": "1olsp7q",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s2.mogucdn.com/p2/161120/133914971_26c0e02a4b9echjaefh9afhbfh92i_750x548.png",
+                    "currency": "￥",
+                    "stock": 0,
+                    "style": "复古擦色",
+                    "size": "34",
+                    "styleId": 2,
+                    "sizeId": 100
+                },
+                {
+                    "stockId": "1olsp7s",
+                    "xdSkuId": "1olsp7s",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s2.mogucdn.com/p2/161120/133914971_26c0e02a4b9echjaefh9afhbfh92i_750x548.png",
+                    "currency": "￥",
+                    "stock": 1,
+                    "style": "复古擦色",
+                    "size": "35",
+                    "styleId": 2,
+                    "sizeId": 101
+                },
+                {
+                    "stockId": "1olsp7u",
+                    "xdSkuId": "1olsp7u",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s2.mogucdn.com/p2/161120/133914971_26c0e02a4b9echjaefh9afhbfh92i_750x548.png",
+                    "currency": "￥",
+                    "stock": 0,
+                    "style": "复古擦色",
+                    "size": "36",
+                    "styleId": 2,
+                    "sizeId": 102
+                },
+                {
+                    "stockId": "1olsp7w",
+                    "xdSkuId": "1olsp7w",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s2.mogucdn.com/p2/161120/133914971_26c0e02a4b9echjaefh9afhbfh92i_750x548.png",
+                    "currency": "￥",
+                    "stock": 0,
+                    "style": "复古擦色",
+                    "size": "37",
+                    "styleId": 2,
+                    "sizeId": 103
+                },
+                {
+                    "stockId": "1olsp7y",
+                    "xdSkuId": "1olsp7y",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s2.mogucdn.com/p2/161120/133914971_26c0e02a4b9echjaefh9afhbfh92i_750x548.png",
+                    "currency": "￥",
+                    "stock": 3,
+                    "style": "复古擦色",
+                    "size": "38",
+                    "styleId": 2,
+                    "sizeId": 104
+                },
+                {
+                    "stockId": "1olsp80",
+                    "xdSkuId": "1olsp80",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s2.mogucdn.com/p2/161120/133914971_26c0e02a4b9echjaefh9afhbfh92i_750x548.png",
+                    "currency": "￥",
+                    "stock": 0,
+                    "style": "复古擦色",
+                    "size": "39",
+                    "styleId": 2,
+                    "sizeId": 105
+                },
+                {
+                    "stockId": "1olsp82",
+                    "xdSkuId": "1olsp82",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s2.mogucdn.com/p2/161120/133914971_26c0e02a4b9echjaefh9afhbfh92i_750x548.png",
+                    "currency": "￥",
+                    "stock": 0,
+                    "style": "复古擦色",
+                    "size": "40",
+                    "styleId": 2,
+                    "sizeId": 106
+                },
+                {
+                    "stockId": "1olsp84",
+                    "xdSkuId": "1olsp84",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s2.mogucdn.com/p2/161120/133914971_596i0jhe8h46c93ala4925dcj4663_750x510.jpg",
+                    "currency": "￥",
+                    "stock": 0,
+                    "style": "杏色",
+                    "size": "34",
+                    "styleId": 3,
+                    "sizeId": 100
+                },
+                {
+                    "stockId": "1olsp86",
+                    "xdSkuId": "1olsp86",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s2.mogucdn.com/p2/161120/133914971_596i0jhe8h46c93ala4925dcj4663_750x510.jpg",
+                    "currency": "￥",
+                    "stock": 0,
+                    "style": "杏色",
+                    "size": "35",
+                    "styleId": 3,
+                    "sizeId": 101
+                },
+                {
+                    "stockId": "1olsp88",
+                    "xdSkuId": "1olsp88",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s2.mogucdn.com/p2/161120/133914971_596i0jhe8h46c93ala4925dcj4663_750x510.jpg",
+                    "currency": "￥",
+                    "stock": 1,
+                    "style": "杏色",
+                    "size": "36",
+                    "styleId": 3,
+                    "sizeId": 102
+                },
+                {
+                    "stockId": "1olsp8a",
+                    "xdSkuId": "1olsp8a",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s2.mogucdn.com/p2/161120/133914971_596i0jhe8h46c93ala4925dcj4663_750x510.jpg",
+                    "currency": "￥",
+                    "stock": 8,
+                    "style": "杏色",
+                    "size": "37",
+                    "styleId": 3,
+                    "sizeId": 103
+                },
+                {
+                    "stockId": "1olsp8c",
+                    "xdSkuId": "1olsp8c",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s2.mogucdn.com/p2/161120/133914971_596i0jhe8h46c93ala4925dcj4663_750x510.jpg",
+                    "currency": "￥",
+                    "stock": 6,
+                    "style": "杏色",
+                    "size": "38",
+                    "styleId": 3,
+                    "sizeId": 104
+                },
+                {
+                    "stockId": "1olsp8e",
+                    "xdSkuId": "1olsp8e",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s2.mogucdn.com/p2/161120/133914971_596i0jhe8h46c93ala4925dcj4663_750x510.jpg",
+                    "currency": "￥",
+                    "stock": 0,
+                    "style": "杏色",
+                    "size": "39",
+                    "styleId": 3,
+                    "sizeId": 105
+                },
+                {
+                    "stockId": "1olsp8g",
+                    "xdSkuId": "1olsp8g",
+                    "price": 22572,
+                    "nowprice": 15800,
+                    "img": "http://s2.mogucdn.com/p2/161120/133914971_596i0jhe8h46c93ala4925dcj4663_750x510.jpg",
+                    "currency": "￥",
+                    "stock": 0,
+                    "style": "杏色",
+                    "size": "40",
+                    "styleId": 3,
+                    "sizeId": 106
+                }
+            ],
+            "props": [
+                {
+                    "label": "颜色:",
+                    "list": [
+                        {
+                            "type": "style",
+                            "name": "白色",
+                            "isDefault": false,
+                            "styleId": 1,
+                            "index": 1
+                        },
+                        {
+                            "type": "style",
+                            "name": "复古擦色",
+                            "isDefault": false,
+                            "styleId": 2,
+                            "index": 2
+                        },
+                        {
+                            "type": "style",
+                            "name": "杏色",
+                            "isDefault": false,
+                            "styleId": 3,
+                            "index": 3
+                        }
+                    ],
+                    "isDefault": false
+                },
+                {
+                    "label": "尺码:",
+                    "list": [
+                        {
+                            "type": "size",
+                            "name": "34",
+                            "isDefault": false,
+                            "sizeId": 100,
+                            "index": 100
+                        },
+                        {
+                            "type": "size",
+                            "name": "35",
+                            "isDefault": false,
+                            "sizeId": 101,
+                            "index": 101
+                        },
+                        {
+                            "type": "size",
+                            "name": "36",
+                            "isDefault": false,
+                            "sizeId": 102,
+                            "index": 102
+                        },
+                        {
+                            "type": "size",
+                            "name": "37",
+                            "isDefault": false,
+                            "sizeId": 103,
+                            "index": 103
+                        },
+                        {
+                            "type": "size",
+                            "name": "38",
+                            "isDefault": false,
+                            "sizeId": 104,
+                            "index": 104
+                        },
+                        {
+                            "type": "size",
+                            "name": "39",
+                            "isDefault": false,
+                            "sizeId": 105,
+                            "index": 105
+                        },
+                        {
+                            "type": "size",
+                            "name": "40",
+                            "isDefault": false,
+                            "sizeId": 106,
+                            "index": 106
+                        }
+                    ],
+                    "isDefault": false
+                }
+            ],
+            "styleKey": "颜色",
+            "sizeKey": "尺码",
+            "priceRange": "¥158.00",
+            "defaultPrice": "¥158.00",
+            "isAbroad": false,
+            "totalStock": 68
+        },
+        "itemInfo": {
+            "desc": "【时尚/保暖/独特/个性】 重磅推荐这双鞋子！炒鸡好看又保暖！上脚很是舒适。版型很简单百搭。炒鸡显腿长~~",
+            "userId": "14fgiy6",
+            "shopId": "1170y4zo",
+            "title": "【Aila wang】贝壳头加绒小白鞋厚底松糕板鞋羊羔毛毛鞋",
+            "discountDesc": "7折",
+            "discountBgColor": "#f13e3a",
+            "lowPrice": "225.72",
+            "highPrice": "225.72",
+            "lowNowPrice": "158.00",
+            "highNowPrice": "158.00",
+            "iid": "1k5e3k6",
+            "isSelf": false,
+            "isFaved": false,
+            "imUrl": "mgjim://talk?&bid=1170y4zo&goodsId=1k5e3k6&userId=14fgiy6&shopId=1170y4zo",
+            "state": 0,
+            "topImages": [
+                "http://s11.mogucdn.com/p2/170105/133914971_10kj7ega7ag5c9d229d893gkkb78c_640x960.jpg",
+                "http://s2.mogucdn.com/p2/170105/133914971_3c7iak04l1h3g85f696eajal10ff3_1080x1620.jpg",
+                "http://s2.mogucdn.com/p2/161120/133914971_10g6ed357hl2l7385ec2f3203k3hc_640x960.jpg",
+                "http://s2.mogucdn.com/p2/161120/133914971_516kjh6k8ha39ii0l3004cbl93a9h_640x960.jpg",
+                "http://s2.mogucdn.com/p2/161120/133914971_0e8c4aahlediib2g3fgijldb67d38_640x960.jpg"
+            ],
+            "oldPrice": "¥225.72",
+            "price": "¥158.00",
+            "saleType": 0,
+            "tags": "",
+            "inActivity": false,
+            "redPacketsSwitch": false,
+            "cFav": 0,
+            "loginUserId": "16thmmy",
+            "admin": false,
+            "cids": "#682# #757# #765#",
+            "cartNum": 0,
+            "extra": {},
+            "addCartTips": true
+        },
+        "topBar": {
+            "img": "http://s2.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+            "link": "http://www.xiaodian.com/h5/download"
+        },
+        "detailInfo": {
+            "desc": "【时尚/保暖/独特/个性】 重磅推荐这双鞋子！炒鸡好看又保暖！上脚很是舒适。版型很简单百搭。炒鸡显腿长~~",
+            "detailImage": [
+                {
+                    "desc": "",
+                    "key": "穿着效果",
+                    "anchor": "model_img",
+                    "list": [
+                        "http://s2.mogucdn.com/p2/161120/133914971_2c1efe8765b55gf9kc3d1hiali39j_750x818.png",
+                        "http://s2.mogucdn.com/p2/161120/133914971_5bkd3kbf4i33lg2jb2a64683dfj93_750x727.png",
+                        "http://s2.mogucdn.com/p2/161120/133914971_48g7k2i5ed79kgaeb0jg337eb13ka_750x772.png",
+                        "http://s11.mogucdn.com/p2/161120/133914971_01fleidc624g014k0h8gkhkci8i3i_750x818.png",
+                        "http://s2.mogucdn.com/p2/161122/133914971_74g6fk8f493j4g10j96gjf6jb1eel_750x783.jpg",
+                        "http://s2.mogucdn.com/p2/161120/133914971_5kb6b4l6l6je53fiid2e53b575h51_750x779.png",
+                        "http://s2.mogucdn.com/p2/161120/133914971_2h2g29h7bk103765ga36c92lbidg9_750x900.png",
+                        "http://s11.mogucdn.com/p2/161122/133914971_7819hl0ei5g8kdfgfda8a8692gcc6_750x957.jpg"
+                    ]
+                },
+                {
+                    "desc": "",
+                    "key": "整体款式",
+                    "anchor": "baipai_img3",
+                    "list": [
+                        "http://s2.mogucdn.com/p2/161120/133914971_4098d6lf981hfjd5b1i4e7g8kbkd9_750x829.png",
+                        "http://s2.mogucdn.com/p2/161120/133914971_3hb4h3fdald0a99h75192d5b47beb_750x594.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_11a8370a980c8g0g1639hl4i956a5_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_2b8ag5i2kfkk01heffdb716763idh_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_1f12c3509j7g519gjd38i4ih40de7_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_2eikl8bcba00bb46ee67fhgehablh_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_3ljbl2cif787e2fkk86galf919h4f_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_68g46k4f1l222f657ce09dack64g8_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_6l9hh30hc6gef5hg64d32abf71f05_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_4aaacgh81dlidddiac4bbd2jdf5li_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_0ae63be6l38fb0039bbek87k9di9c_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_6ji3d9509fk3138kg68kj4420h2g5_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_50i5hlbh4decb014j8k01klbb0ie5_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_3ggdl9j6j3l97f519a8c873jbcfk4_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_02if8c89caef0bj4ga05bah2kc93k_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_7b0g61e0ej3ca2ghic3b2ljglk943_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_14hdg1f69hc0id88hg0aci1djhjh0_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_4k3kd8k65ag3k70c9bl5l8e3df0gh_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_81121jak35c16a0a26383gbhh99ii_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_67gbffhi2dh64hh2je72lhhe3hae3_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_10eli898f9jje66fi63cf7281032b_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_4blal1c38i3dg82491lc7ge15hahk_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_8aeaehe938g2307128bj0lf8f0121_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_4cgd2a4d3j8g8jg84190ie7cci72b_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_795i3le75e5g5526if4h1jaag7bad_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_7hlfje5c33i1kd0k946k3h07e70ij_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_8aaih4kkk9dd138k3ef2lbdifb074_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_6c99bl5hlgf0h6f0fh9i9gjj15092_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170105/133914971_3e1737hd1l9f3ee9f1605l8k2kgji_1080x1920.jpg"
+                    ]
+                }
+            ]
+        },
+        "columns": [
+            "全国包邮",
+            "销量 502"
+        ],
+        "promotions": {
+            "link": "mgj://shoppro?shopId=1170y4zo",
+            "alertData": {},
+            "list": [
+                "全店铺满99元减5元",
+                "全店铺满188元减10元"
+            ]
+        },
+        "itemParams": {
+            "info": {
+                "set": [
+                    {
+                        "value": "34,35,36,37,38,39,40",
+                        "key": "尺码"
+                    },
+                    {
+                        "value": "低帮",
+                        "key": "帮高"
+                    },
+                    {
+                        "value": "圆头",
+                        "key": "鞋头形状"
+                    },
+                    {
+                        "value": "绑带（系带)",
+                        "key": "流行元素"
+                    },
+                    {
+                        "value": "杏色,白色,复古擦色",
+                        "key": "颜色"
+                    },
+                    {
+                        "value": "中跟（3-5CM）",
+                        "key": "跟高"
+                    },
+                    {
+                        "value": "反毛皮",
+                        "key": "帮面材质"
+                    },
+                    {
+                        "value": "浅口（7cm以下）",
+                        "key": "开口深度"
+                    },
+                    {
+                        "value": "百搭,复古",
+                        "key": "风格"
+                    },
+                    {
+                        "value": "羊毛",
+                        "key": "内里材质"
+                    },
+                    {
+                        "value": "橡胶底",
+                        "key": "鞋底材质"
+                    },
+                    {
+                        "value": "厚底（松糕）",
+                        "key": "鞋底形状"
+                    },
+                    {
+                        "value": "擦色,反绒",
+                        "key": "鞋面特殊工艺效果"
+                    },
+                    {
+                        "value": "渐变,纯色",
+                        "key": "图案"
+                    },
+                    {
+                        "value": "绒面",
+                        "key": "鞋面材质"
+                    },
+                    {
+                        "value": "冬季",
+                        "key": "季节"
+                    },
+                    {
+                        "value": "系带",
+                        "key": "闭合方式"
+                    }
+                ],
+                "key": "产品参数",
+                "anchor": "product_info"
+            },
+            "rule": {
+                "tables": [
+                    [
+                        [
+                            "尺码",
+                            "34",
+                            "35",
+                            "36",
+                            "37"
+                        ],
+                        [
+                            "脚长",
+                            "220",
+                            "225",
+                            "230",
+                            "235"
+                        ]
+                    ],
+                    [
+                        [
+                            "尺码",
+                            "38",
+                            "39",
+                            "40"
+                        ],
+                        [
+                            "脚长",
+                            "240",
+                            "245",
+                            "250"
+                        ]
+                    ]
+                ],
+                "key": "尺码说明",
+                "anchor": "size_info",
+                "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+            }
+        },
+        "shopInfo": {
+            "score": [
+                {
+                    "name": "描述相符",
+                    "score": 4.64,
+                    "isBetter": true
+                },
+                {
+                    "name": "价格合理",
+                    "score": 4.57,
+                    "isBetter": true
+                },
+                {
+                    "name": "质量满意",
+                    "score": 4.61,
+                    "isBetter": true
+                }
+            ],
+            "services": [
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_804deld49f8i13gb2gdji12k6h9h2_60x60.png",
+                    "name": "退货补运费"
+                },
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_69l7gg2aeb5jb1k0g5l785gdhk7g0_60x60.png",
+                    "name": "7天无理由退货"
+                },
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_40a944ddkgekbdia0jalfi5jki4h2_60x60.png",
+                    "name": "劣一赔三服务"
+                },
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_8fak1807jfee78jjh49f146g09hc5_60x60.png",
+                    "name": "48小时发货"
+                },
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_4c9fi653lcljc0ig512il61jh3ljl_60x60.png",
+                    "name": "全国包邮"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "靴子",
+                    "link": "http://shop.mogujie.com/1170y4zo/list/index?categoryId=20133393"
+                },
+                {
+                    "name": "休闲鞋",
+                    "link": "http://shop.mogujie.com/1170y4zo/list/index?categoryId=20133395"
+                },
+                {
+                    "name": "春季上新",
+                    "link": "http://shop.mogujie.com/1170y4zo/list/index?categoryId=20164030"
+                }
+            ],
+            "cFans": 6276,
+            "cSells": 9587,
+            "allGoodsUrl": "http://m.mogujie.com/v8/meili/shopSearch?shopid=1170y4zo",
+            "shopUrl": "http://m.mogujie.com/v8/meili/shop?shopid=1170y4zo",
+            "isMarked": false,
+            "cGoods": 76,
+            "userId": "14fgiy6",
+            "shopLogo": "http://s2.mogucdn.com/p2/161010/upload_7ke4k1a188c0ieeek6h5fb068ga22_320x320.png",
+            "name": "AILAWANG店",
+            "shopId": "1170y4zo",
+            "tag": "http://s2.mogucdn.com/p1/170103/idid_ie4wkmrrhbrgcojtmqzdambqgqyde_56x36.png",
+            "type": 1,
+            "level": 2
+        },
+        "listBanner": {
+            "downloadBanner": {
+                "bgImg": "http://s8.mogucdn.com/p1/160709/t0_ie4dsndgmjrtgntbhezdambqgiyde_750x109.jpg",
+                "link": "https://www.mogujie.com/mage/app/tuiguang?package=MAMtxdetai01.apk&pkgname=com.mogujie&ckey=CK1297357065612",
+                "acm": "3.mce.1_10_19sa8.5694.0.xZMfCqcGookG5.m_228252"
+            }
+        },
+        "rate": {
+            "list": [
+                {
+                    "user": {
+                        "uid": "",
+                        "uname": "漠***惜",
+                        "avatar": "http://s2.mogucdn.com/p1/160105/idid_ifrtcnbzgbswgntfguzdambqhayde_160x160.jpg",
+                        "profileUrl": "",
+                        "tagIndex": ""
+                    },
+                    "images": [
+                        "http://s2.mogucdn.com/p2/170111/76180996_732c171g7eil1a6cl1aa9431b37ag_300x529.jpg",
+                        "http://s2.mogucdn.com/p2/170111/76180996_3ib5g0c9ia57hieidji59e9hdh9d1_212x160.jpg",
+                        "http://s11.mogucdn.com/p2/170111/76180996_373g02hgkj8lkg1ah967j833ie8i7_160x284.jpg"
+                    ],
+                    "rateId": "1s9xb6i",
+                    "content": "大家千万不要被骗了，首先我收到的鞋左脚是歪的，后来寄回去一直不给处理还是我使用了维权才回了我，说已经换货发出去了，我本来都不打算要的了，寄到学校我一看，这次连右脚都是不稳的，因为考试我也懒得再退，我就去要换货的运费，要了好几天才回复我，这客服态度简直了，大家自己判断吧！",
+                    "created": 1484092224,
+                    "isAnonymous": 1,
+                    "style": "颜色:杏色 尺码:38 ",
+                    "isEmpty": 0,
+                    "level": "",
+                    "canExplain": false
+                },
+                {
+                    "user": {
+                        "uid": "",
+                        "uname": "w***9",
+                        "avatar": "http://s2.mogucdn.com/p1/160105/idid_ifrwenbygrsggntfguzdambqhayde_160x160.jpg",
+                        "profileUrl": "",
+                        "tagIndex": ""
+                    },
+                    "images": [
+                        "http://s2.mogucdn.com/p2/170101/1462031557_0khbb975605gekg9f1e63ei3a156d_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170101/1462031557_330g3f2fl8b195ld4jh95ac7hbbje_1080x1920.jpg",
+                        "http://s2.mogucdn.com/p2/170101/1462031557_7l66e775fjd0949dbc3303ba2ec5k_1080x1920.jpg"
+                    ],
+                    "rateId": "1s3o2hq",
+                    "content": "东西还行吧，胶水外露了，看上去脏脏的没有复古擦色的感觉，我是12.11号买的让我很气愤的是店家到20号才发货才发货啊！！次次催他发货要么不回我要么回我七天内发货，态度也不好，发他很多天让他帮我催催，开始还理我的，到后来根本不理我了，二十多号才收到货 ，别人也是在这家店买，一样拍下去的时间为什么就我到20号发货？？就因为我说你们服务态度差吗？这家的服务态度实在不敢恭维！催了四五天",
+                    "created": 1483227852,
+                    "isAnonymous": 0,
+                    "style": "颜色:复古擦色 尺码:40 ",
+                    "isEmpty": 0,
+                    "level": "",
+                    "canExplain": false
+                }
+            ],
+            "cRate": 91,
+            "rateTags": [
+                {
+                    "emotion": "positive",
+                    "property": "质量",
+                    "value": "质量很好",
+                    "num": 4
+                }
+            ]
+        },
+        "itemTags": [
+            {
+                "icon": "http://s2.mogucdn.com/p1/160331/upload_ie4dcyjqgyytcm3bg4zdambqgiyde_30x31.png",
+                "name": "蘑菇良品",
+                "content": "蘑菇良品商品来自品质商家，购买此商品因质量问题、描述不符等原因发起维权，且维权成立，您将得到3倍赔偿。"
+            }
+        ],
+        "isLogin": true,
+        "esi": "<esi:try><esi:attempt><esi:include src='http://m.mogujie.com/detail/mgj/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>"
+    }
+}
