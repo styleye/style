@@ -1,0 +1,187 @@
+#tab,#good_products{
+	display: none;
+}
+img {
+    border: none;
+    vertical-align: middle;
+}
+i,em{
+	font-style: normal;
+}
+
+#women_wrap{
+	background: #fff;
+}
+
+/*顶栏图片*/
+.women_topPic{
+	width: 100%;
+}
+.women_topPic img{
+	width: 100%;
+}
+/*热卖疯抢*/
+.women_hotSale{
+	width: 100%;
+	margin: 0 auto;
+    position: relative;
+    background-color: #fff;
+    margin-bottom: 0.2rem!important;
+    overflow: hidden;
+    padding-top: 0.3rem;
+}
+
+.women_key_title {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATkAAAAKAgMAAACyFsHVAAAADFBMVEVMaXEzMzMzMzP///8xqFqyAAAAAnRSTlMAtlSR24EAAAABYktHRAMRDEzyAAAAQElEQVQoz2NgoDkQIVZhAHHKMok0jnEJccpWORBnHttK4pStmkCceVJYLV6FCkg1TwtVewPt/Uvt+KB6eqEIAACpih6NjokEAgAAAABJRU5ErkJggg==) no-repeat center center;
+    background-size: 41% auto;
+    color: #333;
+    font-size: 0.3rem;
+    height: 0.4rem;
+    line-height: 0.4rem;
+    text-align: center;
+    margin: 0 0 0.2rem;
+}
+
+.women_keys-list {
+    width: 100%;
+    padding: 0 0 0.2rem;
+}
+.women_keys-list .women_keys-item {
+    float: left;
+    width: 25%;
+    overflow: hidden;
+    margin-bottom: 0.2rem;
+}
+.women_keys-list .women_keys-item>a{
+	display: block;
+	text-align: center;
+}
+.women_keys-list .women_keys-item img {
+    height: 1.2rem;
+    width: 1.2rem;
+    margin: 0 auto;
+}
+.women_keys-list .women_keys-item .women_title {
+    height: 0.37rem;
+    line-height: 0.37rem;
+    font-size: 0.26rem;
+    color: #333;
+    text-align: center;
+    width: 90%;
+    margin: 0.1rem auto 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+
+/*详情介绍列表*/
+.women_detail_title_wrap {
+    border-bottom: 1px solid #ececec;
+    height: 0.95rem;
+    width: 100%;
+}
+.women_detail_title {
+    width: 100%;
+    height: 1.2rem;
+    overflow-x: scroll;
+}
+.women_detail_title>ul{
+	white-space:nowrap; 
+}
+.women_detail_title>ul>li{
+	display:inline-block;
+	width: 2.5rem;
+	height: 1.2rem;
+    line-height: 0.85rem;
+    text-align: center;
+    font-size: 0.32rem;
+    color: #666;
+}
+.women_detail_title>ul>li>a{
+	display: block;
+}
+.women_detail_title>ul>li span{
+    display: inline-block;
+	width: 90%;
+    height: 0.65rem;
+    line-height: 0.65rem;
+    margin: 0.1rem auto 0;
+}
+
+.women_detail_title>ul>li span.women_active{
+	color: #FF5777;
+    border-bottom: 1px solid #FF5777;
+    height: 0.8rem;
+}
+
+
+/*商品详情*/
+.women_goods_wall_wrap{
+	width: 100%;
+}
+.women_goods_wall_wrap .women_wall_column{
+	width: 50%;
+}
+.women_goods_wall_wrap .women_fl{
+	float: left;
+}
+.women_wall_column>ul>li{
+    position: relative;
+    color: #bebebe;
+    border: 1px #ededed solid;
+    width: 96%;
+    background: #fff;
+    margin: 0 0 2% 2%;
+}
+.women_imghref {
+    height: auto;
+    width: 100%;
+    display: block;
+    background: #fff;
+    padding-bottom: 3px;
+}
+ .women_imghref img {
+    width: 100%;
+    height: auto;
+}
+.women_title_word{
+    width: 96%;
+    padding: 0 2%;
+    height: auto;
+    min-height: 20px;
+    max-height: 40px;
+    line-height: 20px;
+    white-space: nowrap;
+    word-break: keep-all;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 0.24rem;
+}
+.women_priceattention {
+    box-sizing: content-box;
+    width: 96%;
+    height: 20px;
+    padding: 0 2%;
+    line-height: 20px;
+    font-size: 0.24rem;
+    color: #ee4566;
+    display: block;
+}
+.women_priceattention .women_price {
+    float: left;
+    display: inline-block;
+}
+.women_priceattention .women_cfav,.women_priceattention .women_pic{
+	float: right;
+	display: inline-block;
+	color: #727272;
+    text-align: right;
+}
+.women_priceattention .women_pic{
+	width: 10px;
+	height: 10px;
+	background: url(http://s6.mogucdn.com/pic/140731/1aq06z_ieydamjvgq2wkmrwmiytambqgiyde_24x21.jpg_100x9999.v1c7E.70.webp) no-repeat center center;
+	background-size: 100% 100%;
+    margin: 4px 2px 0 0;
+}

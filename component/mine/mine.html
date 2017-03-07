@@ -1,18 +1,88 @@
 <div id="mine_wrap">
+	<!--头部-->
 	<div class="head_box">
 		<div class="logo"><img src="http://s2.mogucdn.com/new1/v1/bdefaultavatar/02.jpg_170x170.jpg"/></div>
 		<div class="address">我的收货地址</div>
 	</div>
+	<!--我的订单-->
 	<div class="my_order">
 		<div>
 			<div class="pic"><img src="https://s10.mogucdn.com/p1/160727/upload_ie4wenzume4tsmjqmezdambqgqyde_56x56.png"/></div>
 			<div class="title">我的订单</div>
 		</div>
 		<ul class="part_bottom">
-			<li>待付款</li>
-			<li>待收货</li>
-			<li>待评价</li>
-			<li>售后</li>
+			<li>
+				<div class="tips-icon"><img src="https://s10.mogucdn.com/p1/160829/idid_ifqwcmddgrswkzdbmezdambqgyyde_38x33.png"></div>
+				<p>待付款</p>
+			</li>
+			<li>
+				<div class="tips-icon"> <img src="https://s10.mogucdn.com/p1/160829/idid_ie4dcoddmnswkzdbmezdambqgiyde_38x36.png"></div>
+				<p>待收货</p>
+			</li>
+			<li>
+				<div class="tips-icon"> <img src="https://s10.mogucdn.com/p1/160830/idid_ie4gimztheygcmdcmezdambqgiyde_38x36.png"></div>
+				<p>待评价</p>
+			</li>
+			<li>
+				<div class="tips-icon"> <img src="https://s10.mogucdn.com/p1/160829/idid_ie3wezbvhbtgkzdbmezdambqgayde_38x35.png">
+				</div>
+				<p>售后</p>
+			</li>
 		</ul>
 	</div>
+	<!--下载APP-->
+	<div class="my_dowload"><img src="https://s10.mogucdn.com/p2/170217/79944927_03dfe3a4b2fg9kd5849093d56ib14_750x130.png" class="download-image"/></div>
+	<!--列表-->
+	<div class="my_list">
+		<ul>
+			<li>
+				<a href="" ui-sref="mine.shopcar">
+				<div class="pic"><img src="//s10.mogucdn.com/p2/161130/159_0ihj4c5a23kabh84ka8dfhl552dla_56x56.png"></div>
+				<div class="title">我的购物车</div>
+				</a>
+			</li>
+			<li>
+				<a>
+				<div class="pic"><img src="//s10.mogucdn.com/p2/160822/159_00ijba9e46e13970ec7kakll8a06a_56x56.png"></div>
+				<div class="title">我的优惠券</div>
+				</a>
+			</li>
+			<li>
+				<a>
+				<div class="pic"><img src="//s10.mogucdn.com/p1/160727/upload_ifqtsndeg43gkmrqmezdambqgyyde_56x56.png"></div>
+				<div class="title">我收藏的商品</div>
+				</a>
+			</li>
+			<li>
+				<a>
+				<div class="pic"><img src="//s10.mogucdn.com/p1/160727/upload_ie4wmy3gmq3wkmrqmezdambqgqyde_56x56.png"></div>
+				<div class="title">我收藏的店铺</div>
+				</a>
+			</li>
+			<li class="margin_top">
+				<a>
+				<div class="pic"><img src="//s10.mogucdn.com/p1/160727/upload_ie4tgm3ege4wkmrqmezdambqgqyde_56x56.png"></div>
+				<div class="title">消息通知</div>
+				</a>
+			</li>
+			<li>
+				<a>
+				<div class="pic"><img src="//s10.mogucdn.com/p1/160307/idid_ifrtqmdfgztggnzsg4zdambqhayde_84x84.png"></div>
+				<div class="title">客服</div>
+				</a>
+			</li>
+			<li>
+				<a>
+				<div class="pic"><img src="//s10.mogucdn.com/p1/160727/upload_ifrdonbugezgkmrqmezdambqmeyde_56x56.png"></div>
+				<div class="title">意见反馈</div>
+				</a>
+			</li>
+		</ul>
+	</div>
+	
+	<!--退出登录-->
+	<div class="out_login">
+		<a href="">退出登录</a>
+	</div>
 </div>
+<div ui-view></div>

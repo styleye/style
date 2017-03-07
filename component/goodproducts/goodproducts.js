@@ -57,29 +57,29 @@ angular.module("goodproductsModule",['ui.router'])
 }])
 
 //计时器
-.service('leftTimer',['$interval',function($interval){
+.service('leftTimer',['$timeout','$interval',function($timeout,$interval){
 	this.leftTimer=function(){
-		$interval(function(){
-			function leftTimer(year,month,day,hour,minute,second){ 
-				 var leftTime = (new Date(year,month-1,day,hour,minute,second)) - (new Date()); //计算剩余的毫秒数 
-				 var days = parseInt(leftTime / 1000 / 60 / 60 / 24); //计算剩余的天数 
-				 var hours = parseInt(leftTime / 1000 / 60 / 60 % 24); //计算剩余的小时 
-				 var minutes = parseInt(leftTime / 1000 / 60 % 60);//计算剩余的分钟 
-				 var seconds = parseInt(leftTime / 1000 % 60);//计算剩余的秒数 
-				 days = checkTime(days); 
-				 hours = checkTime(hours); 
-				 minutes = checkTime(minutes); 
-				 seconds = checkTime(seconds); 
+		$timeout(function(){
+			function leftTimer(){ 
+				var nowDate=new Date();
+				var year=nowDate.getFullYear();
+				var month=nowDate.getMonth()+1;
+				var day=nowDate.getDate();
+				var hour=nowDate.getHours()+1;
+				var leftTime = (new Date(year,month-1,day,hour,00,00)) - (new Date()); //计算剩余的毫秒数 
+				var days = parseInt(leftTime / 1000 / 60 / 60 / 24); //计算剩余的天数 
+				var hours = parseInt(leftTime / 1000 / 60 / 60 % 24); //计算剩余的小时 
+				var minutes = parseInt(leftTime / 1000 / 60 % 60);//计算剩余的分钟 
+				var seconds = parseInt(leftTime / 1000 % 60);//计算剩余的秒数 
+				days = checkTime(days); 
+				hours = checkTime(hours); 
+				minutes = checkTime(minutes); 
+				seconds = checkTime(seconds); 
 					$(".hr").html(hours);
 					$(".min").html(minutes);
 					$(".sec").html(seconds);
-				} 
-			var nowDate=new Date();
-			var setY=nowDate.getFullYear();
-			var setM=nowDate.getMonth();
-			var setD=nowDate.getDate();
-			var setH=nowDate.getHours();
-			setInterval(leftTimer(setY,setM+1,setD,setH+1,00,00),1000); 
+			} 
+			$interval(leftTimer,1000); 
 			function checkTime(i){
 				//将0~9的数字前加上0,如1在页面显示为01
 				if(i<10){
@@ -91,7 +91,7 @@ angular.module("goodproductsModule",['ui.router'])
 	}
 }])
 
-.controller('goodproductsCtrl',['$scope','goodproductsData','swipe','leftTimer',function($scope,goodproductsData,swipe,leftTimer){
+.controller('goodproductsCtrl',['$scope','goodproductsData','swipe','leftTimer','$http',function($scope,goodproductsData,swipe,leftTimer,$http){
 	goodproductsData.get().success(function(res){
 		$scope.obj = res.data;
 		//轮播图数据
@@ -102,7 +102,7 @@ angular.module("goodproductsModule",['ui.router'])
 		$scope.limitedData=res.data[8927].list;
 		
 		//限时抢购倒计时
-//		leftTimer.leftTimer();
+		leftTimer.leftTimer();
 		//蘑菇优选数据
 		$scope.good_introduceData=res.data[7286].list;
 
@@ -113,17 +113,28 @@ angular.module("goodproductsModule",['ui.router'])
 	
 	
 	//	良品精选数据_part1
-	goodproductsData.getpart_1().success(function(res){
+	$http.get("http://list.mogujie.com/search?cKey=h5-quality&fcid=&pid=7626&searchTag=&sort=pop&page=1&ratio=3%3A4&_version=61&cpc_offset=0&_=1488351235797")
+		  .success(function (res){
 		$scope.part_1=res.result.wall.docs;
 //		console.log($scope.part_1);
-//		console.log($scope.part_1[0].leftbottom_taglist[0].bgColor);
 	});
 	
-	//	良品精选数据_part2
-	goodproductsData.getpart_2().success(function(res){
-		$scope.part_2=res.result.wall.docs;
-//		console.log($scope.part_2);
-	});
+		var goodnum=2;
+	$scope.good_Scroll=function(){
+		$http.get("http://list.mogujie.com/search?cKey=h5-quality&fcid=&pid=7626&searchTag=&sort=pop&page="+goodnum+"&ratio=3%3A4&_version=61&cpc_offset=0&_=1488351235797")
+		  .success(function (res) {
+	  		$scope.goodUrldatas=res.result.wall.docs;
+//			console.log($scope.goodUrldatas);
+			for(var temp in $scope.goodUrldatas){
+				$scope.part_1.push($scope.goodUrldatas[temp]);
+			}
+		  });
+		if(goodnum==9){
+			$stopScollFlag=true;
+		}
+		goodnum++;
+	}
+		
 	
 	
 	

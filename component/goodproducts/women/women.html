@@ -1,0 +1,78 @@
+<div id="women_wrap">
+	<!--顶栏图片-->
+	<div class="women_topPic">
+		<a href="{{topPicData.list[0].link}}">
+			<img src="{{topPicData.list[0].image}}"/>
+		</a>
+	</div>
+	
+	<!--热卖疯抢-->
+	<div class="women_hotSale">
+		<div class="women_key_title">热卖疯抢</div>
+		<div class="women_hotSaleCate">
+			<ul class="women_keys-list clear_f">
+				<li class="women_keys-item" ng-repeat="obj in hotSaleData">
+					<a href="{{obj.link}}">
+						<img src="{{obj.image}}" alt="" />
+						<p class="women_title">{{obj.title}}</p>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	
+	
+	<!--详情介绍列表-->
+	<div class="women_productDetail">
+		<div class="women_detail_title_wrap">
+			<div class="women_detail_title">
+				<ul>
+					<li><a href=""><span class="women_active">毛衣外套</span></a></li>
+					<li><a href=""><span>毛衣</span></a></li>
+					<li><a href=""><span>时尚套装</span></a></li>
+					<li><a href=""><span>风衣</span></a></li>
+					<li><a href=""><span>针织衫</span></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	
+	<!--商品详情-->
+	<div class="women_goods_wall_wrap">
+		<!--左侧-->
+		<div class="women_wall_column women_fl clear_f">
+			<ul infinite-scroll="womenScroll()" infinite-scroll-distance="2" infinite-scroll-disabled="stopScollFlag">
+				<li ng-repeat="(i,obj) in detailData_1" ng-if="i%2==0">
+					<a href="{{obj.link}}" class="women_imghref">
+						<img src="{{obj.img.img}}"/>
+						<p class="women_title_word">{{obj.title}}</p>
+						<div class="women_priceattention">
+							<span class="women_price">￥{{obj.price}}</span>
+							<em class="women_cfav">{{obj.cfav}}</em>
+							<i class="women_pic"></i>
+						</div>
+					</a>
+				</li>
+			</ul>
+		</div>
+		
+		<!--右侧-->
+		<div class="women_wall_column women_fl clear_f">
+			<ul>
+				<li ng-repeat="(i,obj) in detailData_1" ng-if="i%2==1">
+					<a href="{{obj.link}}" class="women_imghref">
+						<img src="{{obj.img.img}}"/>
+						<p class="women_title_word">{{obj.title}}</p>
+						<div class="women_priceattention">
+							<span class="women_price">￥{{obj.price}}</span>
+							<em class="women_cfav">{{obj.cfav}}</em>
+							<i class="women_pic"></i>
+						</div>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	
+	
+</div>

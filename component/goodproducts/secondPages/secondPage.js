@@ -157,7 +157,7 @@ angular.module('secondModule',['ui.router'])
 		if($(this).index()==0){
 			$(document).scrollTop(1730);
 		}else if($(this).index()==1){
-			$(document).scrollTop(h1+1732);
+			$(document).scrollTop(h1+1731);
 //			$(document).scrollTop(20705);	
 		}else{
 			$(document).scrollTop(h1+h2+1732);
