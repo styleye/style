@@ -15,17 +15,11 @@ angular.module("FenzhiModule",['ui.router'])
 		return $http.get('component/home/fenzhi/josn/lunbo.json');
 	}
 }])
-.service('fenzhitData',['$http',function($http){
-	this.get=function(){
-		return $http.get('component/home/fenzhi/josn/two.json');
-	}
-}])
-.service('swipe_fz',['$timeout',function($timeout){
+.service('swiper2',['$timeout',function($timeout){
 	
-	this.swiperr=function(){
-		console.log(111)
+	this.swiper11=function(){
 		$timeout(function(){
-			 mySwiper = new Swiper ('.fz_swiper-container', {
+			 mySwiper = new Swiper ('.swiper-container', {
 			    loop: true,
 			    autoplay:1000,
 			    autoplayDisableOnInteraction : false,
@@ -36,16 +30,13 @@ angular.module("FenzhiModule",['ui.router'])
 	}
 }])
 
-.controller('FenzhiCtrl',['$scope','fenzhiData','fenzhitData','swipe_fz',function($scope,fenzhiData,fenzhitData,$http,swipe_fz){
+.controller('FenzhiCtrl',['$scope','fenzhiData','swiper2',function($scope,fenzhiData,swiper2){
 	fenzhiData.get().success(function(res){
 		$scope.naveearr=res.data[6877].list;
 		$scope.navetarr=res.data[23163].list;
 		$scope.navharr=res.data[6876].list;
+		swiper2.swiper11();
 	})
-	fenzhitData.get().success(function(res){
-		console.log(res.result.wall)
-	})
-	swipe_fz.swiperr();
 	
 	
 }])

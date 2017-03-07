@@ -1,5 +1,7 @@
 <div id="locearr">
 	<div ng-repeat="obj in locearr" class="locearr"  ng-if="obj.img">
 		<img src="{{obj.img}}" alt="" />
+		<p><span ng-if="obj.leftbottom_taglist[0].content" class="locearrspan">{{obj.leftbottom_taglist[0].content}}</span><span ng-repeat="x in obj.props">{{x}}</span></p>
+		<div><span>￥{{obj.price}}</span><span>{{obj.sale}}</span></div>
 	</div>
 </div>
