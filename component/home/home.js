@@ -44,10 +44,34 @@ angular.module("homeModule",['ui.router'])
 		$scope.rowarr=res.data[4746].list;
 		
 	})
+	$http.get("http://list.mogujie.com/search?cKey=h5-shopping&fcid=&pid=9750&searchTag=&sort=pop&page=1&ratio=3%3A4&_version=61&cpc_offset=0")
+		  .success(function (res) {
+		  	$scope.tempone=res.result.wall.docs;
+		  });
+	var count=2;
+	$scope.homeScroll=function(){
+		$http.get("http://list.mogujie.com/search?cKey=h5-shopping&fcid=&pid=9750&searchTag=&sort=pop&page="+count+"&ratio=3%3A4&_version=61&cpc_offset=0")
+		  .success(function (res) {
+	  		$scope.homeUrldatas=res.result.wall.docs;
+//			console.log($scope.Urldatas);
+			for(var temp in $scope.homeUrldatas){
+				$scope.tempone.push($scope.homeUrldatas[temp]);
+			}
+		  });
+		if(count==7){
+			$stopScollFlag=true;
+		}
+		count++;
+	}
 	
-$(window).scroll(function(){
+	
+	
+/*	
+setInterval(function(){
 	runFun();
-})
+},100)
+	*/
+/*
 	function runFun(){
 		var runTop=$($).scrollTop();
 		var height=$($).outerHeight();
@@ -105,7 +129,7 @@ $(window).scroll(function(){
 		num++;
 		}
 	}
-		}
+		}*/
 	
 	swipe.swipe();
 }])

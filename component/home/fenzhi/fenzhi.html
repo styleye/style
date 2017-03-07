@@ -1,9 +1,62 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="UTF-8">
-		<title></title>
-	</head>
-	<body>
-	</body>
-</html>
+<div id="homeFenzhi">
+<div class="home-topbar">
+	<span class="homespan">美妆时尚</span>
+	<a href="" ui-sref="home"><i class="fa fa-angle-left" aria-hidden="true" style="font-size: 0.7rem;"></i></a>
+	<a href="##" class="shop-mark fa fa-shopping-cart"></a>
+</div>
+<div id="fenlunbo">
+<div class="swiper-container">
+	<div class="swiper-wrapper">
+		<div class="swiper-slide"><img src="https://s10.mogucdn.com/p2/170303/203731209_088g4biechfillg0a08c14l2lak8c_750x250.jpg_999x999.v1c0.webp" /></div>
+		<div class="swiper-slide"><img src="https://s2.mogucdn.com/p2/170301/133546700_5kgg47gdb0ah3h43f3e72cd4k4bil_600x200.jpg_999x999.v1c0.webp" /></div>
+		<div class="swiper-slide"><img src="https://s2.mogucdn.com/p2/170303/71254756_7b6j35dj7d92h9h8g27a4lfhf9ic2_750x250.jpg_999x999.v1c0.webp" /></div>
+		<div class="swiper-slide"><img src="https://s2.mogucdn.com/p2/170306/205189055_380f8ckeif8hkhce0d32620ig64h7_750x240.jpg_999x999.v1c0.webp" /></div>
+		<div class="swiper-slide"><img src="https://s2.mogucdn.com/p2/170303/133546700_45621e2ji2547b499g98ca1d9jade_750x250.jpg_999x999.v1c0.webp" /></div>
+		
+	</div>
+	<div class="swiper-pagination"></div>
+</div>
+</div>
+
+<div id="navbox">
+	
+
+<div class="nav">
+	<div class="floor-title ">
+		<div class="floor-bg">护肤保养</div>
+	</div>
+</div>
+<div class="naveearr">
+	<a href="{{obj.divnk}}"  ng-repeat="obj in naveearr"><div class="navboxss"><img src="{{obj.image}}"/><p>{{obj.title}}</p></div></a>
+</div>
+
+<div class="nav">
+	<div class="floor-title ">
+		<div class="floor-bg">彩妆香水</div>
+	</div>
+</div>
+<div class="naveearr">
+	<a href="{{obj.divnk}}"  ng-repeat="obj in navharr"><div class="navboxss"><img src="{{obj.image}}"/><p>{{obj.title}}</p></div></a>
+</div>
+<div class="nav">
+	<div class="floor-title ">
+		<div class="floor-bg">个人护理</div>
+	</div>
+</div>
+<div class="naveearr">
+	<a href="{{obj.divnk}}"  ng-repeat="obj in navetarr"><div class="navboxss"><img src="{{obj.image}}"/><p>{{obj.title}}</p></div></a>
+</div>
+</div>
+
+<nav>
+		<div><a href="" ui-sref='home.fenzhi.loce'>精选</a></div>
+		<div class="divse">
+			<div id="divsebox">
+				
+			
+			<div>套装</div><div>保湿</div><div>美白</div><div>遮瑕</div><div>控油</div><div>收缩毛孔</div>
+			</div>
+		</div>
+</nav>
+<div ui-view></div>
+
