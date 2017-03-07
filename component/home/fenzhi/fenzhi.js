@@ -6,7 +6,7 @@ angular.module("FenzhiModule",['ui.router'])
         url: '/fenzhi',
         templateUrl: 'component/home/fenzhi/fenzhi.html',
         controller:'FenzhiCtrl',
-        css:'component/home/fenzhi/fenzhi.css'
+        css:['component/home/fenzhi/fenzhi.css','css/swipe-3.4.1.min.css']
     })
 	
 })

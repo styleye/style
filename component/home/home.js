@@ -45,9 +45,11 @@ angular.module("homeModule",['ui.router'])
 		
 	})
 	
-$(window).scroll(function(){
+setInterval(function(){
 	runFun();
-})
+},100)
+	
+
 	function runFun(){
 		var runTop=$($).scrollTop();
 		var height=$($).outerHeight();
