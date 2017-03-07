@@ -4,14 +4,14 @@
 	<div class="home-topbar">
 		<input type="text" name="" id="" value="" placeholder="简约百搭欧美大降短靴"/>
 		<a href="##" class="talk-mark fa fa-commenting-o"></a>
-		<a href="##" class="shop-mark fa fa-shopping-cart"></a>
-		<a href="##" class="search-mark fa fa-search"></a>
+		<a href="##" class="shop-mark fa fa-shopping-cart" ng-click="toCar()"></a>
+		<a href="javascript:void(0)" class="search-mark fa fa-search"></a>
 	</div>
 	<!--导航部分-->
 	<div class="category_main">
 		<aside class="category_asd">
 			<ul class="category_nav">
-				<li ng-repeat="(i,obj) in arr" ng-click="getKey(obj.maitKey,obj.image,i)" ng-class="{'active':i==index}">{{obj.title}}</li>
+				<li ng-repeat="(i,obj) in arr" ng-click="[getKey(obj.maitKey,obj.image),run($event)]" ng-class="{'active':i==index}">{{obj.title}}</li>
 			</ul>
 		</aside>
 		<section class="category_sec">

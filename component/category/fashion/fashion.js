@@ -21,19 +21,24 @@ angular.module('FashionModule',['ui.router'])
 	}
 }])
 
-.controller('FashionCtrl',['$scope','$location','$anchorScroll','fashionData','similarData',function($scope,$location,$anchorScroll,fashionData,similarData){
+.controller('FashionCtrl',['$scope','$location','$anchorScroll','$state','fashionData','similarData',function($scope,$location,$anchorScroll,$state,fashionData,similarData){
 	fashionData.get().success(function(res){
-		console.log(res.result)
+	//	console.log(res.result)
 		$scope.arr = res.result
 	})
 	similarData.get().success(function(res){
-		console.log(res.result.wall.docs)
+		//console.log(res.result.wall.docs)
 	})
 	$scope.flag = false
 	$scope.toggle = function(){
 		$scope.flag = !$scope.flag;
 	}
-	
+	//点击改变选项卡样式
+	$scope.changeStyle = function($event){
+		$($event.target).siblings().css("color","#333");
+		$($event.target).css("color","#ef4562");
+
+	}
 	
 	$scope.getLevel = function($event){
 		var price = $event.target.innerText;
@@ -42,7 +47,7 @@ angular.module('FashionModule',['ui.router'])
 		setValue(level[0],level[1])
 	}
 	//将值写入input框
-	$scope.setValue = function(min,max,sorts){
+	$scope.setValue = function(min,max){
 		$('.min_price').val(Number(min));
 		$('.max_price').val(Number(max));
 	}
@@ -59,6 +64,7 @@ angular.module('FashionModule',['ui.router'])
 	$scope.range = function(method,empty){
 		$scope.s = method;
 		$scope.f = empty;
+		
 	}
 	
 	$scope.hideFun = function(txt,key){
@@ -87,8 +93,9 @@ angular.module('FashionModule',['ui.router'])
 	})
 	//相似商品跳转
 	$scope.flg = true;
-	$scope.similarGood = function(obj){
+	$scope.similarGood = function(obj,$event){
 		console.log(obj);
+		$event.stopPropagation();
 		$('.fashion_header').hide();
 		$('.nav_fixed').hide();
 		$('#fashion_similar').css("visibility","visible");
@@ -100,4 +107,11 @@ angular.module('FashionModule',['ui.router'])
 	}
 	
 	
+	$scope.goCar = function(){
+		$state.go('mine.shopcar')
+	}
+	
+	$scope.runTo = function(){
+		$state.go('goodproducts.secondPage')
+	}
 }])

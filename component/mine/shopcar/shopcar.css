@@ -2,3 +2,14 @@
 	display: none;
 }
 
+/*头部*/
+.car_header{height: 0.9rem;width: 100%;display: flex;justify-content: space-between;border-bottom: 1px solid #c9c7c8;background-color: #fafafa;align-items: center;font-size: 0.32rem;}
+.car_header>p{width: 1.5rem;height:0.5rem;background: url(img/logo.png) no-repeat 80%;background-size: auto 100%;line-height: 0.5rem;}
+.car_header>a{width: 0.9rem;height: 100%;padding-top: 0.15rem;text-align: center;}
+
+/*没有商品时*/
+.nogood_view{width: 100%;padding-top: 50%;}
+.nogood_view>div{width: 100%;display: flex;justify-content: center;}
+.nogood_view>div>p{width: 3rem;height: 3rem;text-align:center;background-color: #ddd5d7;border-radius: 50%;color: #fff;font-size: 0.8rem;display: flex;align-items: center;justify-content: center;}
+.nogood_view>p{width: 100%;text-align: center;font-size: 0.3rem;margin: 0.3rem 0;}
+.nogood_view>div>a{display: block;text-align: center;background-color: #f24868;color: #fff;width: 2rem;height: 0.8rem;line-height: 0.8rem;border-radius: 0.1rem;font-size: 0.32rem;}

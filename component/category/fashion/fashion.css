@@ -11,7 +11,7 @@
 #fashion_tab>ul{width: 100%;display: flex;justify-content: space-around;align-items: center;height: 100%;}
 #fashion_tab>ul>li{width: 25%;text-align: center;color: #333;border-right: 1px solid #eaeaea;}
 #fashion_tab>ul>li:last-child{border: none;}
-
+#fashion_tab>ul>.active{color: #ef4562;}
 
 
 
