@@ -20,10 +20,12 @@ angular.module("FenzhiModule",['ui.router'])
 		return $http.get('component/home/fenzhi/josn/two.json');
 	}
 }])
-.service('swipe',['$timeout',function($timeout){
-	this.swipe=function(){
+.service('swipe_fz',['$timeout',function($timeout){
+	
+	this.swiperr=function(){
+		console.log(111)
 		$timeout(function(){
-			 mySwiper = new Swiper ('.swiper-container', {
+			 mySwiper = new Swiper ('.fz_swiper-container', {
 			    loop: true,
 			    autoplay:1000,
 			    autoplayDisableOnInteraction : false,
@@ -34,7 +36,7 @@ angular.module("FenzhiModule",['ui.router'])
 	}
 }])
 
-.controller('FenzhiCtrl',['$scope','fenzhiData','fenzhitData','swipe',function($scope,fenzhiData,fenzhitData,$http,swipe){
+.controller('FenzhiCtrl',['$scope','fenzhiData','fenzhitData','swipe_fz',function($scope,fenzhiData,fenzhitData,$http,swipe_fz){
 	fenzhiData.get().success(function(res){
 		$scope.naveearr=res.data[6877].list;
 		$scope.navetarr=res.data[23163].list;
@@ -43,7 +45,7 @@ angular.module("FenzhiModule",['ui.router'])
 	fenzhitData.get().success(function(res){
 		console.log(res.result.wall)
 	})
-	
+	swipe_fz.swiperr();
 	
 	
 }])

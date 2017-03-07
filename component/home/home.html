@@ -93,7 +93,7 @@
 		<div class="floor-bg">猜你喜欢</div>
 	</div>
 </div>
-<div class="run">
+<div class="run" infinite-scroll="homeScroll()" infinite-scroll-distance="2" infinite-scroll-disabled="stopScollFlag">
 	<div ng-repeat="obj in tempone">
 		<img src="{{obj.img}}" />
 		<div class="runhei">
@@ -104,7 +104,7 @@
 			<i>{{obj.cfav}}</i>
 		</p>
 	</div>
-	<div ng-repeat="obj in temptwo">
+	<!--<div ng-repeat="obj in temptwo">
 		<img src="{{obj.img}}" />
 		<div class="runhei">
 			<span ng-repeat="x in obj.props">{{x}}</span>
@@ -183,7 +183,7 @@
 			<span>￥{{obj.orgPrice}}</span>
 			<i>{{obj.cfav}}</i>
 		</p>
-	</div>
+	</div>-->
 
 </div>
 
