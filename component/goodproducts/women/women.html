@@ -43,7 +43,7 @@
 		<div class="women_wall_column women_fl clear_f">
 			<ul infinite-scroll="womenScroll()" infinite-scroll-distance="2" infinite-scroll-disabled="stopScollFlag">
 				<li ng-repeat="(i,obj) in detailData_1" ng-if="i%2==0">
-					<a href="{{obj.link}}" class="women_imghref">
+					<a ui-sref="goodproducts.secondPage" class="women_imghref"><!--href="{{obj.link}}"-->
 						<img src="{{obj.img.img}}"/>
 						<p class="women_title_word">{{obj.title}}</p>
 						<div class="women_priceattention">
@@ -60,7 +60,7 @@
 		<div class="women_wall_column women_fl clear_f">
 			<ul>
 				<li ng-repeat="(i,obj) in detailData_1" ng-if="i%2==1">
-					<a href="{{obj.link}}" class="women_imghref">
+					<a ui-sref="goodproducts.secondPage" class="women_imghref">
 						<img src="{{obj.img.img}}"/>
 						<p class="women_title_word">{{obj.title}}</p>
 						<div class="women_priceattention">

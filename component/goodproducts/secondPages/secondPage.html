@@ -4,8 +4,8 @@
 	<div class="sec_goodIntro_wrap">
 		<!--头部-->
 		<div class="sec_primary-navbar clear_f">
-			<a ui-sref="goodproducts" class="sec_back sec_icon-uniE809"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
-			<a href="/x6/cart/list?sfrom=http%3A%2F%2Fm.mogujie.com%2Fx6%2Fdetail%2F1k5e3k6%3Facm%3D3.mce.1_4_1k5e3k6.7626.15938.qtIkWqcH4CE53.p_3_1-lc_201-mf_11325_117578-idx_1-mfs_40%26ptp%3Dm1._mf1_1064_11325._b_42075f0ad5f058ad_wall_docs.2.cVa5W%26f%3Dbaidusem_4uv5iimn1v" class="sec_cart sec_icon-uniE810"></a>
+			<a href="javascript:void(history.back());" class="sec_back sec_icon-uniE809"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
+			<a ui-sref="mine.shopcar" href="" class="sec_cart sec_icon-uniE810"></a>
 		</div>
 		<!--轮播图-->
 		<div class="sec_swiper-container">
@@ -408,15 +408,15 @@
 				<div class="menus">
 					<div class="menu-item" style="zoom: 1;">
 						<p style="float: left">首页</p>
-						<a class="icon-menu" href="//m.mogujie.com/"> <i class="icon home"></i> </a>
+						<a class="icon-menu" ui-sref="home"> <i class="icon home"></i> </a>
 					</div>
 					<div class="menu-item" style="zoom: 1;">
 						<p style="float: left">购物车</p>
-						<a class="icon-menu" href="//m.mogujie.com/x6/cart/list"> <i class="icon shop-car"></i> </a>
+						<a class="icon-menu" ui-sref="mine.shopcar"> <i class="icon shop-car"></i> </a>
 					</div>
 					<div class="menu-item" style="zoom: 1;">
 						<p style="float: left">搜索</p>
-						<a class="icon-menu" href="//act.mogujie.com/cateyichi?ismobile=1"> <i class="icon search"></i> </a>
+						<a class="icon-menu" ui-sref="category"> <i class="icon search"></i> </a>
 					</div>
 				</div>
 				<div class="icon-plus-nav menu-btn J_MenuBtn" ng-click="showNav()">

@@ -17,27 +17,6 @@ angular.module("goodproductsModule",['ui.router'])
 	this.getpart_1=function(){
 		return $http.get('component/goodproducts/json/nondefective_1.json');
 	};
-	this.getpart_2=function(){
-		return $http.get('component/goodproducts/json/nondefective_2.json');
-	};
-	this.getpart_3=function(){
-		return $http.get('component/goodproducts/json/nondefective_3.json');
-	};
-	this.getpart_4=function(){
-		return $http.get('component/goodproducts/json/nondefective_4.json');
-	};
-	this.getpart_5=function(){
-		return $http.get('component/goodproducts/json/nondefective_5.json');
-	};
-	this.getpart_6=function(){
-		return $http.get('component/goodproducts/json/nondefective_6.json');
-	};
-	this.getpart_7=function(){
-		return $http.get('component/goodproducts/json/nondefective_7.json');
-	};
-	this.getpart_8=function(){
-		return $http.get('component/goodproducts/json/nondefective_8.json');
-	};
 	
 }])
 

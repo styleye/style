@@ -45,8 +45,8 @@ angular.module('womenModule',['ui.router'])
 				$scope.detailData_1.push($scope.Urldatas[temp]);
 			}
 		  });
-		if(count==28){
-			$stopScollFlag=true;
+		if(count==4){
+			$scope.stopScollFlag=true;
 		}
 		count++;
 	}
