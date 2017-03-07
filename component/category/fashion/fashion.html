@@ -59,7 +59,7 @@
 		</div>
 		<!--商品展示列表-->
 		<div id="fashion_goods_list">
-			<div class="goods_item" ng-repeat="good in arr.wall.docs | filter:f | orderBy:s" ng-click="runTo()">
+			<div class="goods_item" ng-repeat="good in arrs | filter:f | orderBy:s" ng-click="runTo()" infinite-scroll="good_Scroll()" infinite-scroll-distance="2" infinite-scroll-disabled="stopScollFlag">
 				<img src="{{good.img}}" ng-if="good.img.length>0" style="height: 4.6rem;"/>
 				<img src="{{good.show.img}}" ng-if="good.show" style="width: 100%;"/>
 				<div class="good_tips" ng-if="good.img.length>0">

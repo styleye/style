@@ -9,11 +9,11 @@ angular.module('FashionModule',['ui.router'])
 	})
 })
 
-.service('fashionData',['$http',function($http){
-	this.get = function(){
-		return $http.get('component/category/json/fashion.json')
-	}
-}])
+//.service('fashionData',['$http',function($http){
+//	this.get = function(){
+//		return $http.get(url)
+//	}
+//}])
 
 .service('similarData',['$http',function($http){
 	this.get = function(){
@@ -21,11 +21,25 @@ angular.module('FashionModule',['ui.router'])
 	}
 }])
 
-.controller('FashionCtrl',['$scope','$location','$anchorScroll','$state','fashionData','similarData',function($scope,$location,$anchorScroll,$state,fashionData,similarData){
-	fashionData.get().success(function(res){
+.controller('FashionCtrl',['$scope','$location','$anchorScroll','$state','$http','similarData',function($scope,$location,$anchorScroll,$state,$http,similarData){
+	$http.get('http://list.mogujie.com/search?f=baidusem_4uv5iimn1v&sort=pop&_mgjuuid=f985c5c0-2315-41d8-a325-87987d0bcc9c&expName=sqcate1&acm=3.mce.1_10_1a6ys.3627.0.zmryZqd923t9z.m_237766-mf_3682_33858&width=330&title=%E6%97%B6%E5%B0%9A%E5%A5%97%E8%A3%85&height=440&cKey=h5-wall-v1&page=1&userId=16tbix2&action=clothing&fcid=50243&ad=0&ptp=m1._mf1_940_3682.0.0.PS6B3&_version=61').success(function(res){
 	//	console.log(res.result)
 		$scope.arr = res.result
+		$scope.arrs = res.result.wall.docs;
 	})
+	var count = 2;
+	$scope.good_Scroll = function(){
+		$http.get("http://list.mogujie.com/search?f=baidusem_4uv5iimn1v&sort=pop&_mgjuuid=f985c5c0-2315-41d8-a325-87987d0bcc9c&expName=sqcate1&acm=3.mce.1_10_1a6ys.3627.0.zmryZqd923t9z.m_237766-mf_3682_33858&width=330&title=%E6%97%B6%E5%B0%9A%E5%A5%97%E8%A3%85&height=440&cKey=h5-wall-v1&page="+count+"&userId=16tbix2&action=clothing&fcid=50243&ad=0&ptp=m1._mf1_940_3682.0.0.PS6B3&_version=61").success(function(res){
+			$scope.goodUrldatas=res.result.wall.docs;
+			for(temp in $scope.goodUrldatas){
+				$scope.arrs.push($scope.goodUrldatas[temp]);
+			}
+			if(goodnum==9){
+			$stopScollFlag=true;
+			}
+			count++;
+		})
+	}
 	similarData.get().success(function(res){
 		//console.log(res.result.wall.docs)
 	})
